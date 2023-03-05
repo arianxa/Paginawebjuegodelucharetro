@@ -1,0 +1,48 @@
+.fondo {
+
+
+  color: white;
+  min-height: 750px !important;
+}
+
+.fotoNav {
+
+  margin-left: -1vw;
+  margin-bottom: -1vw;
+  margin-top: -0.8vw;
+
+}
+
+.textonaV {
+  font-family: 'VT323', monospace;
+  text-align: right;
+  font-size: 25px !important;
+}
+
+.colodedefoteer {
+  background-color: white;
+
+}
+
+
+.fondonavbar {
+  background-color: white;
+}
+
+.fondonavbar.scrolled {
+  background-color: darkblue;
+}
+
+.bg-light.scrolled {
+  background-color: darkblue !important;
+  transition: 500ms ease;
+}
+
+.nav {
+  transition: 500ms ease;
+  background: transparent;
+}
+
+.nav.scrolled {
+  background: #000;
+}

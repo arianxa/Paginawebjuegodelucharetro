@@ -1,0 +1,1230 @@
+.margenesUnder {
+    margin-bottom: 3rem !important;
+    margin-right: 3rem !important;
+}
+
+.DivBDFONDOUN {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+
+}
+
+.BotonUN2 {
+    background-color: #0c298c;
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    color: white;
+    width: 80%;
+    padding-left: 2vw;
+
+    padding-right: 2vw;
+    margin-bottom: 2vw;
+
+}
+
+.BotonUN {
+    background-color: #0c298c;
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    color: white;
+    width: 70%;
+    padding-left: 2vw;
+    margin-left: 6vw;
+    padding-right: 2vw;
+
+}
+
+.BotonUN:hover,
+.BotonUN2:hover {
+    background-color: #90a2dd;
+    color: black;
+    font-weight: bold;
+}
+
+/*
+responsive     width: 50vw; */
+.DivBotonUN2 {
+
+    margin-top: 3vw !important;
+
+}
+
+
+.margenesUn {
+    margin-bottom: 30rem !important;
+    margin-right: 3rem !important
+}
+
+@media screen and (max-device-width: 750px) {
+    .margenesUnder {
+        margin-bottom: 3rem !important;
+        margin-right: 3rem !important;
+        margin-left: 2.5rem !important;
+
+    }
+
+    .containerUN {
+
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+
+    }
+
+    .tablaInfinetUNDER {
+        margin-bottom: -20vw !important;
+    }
+
+    .NavbarUnder {
+        display: none !important;
+    }
+
+    .TextoTituloUN {
+        font-size: 7vw !important;
+        width: 100% !important;
+        margin-bottom: 6vw !important;
+    }
+
+    .divFOTOUN {
+        min-width: 25vw !important;
+        min-height: 29vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+
+
+    }
+
+
+    .divFOTOUN:hover {
+
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+
+
+
+    }
+
+    .FotoUB {
+        border: white !important;
+
+        min-width: 24vw !important;
+
+        min-height: 27vw !important;
+
+    }
+
+    .RowUn {
+
+        margin-left: 0.7rem !important;
+    }
+
+    .TextoPersonajeTituloUN {
+
+        font-size: 8vw !important;
+    }
+
+    .fotoNombrePJUN {
+        height: 13vw !important;
+
+    }
+
+    .specialTablaUN {
+        margin-top: -1vw !important;
+
+    }
+
+    .fondoTablaUN {
+        margin-top: -1vw !important;
+        margin-left: -10vw !important;
+        width: 90vw !important;
+    }
+
+    .puebaNombre {
+        font-size: 6vw !important;
+    }
+}
+
+.fondoTablaUN {
+    margin-top: 3rem;
+}
+
+@media screen and (device-width: 412px) and (device-height: 823px) and (-webkit-device-pixel-ratio: 3.5) and (orientation: landscape) {
+    .margenesUnder {
+        margin-bottom: 0rem !important;
+        margin-right: 0rem !important;
+    }
+
+
+    .tablaInfinetUNDER {
+        margin-bottom: -8vw !important;
+    }
+
+    .NavbarUnder {
+        display: none !important;
+    }
+
+    .TextoTituloUN {
+        font-size: 6vw !important;
+        width: 100% !important;
+        margin-bottom: 3vw !important;
+    }
+
+
+
+}
+
+
+@media screen and (max-device-width:1024px) {
+
+    .NavbarUnder {
+        display: none !important;
+    }
+
+    .passs {
+        margin-left: 4vw !important;
+    }
+}
+
+
+
+
+@media screen and (min-width:1024px) {
+
+
+
+    .passs {
+        margin-left: 4vw !important;
+    }
+
+}
+
+
+
+
+
+
+
+@media screen and (min-device-height: 1366px) and (min-device-width:1024px) {
+    .puebaNombre {
+        font-size: 2vw !important;
+    }
+
+    .NavbarUnder {
+        display: none !important;
+    }
+
+    .passs {
+        margin-left: 6vw !important;
+        ;
+    }
+
+    .AnchoUN {
+
+        margin-left: 3vw !important;
+        ;
+
+    }
+
+    .restarTOP {
+        margin-top: -3vw !important;
+    }
+
+    .UNAFU {
+
+        margin-left: -3vw !important;
+        ;
+        width: 130% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: 3vw !important;
+        width: 130% !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 100% !important;
+    }
+
+
+
+
+
+
+
+
+    /*
+
+
+
+
+
+
+    .pUN {
+        margin-left: -1rem !important;
+        width: 80vw !important;
+
+    }
+
+    .divFOTOUN {
+        min-width: 20vw !important;
+        min-height: 27vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+
+
+    }
+
+    .NombreAtaquesUN,
+    .NombreAtaquesUN2,
+    .NombreAtaquesUN4 {
+        font-size: 3vw !important;
+    }
+
+
+
+
+    .puebaNombre {
+        font-size: 6vw !important;
+    }
+
+    .TextoTituloUN {
+        font-size: 6vw !important;
+        width: 100% !important;
+        margin-bottom: 3vw !important;
+    }
+
+    .NavbarUnder {
+        display: none !important;
+    }
+
+    .FotoUB {
+        border: white !important;
+
+        min-width: 22vw !important;
+
+        min-height: 27vw !important;
+
+    }
+
+
+    .passs {
+        margin-left: 10vw !important;
+        ;
+    }
+
+
+
+    .TextoPersonajeTituloUN {
+
+        font-size: 8vw !important;
+    }
+
+    .fotoNombrePJUN {
+        height: 13vw !important;
+
+    }
+
+
+
+
+
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 93% !important;
+
+    }
+
+
+
+
+
+
+
+    .prrr {
+
+        margin-left: 3vw !important;
+        margin-right: 20vw !important;
+
+
+    }
+
+    .pruebatablas {
+        flex: 0 0 41.666667% !important;
+        max-width: 100% !important;
+
+    }
+
+    .CONTAINERINFIT {
+        margin-bottom: -7vw !important;
+
+
+    }
+
+    .UNAFU {
+        width: 186% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 243% !important;
+    }
+
+
+*/
+
+
+}
+
+
+.centrarelementoUN {
+    justify-content: center !important;
+}
+
+
+@media screen and (min-device-width:1025px) {
+    .AnchoUN {
+        margin-left: 3vw !important;
+    }
+
+    .restarTOP {
+        margin-top: -2vw !important;
+
+    }
+
+    .NombreAtaquesUN,
+    .NombreAtaquesUN2,
+    .NombreAtaquesUN4 {
+        font-size: 1vw !important;
+    }
+
+    .TituloAtaquesUN4,
+    .TituloAtaquesUN,
+    .TituloAtaquesUN2,
+    .TituloAtaquesUN3 {
+        font-size: 1.5vw !important;
+
+
+    }
+
+    .imgAtaqueUN {
+
+        height: 1vw !important
+    }
+
+
+    .divFOTOUN {
+
+        background: none;
+        margin-right: 1vw;
+
+    }
+
+
+}
+
+/* .divFOTOUN {
+        min-width: 20vw !important;
+        min-height: 27vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+
+
+    }
+
+
+
+    .FotoUB {
+        border: white !important;
+
+        min-width: 22vw !important;
+
+        min-height: 27vw !important;
+
+    }
+*/
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+    .tamañodeprueba {
+        width: 98% !important;
+    }
+
+    /*MotoG4 GalazyG5*/
+    .NombreAtaquesUN {
+        font-size: 3vw !important;
+    }
+
+    .NombreAtaquesUN2 {
+        font-size: 3vw !important;
+    }
+
+    .NombreAtaquesUN4 {
+        font-size: 3vw !important;
+    }
+
+    .prrr {
+        margin-left: 0vw !important
+    }
+
+    .margenesUnder {
+        margin-bottom: 3rem !important;
+        margin-right: 6vw !important;
+        margin-left: 2vw !important;
+
+    }
+
+
+    .UNAFU {
+        width: 81vw !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 81vw !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 12px !important;
+        width: 93% !important;
+    }
+
+
+
+    /*   
+    .fotoNombrePJUN {
+        height: 13vw !important;
+width: 92%!important;
+margin-left: -3vw;
+    }
+*/
+}
+
+/*pruebsssa*/
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
+
+    /*iphone5
+
+*/
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 93% !important;
+
+    }
+
+    .passs {
+        margin-left: -11vw;
+    }
+
+    .prrr {
+
+        margin-left: 3vw !important;
+        ;
+
+    }
+
+    .UNAFU {
+        width: 135% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 118% !important;
+    }
+
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+
+    /*iphone6/7/8 plus*/
+
+    .divFOTOUN {
+        min-width: 20vw !important;
+        min-height: 27vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+
+
+    }
+
+
+
+    .FotoUB {
+        border: white !important;
+
+        min-width: 22vw !important;
+
+        min-height: 27vw !important;
+
+    }
+
+
+
+
+    .passs {
+        margin-left: 3vw !important;
+    }
+
+    .prrr {
+
+        margin-left: -7vw !important;
+
+    }
+
+    .UNAFU {
+        width: 128% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 128% !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 93% !important;
+    }
+
+}
+
+
+
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+
+    /*iphone6/7/8*/
+
+    .passs {
+        margin-left: 6vw !important;
+        ;
+    }
+
+    .prrr {
+
+        margin-left: 1vw !important;
+        ;
+
+    }
+
+    .UNAFU {
+        margin-left: -5vw !important;
+        ;
+        width: 116% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 108% !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 93% !important;
+    }
+
+}
+
+@media screen and (max-device-width: 768px) and (min-device-height: 1024px) {
+    .restarTOP {
+        margin-top: -3vw !important;
+    }
+
+    .puebaNombre {
+        font-size: 2vw !important;
+    }
+
+    .NavbarUnder {
+        display: none !important;
+    }
+
+    .passs {
+        margin-left: 6vw !important;
+        ;
+    }
+
+    .AnchoUN {
+
+        margin-left: 1vw !important;
+        ;
+
+    }
+
+    .UNAFU {
+        margin-left: -5vw !important;
+        ;
+        width: 140% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: 4vw !important;
+        width: 140% !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 100% !important;
+    }
+
+    /*
+    
+    
+    
+    .pruebatablas {
+        flex: 0 0 41.666667% !important;
+        max-width: 100% !important;
+
+    }
+
+    
+    
+    
+    
+    @media (min-width: 768px)
+<style>
+.col-md-5 {
+    flex: 0 0 41.666667%;
+    /* max-width: 41.666667%; 
+}
+    
+    
+    
+    */
+    /*
+   
+   
+      .prrr {
+
+        margin-left: 5vw !important;
+        margin-right: 14vw !important;
+
+
+    }
+
+   
+   
+   .UNAFU {
+        width: 196% !important;
+        margin-right: 20vw !important;
+        margin-left: 2.5vw !important;
+    }
+
+    .UNAFU2 {
+        margin-left: 2vw !important;
+
+        width: 244% !important;
+    }*/
+
+
+}
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+
+    /*iphone X*/
+    .passs {
+        margin-left: 6vw !important;
+
+    }
+
+
+    .margenesUnder {
+        margin-bottom: 0rem !important;
+        margin-right: 2rem !important;
+        margin-left: 1rem !important;
+
+    }
+
+    .UNAFU {
+        width: 102% !important;
+    }
+
+    .UNAFU2 {
+        width: 110% !important;
+    }
+}
+
+
+
+
+@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
+    /*pixel2 */
+
+
+    .tamañodeprueba {
+        width: 98%;
+    }
+
+    .passs {
+        margin-left: -2vw !important;
+        ;
+    }
+
+    .prrr {
+
+        margin-left: -13vw !important;
+        ;
+
+    }
+
+    .divFOTOUN {
+        min-width: 20vw !important;
+        min-height: 27vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+
+
+    }
+
+
+
+    .FotoUB {
+        border: white !important;
+
+        min-width: 22vw !important;
+
+        min-height: 27vw !important;
+
+    }
+
+    .UNAFU {
+        width: 81vw !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 81vw !important;
+    }
+
+    .tamañodeprueba {
+        width: 98%;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 12px !important;
+        width: 93% !important;
+    }
+}
+
+@media screen and (max-device-height: 823px) and (max-device-width: 411px) {
+
+    /*Pixel plus*/
+
+    .passs {
+        margin-left: 3vw !important;
+        ;
+    }
+
+    .prrr {
+
+        margin-left: -2vw !important;
+        margin-right: -7vw !important;
+
+
+    }
+
+    .divFOTOUN {
+        min-width: 20vw !important;
+        min-height: 27vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+
+
+    }
+
+
+
+    .FotoUB {
+        border: white !important;
+
+        min-width: 22vw !important;
+
+        min-height: 27vw !important;
+
+    }
+
+    .fotoNombrePJUN {
+        height: 13vw !important;
+        width: 92% !important;
+        margin-left: -3vw;
+    }
+
+
+    .UNAFU {
+        width: 81vw !important;
+    }
+
+    .UNAFU2 {
+        margin-top: 2vw !important;
+        width: 81vw !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 12px !important;
+        width: 93% !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+/*pruebaaa*/
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0px !important;
+    margin-left: -15px;
+}
+
+.colorFondoAtaquesUN {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    color: white !important;
+    font-size: 1.5vw !important;
+    font-weight: 900 !important;
+    font-family: 'Oswald', sans-serif !important;
+
+    border: none;
+    width: 70%;
+
+}
+
+.DivBDFONDOIMAGEN {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+
+    background-image: url(http://www.aksysgames.com/undernight/wp-content/uploads/sites/20/2019/10/UNICLR_TB3a.jpg),
+        linear-gradient(#6e859c, #c0ccd8);
+}
+
+/*    background-image: url(https://cdn.hipwallpaper.com/m/24/25/QpOhy4.jpg),
+*/
+
+
+@font-face {
+    font-family: "tipoUnder" !important;
+    src: url(ms-pgothic.ttf) !important;
+
+}
+
+@font-face {
+    font-family: "purbaanabel" !important;
+    src: url(annabel\ 1.ttf) !important;
+
+}
+
+.TituloAtaquesUN {
+    font-family: " tipoUnder" !important;
+    border: 2px white solid;
+    color: white !important;
+    background-color: #4359bf;
+}
+
+.TituloAtaquesUN2 {
+    border: 2px white solid;
+    color: white !important;
+    font-family: "purbaanabel" !important;
+
+    background-color: #28ba4a;
+}
+
+.TituloAtaquesUN3 {
+    border: 2px white solid;
+    background-color: #e6005a;
+    color: white !important;
+    font-family: "purbaanabel" !important;
+
+}
+
+.TituloAtaquesUN4 {
+    border: 2px white solid;
+    background-color: #a00016;
+    color: white !important;
+    font-family: "purbaanabel" !important;
+
+}
+
+
+.celdaimgAtaqUN {
+    background-color: white;
+    border: 2px white solid;
+    margin: 3px !important;
+    -webkit-box-shadow: inset 0 0 0 2px #bfcaff;
+    -moz-box-shadow: inset 0 0 0 2px #bfcaff;
+    box-shadow: inset 0 0 0 2px #bfcaff;
+}
+
+.fondo2UN {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+    height: 6vw !important;
+}
+
+.LogoUn {
+    margin-top: -2vw !important;
+    float: right;
+    margin-right: 11vw;
+    height: 11vw !important;
+
+}
+
+.celdaimgAtaqUN2 {
+    background-color: white;
+    border: 2px white solid;
+    margin: 3px !important;
+    -webkit-box-shadow: inset 0 0 0 2px #d4e0e2;
+    -moz-box-shadow: inset 0 0 0 2px #d4e0e2;
+    box-shadow: inset 0 0 0 2px #d4e0e2;
+}
+
+.celdaimgAtaqUN4 {
+    background-color: white;
+    border: 2px white solid;
+    margin: 3px !important;
+    -webkit-box-shadow: inset 0 0 0 2px #ffe7f0;
+    -moz-box-shadow: inset 0 0 0 2px #ffe7f0;
+    box-shadow: inset 0 0 0 2px #ffe7f0;
+}
+
+
+.NombreAtaquesUN {
+
+    font-family: "tipoUnder" !important;
+    cursor: pointer;
+    background-color: #bfcaff;
+    border: 2px white solid;
+
+}
+
+.NombreAtaquesUN2 {
+    font-family: "tipoUnder" !important;
+    cursor: pointer;
+    background-color: #d4e0e2;
+    border: 2px white solid;
+}
+
+
+
+.NombreAtaquesUN4 {
+    font-family: "purbaanabel" !important;
+    cursor: pointer;
+    background-color: #ffe7f0;
+    border: 2px white solid;
+}
+
+.borderdeltexto {
+    border-top: solid blue;
+    border-bottom: solid blue;
+    border-top-width: 0.4em;
+    display: table-cell;
+}
+
+.TextoTituloUNFPRN {
+    display: table-cell;
+    color: white !important;
+    font-family: "purbaanabel" !important;
+
+    margin-top: 3vw !important;
+    ;
+    margin-left: -3vw !important;
+
+}
+
+.TextoTituloUN {
+    width: 80%;
+    text-align: center;
+    border-top: 1px white solid;
+    border-bottom: 1px white solid;
+    text-transform: uppercase;
+
+    color: white !important;
+    font-family: "purbaanabel" !important;
+    font-size: 3vw;
+    margin-top: 1.5vw;
+    margin-bottom: 1.5vw;
+
+
+}
+
+.FotoUB {
+    border-radius: 3px;
+    border: 2px white solid;
+    width: 7vw !important;
+
+    height: 8vw !important;
+    height: auto;
+    max-height: 250px;
+    width: auto;
+    max-width: 250px;
+
+}
+
+.FotoUB:hover {
+    transform: scale(1.05);
+    border: 3px solid white;
+    background: #76a4caad;
+    cursor: pointer;
+}
+
+.divFOTOUN {
+
+    padding-bottom: 1vw;
+    background: none;
+    margin-right: 1vw;
+
+}
+
+
+
+.puebaNombre {
+    font-size: 1.3vw;
+    margin-left: 0.7vw;
+    background-color: #5a7d9967;
+
+}
+
+.divTectoUnder {
+    position: absolute;
+    margin-top: -1.8vw;
+
+
+    color: white;
+
+    opacity: 0;
+    overflow: hidden;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+}
+
+.DivFotoUnder:hover .divTectoUnder {
+
+    opacity: 1;
+
+
+}
+
+/*
+    top: 80%;
+    font-size: 1vw;
+    font-weight: 800;
+    opacity: 0;
+
+
+
+
+
+
+*/
+.divFOTOUN>.puebaNombre {
+    display: none;
+
+    width: 100%;
+    top: 80%;
+    font-size: 1vw;
+    font-weight: 800;
+
+
+
+    background-color: rgba(255, 255, 255, 0.411);
+    position: absolute;
+    color: black;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "tipoUnder" !important;
+}
+
+.divFOTOUN>.puebaNombre:hover {
+    opacity: 1;
+
+    display: block;
+}
+
+.fotoNombrePJUN {
+
+    width: 100%;
+    height: 4vw;
+
+}
+
+.NombrePersonajeUN {
+    width: 100%;
+
+    position: relative;
+    display: inline-block;
+    text-align: center;
+
+
+
+}
+
+/*
+.PruebadefondoAtaquesUN {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+*/
+.TextoPersonajeTituloUN {
+    font-size: 3vw;
+    /*  font-family: arial, sans-serif;*/
+    /*font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
+
+/*
+  
+
+	content: "1P"!important;
+		
+			color: #e3231e;
+        
+            position: absolute;
+			text-align: center;
+			top: -15px;
+			left: 50%;
+			transform: translateX(-50%);
+			font-size: 36px;*/

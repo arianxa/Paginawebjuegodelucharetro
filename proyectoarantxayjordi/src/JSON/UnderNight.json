@@ -1,0 +1,2025 @@
+[
+  {
+    "Nombre": "Vatista",
+    "Descripcion": "Vatista (バティスタ) is an ancient living weapon who has been around even before the founding of the Night Blade and Licht Kreis.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-vat0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Vatista.png",
+    "FotoTier":"imagenes/UnderTier/vatista.png",
+
+    "Size": "1'40 m",
+    "Weight": "32 Kg",
+    "Personality": "Due to her origin as an Autonomic Nerve, Vatista possesses little desire beyond completing her mission. While her mission dictates that she must kill Voids and cull the In-Birth population, there are times where she will show mercy to those she is meant to kill and occasionally shows genuine emotion, normally in response to sudden events.",
+    "Combos": "https://www.youtube.com/watch?v=v7RoznZ0mss",
+    "Combos2": "https://www.youtube.com/watch?v=vUo-JZ_UfS4",
+
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Lumen Stella (AIRE OK,HOLD)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Luvel Angelus",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mikoruseo (AIRE OK,HOLD)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Si Deus Fragmentum (AIRE OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Satelus Trianglum (AIRE OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Transvoranse",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Lacteus Orbis",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Zahhishio While  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Phonon",
+    "Descripcion": "Phonon (フォノン) is an unallied In-Birth who has recently awakened to her powers. She is a third-year middle school student and an aspiring writer who admires all kinds of supernatural things.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-pho00.png",
+    "FotoTier":"imagenes/UnderTier/phonon.png",
+
+    "Foto2": "imagenes/PersonajesUnderNight/phonon.png",
+    "Size": "1'57 m",
+    "Weight": "45 Kg",
+    "Personality": "Phonon seems to be very wise-cracking and is quick to look down on other people through a harsh and demeaning front. However, she is deeply obsessed with supernatural phenomena and willingly risked her life to become an In-Birth (which are common traits of middle-school syndrome).",
+    "Combos": "https://www.youtube.com/watch?v=MiIe24y3304",
+    "Combos2": "https://www.youtube.com/watch?v=6gv9nniUx-U",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Sliding Affliction (Air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tuning Satisfaction",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Guidance Ascension",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Suppressive Restriction(AIRE OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Binding Beatitude",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Complete Servitude ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Hilda",
+    "Descripcion": "Hilda (ヒルダ) is one of the leaders and one of the founders of Amnesia. She serves as the secondary antagonist in the story.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-hil00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Hilda.png",
+    "FotoTier":"imagenes/UnderTier/hilda.png",
+
+    "Size": "1'71 m",
+    "Weight": "59 Kg",
+    "Personality": "Hilda is very pompous, arrogant, vain, ambitious, and insists that others should either serve under her or suffer the consequences and swears revenge on those who defeat her. Several characters have stated that she isn't very intelligent.",
+    "Combos": "https://www.youtube.com/watch?v=LZcptQLz2mk",
+    "Combos2": "https://www.youtube.com/watch?v=qZUw8cL4pz4",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Skewer (Air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Interference",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Condense Gloom",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Switch Attack Styles ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dismal Sign ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fallen Pain",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Revenant Pillar",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Impalement",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "In the Darkness",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Byakuya",
+    "Descripcion": "Byakuya (ビャクヤ) is an enigmatic character who wanders under the night accompanying his sister. His unnerving powers and the person he accompanies quickly earnt him a reputation.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-bya00.png",
+    "FotoTier":"imagenes/UnderTier/byakuya.png",
+
+    "Foto2": "imagenes/PersonajesUnderNight/byakuya.png",
+    "Size": "1'66 m",
+    "Weight": "50 Kg",
+    "Personality": "When it comes to Tsukuyomi and the others similar to her in appearance, Byakuya is very affectionate. He makes sure to go out of his way to ensure that everything is going well for his sister and shows willingness to put everything on the line to ensure that his sister's search for her lost friend bears fruit.",
+    "Combos": "https://www.youtube.com/watch?v=0ySpZ_fychU",
+    "Combos2": "https://www.youtube.com/watch?v=wgrjY1_imkw",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "How Shall I Cook You?",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "You're Almost Ready to Eat",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "I'll Plant It Somewhere Over Here",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Become a Part of Me",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Endless Nightmare ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Gordeau",
+    "Descripcion": "Gordeau (ゴルドー) is a former member and one of the founders of Amnesia. Nowadays, he works as a mercenary on behalf of them.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-gor0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Gordeau.png",
+    "FotoTier":"imagenes/UnderTier/gordeau.png",
+
+    "Size": "1'91 m",
+    "Weight": "80 Kg",
+    "Personality": "Gordeau has a very laid-back and carefree demeanor, rarely letting anything bother him and occasionally cracking jokes at others' expense, though even he has his limits when it comes to patience with unreasonable people.",
+    "Combos": "https://www.youtube.com/watch?v=fvAcFUdAVss",
+    "Combos2": "https://www.youtube.com/watch?v=fC_sx-rNbnQ",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Mortal Slide",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grim Reaper",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Assimilation",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Precise Aim",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mortal Glide",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Precise Aim",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Turbulence",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Soul Exodus ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Waldstein",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/UNDERRECORTADO/Story-wal0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Waldstein.png",
+    "FotoTier":"imagenes/UnderTier/waldstein.png",
+
+    "Size": "1'91 m",
+    "Weight": "80 Kg",
+    "Personality": "Gordeau has a very laid-back and carefree demeanor, rarely letting anything bother him and occasionally cracking jokes at others' expense, though even he has his limits when it comes to patience with unreasonable people.",
+    "Combos": "https://www.youtube.com/watch?v=eu1zmt0VAGw",
+    "Combos2": "https://www.youtube.com/watch?v=4lLAFUPPxAI",
+
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Eisen Nagel",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wirbelwind",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Verderben",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sturmangriff(HOLD)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Werfen Erschlagen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Katastrophe ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hyde",
+    "Descripcion": "Hyde Kido (城戸 灰都) is the lead and male protagonist of Under Night In-Birth. He is the wielder of the legendary Insulator and a second year student at an unnamed high school.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-hyd0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Hyde.png",
+    "FotoTier":"imagenes/UnderTier/hyde.png",
+
+    "Size": "1'71 m",
+    "Weight": "55 Kg",
+    "Personality": "Straight-forward and strong-willed, Hyde is an individual who gives his all to any challenge before him and doesn't back down from a fight. Although normally cool-headed, he has a cocky and reckless side to him and tends to head into extremely dangerous situations without a second thought. ",
+    "Combos": "https://www.youtube.com/watch?v=JomFblDi4Qk",
+    "Combos2": "https://www.youtube.com/watch?v=Ibygy8qzmBA",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Black Orbiter",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Red-Clad Craver",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vacant Shift - First",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shadow Scare",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Lotus",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Pale Bringer",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Raging Roarown health below 30%, and EXS200%",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Wagner",
+    "Descripcion": "Miyashiro Erika Wagner[2] (宮代・エリカ・ワーグナー) is a high-ranking member of Licht Kreis. Going by many aliases, Wagner is known throughout the organization for her attitude towards her work as well as her unmatched power.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-wag00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/wagner.png",
+    "FotoTier":"imagenes/UnderTier/wagner.png",
+
+    "Size": "1'60 m",
+    "Weight": "43 Kg",
+    "Personality": "At first glance, Wagner is aloof, snide and harsh; constantly looking down on others, prone to belittling comments and even outright threatening people at first sight. Despite that, she is actually rather complex, but she doesn't know how to fully express her emotions due to living a predominantly sheltered life",
+    "Combos": "https://www.youtube.com/watch?v=ypz4Cxu-cuE",
+    "Combos2": "https://www.youtube.com/watch?v=QgSwshpOMyI",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Kugel Blitz",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wackenroder",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sturm Brecher",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lohen Schneide",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lohe Garde",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/B.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sturm Schlag",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Hitze Falke",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Meggido L'or Celeste Grace health below 30%, and EXS200%",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Orie",
+    "Descripcion": "Orie Ballardiae[2] (オリエ・バラーディア) is an Executor of Licht Kreis who sent to investigate the high influx of In-Birth activity in Kanzakai .",
+    "Foto": "imagenes/UNDERRECORTADO/Story-ori00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Orie.png",
+    "FotoTier":"imagenes/UnderTier/orie.png",
+
+    "Size": "1'63 m",
+    "Weight": "48 Kg",
+    "Personality": "Orie is a kind-hearted young woman with a strong sense of justice. Having been rescued and trained to be able to fight Voids, Orie is extremely loyal to Licht Kreis and fights to uphold the peace and order that it brings to the world. However, although Orie does not doubt the intentions of the organization, she can't help but feel that Licht Kreis may not be as noble as she believed due to the extremely questionable actions of some of her fellow members - particularly Erika Wagner.",
+    "Combos": "https://www.youtube.com/watch?v=1I9InAObKQ0",
+    "Combos2": "https://www.youtube.com/watch?v=Bd9P91-Mf0A",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Divine Thrust",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sacred Arrow",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "To Me!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sealing Hoplon",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Luminous Embrace",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Rest in Peace ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Eltnum",
+    "Descripcion": "Eltnum (エルトナム) is a character originally known as Sion Eltnam Altasia (シオン=エルトナム=アトラシア), who first appeared in the Melty Blood franchise.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-elt00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/eltnum.png",
+    "FotoTier":"imagenes/UnderTier/eltnum.png",
+
+    "Size": "1'61 m",
+    "Weight": "48 Kg",
+    "Personality": "Eltnum is a composed person who aims for perfection. She likes throwing jokes which break the fourth wall.",
+    "Combos": "https://www.youtube.com/watch?v=pq5TadCDFt0",
+    "Combos2": "https://www.youtube.com/watch?v=uxqjLhG5z38",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Hollow Point",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Warning Shot",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Reload",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Etherlite Air",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Etherlite Ground",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Slide",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Slash Sync",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Barrel Replica",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Tri Hermes Blackland ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Merkava",
+    "Descripcion": "Merkava (メルカヴァ) is a former human whose transformation into a Void wasn't completed successfully.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-mer0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Merkava.png",
+    "FotoTier":"imagenes/UnderTier/merkava.png",
+
+    "Size": "2'10 m",
+    "Weight": "71 Kg",
+    "Personality": "However, he appears to still retain some fragments of his humanity. He genuinely thanks those who try to reason with him as if he was still human and respects those who are unafraid of him, although he dislikes those who gawk at him.",
+    "Combos": "https://www.youtube.com/watch?v=Z65iK5BNyKU",
+    "Combos2": "https://www.youtube.com/watch?v=fFQDSzK9rGk",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "I, Drill Through",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "I, Penetrate the Clear Skies",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "I, Capture and Devour",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "I, Breathe Out",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "I, Persistently Cling",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "I, Resentfully Rage",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "I, Defile ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Chaos",
+    "Descripcion": "Chaos (ケイアス) is a tactician who works for the organization Amnesia as its de-facto second in command.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-cha00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/chaos.png",
+    "FotoTier":"imagenes/UnderTier/chaos.png",
+
+    "Size": "1'74 m",
+    "Weight": "57 Kg",
+    "Personality": "Chaos appears to have a cool, calm and calculating attitude under normal circumstances. Being a general tactician, he tends to over-analyze even the simplest of situations and doesn't view himself as a strong warrior, and as such, hopes he doesn't run into any enemies that will pose a threat to him in battle.",
+    "Combos": "https://www.youtube.com/watch?v=jMDKTGVzhjU",
+    "Combos2": "https://www.youtube.com/watch?v=rW55sb3q7F0",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Slither Up(HOLD) (Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "That's Your Prey (Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Spew Out(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Repel(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Conceal(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Dissect Barrage",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Deep Revenance ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Seth",
+    "Descripcion": "Seth (セト) is an assassin of the Night Blade and the wielder of the Eliminator who is currently working for an unknown client.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-se0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Seth.png",
+    "FotoTier":"imagenes/UnderTier/seth.png",
+
+    "Size": "1'69 m",
+    "Weight": "49 Kg",
+    "Personality": "Seth is an extremely serious individual and never shows any emotion beyond stoicism. Although his cold attitude may come off as insensitive, he is greatly burdened by the mistakes of his ancestor and feels that if he fulfills Linne's wish for death, he can redeem his family name and free himself of the past. In Yuzuriha's story, her optimistic way of life despite her family's history briefly causes Seth to question his path and his individuality.",
+    "Combos": "https://www.youtube.com/watch?v=51GT6WBJAAM",
+    "Combos2": "https://www.youtube.com/watch?v=bh9JHaLyMQI",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Captive Segment (Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dual Piercing Vengeance",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Vanishing Confusion",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Piercing Penetration",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Transgressing Convict",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Nefarious Sequence",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Distant Frontier ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Nanase",
+    "Descripcion": "Nanase (ナナセ) is a middle school student who got awakened as an In-Birth by an accident. Now she chases after Hyde for vengeance.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-nan00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/nanase.png",
+    "FotoTier":"imagenes/UnderTier/nanase.png",
+
+    "Size": "1'69 m",
+    "Weight": "49 Kg",
+    "Personality": "Nanase has a tendency to jump to conclusions and doesn't consider alternate possibilities, such as the Void that bit her being the reason she's an In-Birth instead of Hyde (who in reality had saved her life) and, due to her lack of information, thinks that Hyde is also responsible for others' abilities.",
+    "Combos": "https://www.youtube.com/watch?v=OOMwoMvdQ1I",
+    "Combos2": "https://www.youtube.com/watch?v=W5Obg3aTo7o",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Chasing le Reve",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ange's Invitation",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Plumage Dancing in the Wind",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Let the Fleur Carry Your Feelings",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Conveying My Vrai Coeur",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Atmosphere of the Aether",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Lumiere of the Dawn ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Akatsuki",
+    "Descripcion": "Akatsuki (アカツキ) is a character originally from the Akatsuki Blitzkampf franchise. He is a super soldier of the Japanese Imperial Army.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-aka00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/akatsuki.png",
+    "FotoTier":"imagenes/UnderTier/akatsuki.png",
+
+    "Size": "1'76 m",
+    "Weight": "67 Kg",
+    "Personality": "Akatsuki is a calm and stoic man who prioritizes his mission above anything else. He can be serious when the time needs it and will not hold back whenever someone stands in his way, regardless of age or sex. ",
+    "Combos": "https://www.youtube.com/watch?v=2pyFySvDXC0",
+    "Combos2": "https://www.youtube.com/watch?v=AbukV9x1qsg",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Blitz Shot (Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Armor Pierce Kick (Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Conveying My Vrai Coeur",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Kamikaze",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Ouka-Kai",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Carmine",
+    "Descripcion": "Carmine (カーマイン) is an unallied In-Birth who fights just for fun. On the streets, his ability to manipulate blood, as well as his violent and almost sociopathic tendencies, quickly earned him a reputation under the alias of the Crimson Origins (原初の赤カーマイン・プライム). His real name is unknown.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-car0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Carmine.png",
+    "FotoTier":"imagenes/UnderTier/carmine.png",
+
+    "Size": "1'75 m",
+    "Weight": "61 Kg",
+    "Personality": "Carmine's most prominent trait is his thirst for violence. Cruel, sadistic, foul-mouthed, short-tempered, and prone to maniacal laughter, Carmine is very proud of his ability and doesn't hesitate to use it to inflict as much pain as possible to anyone who pisses [him] off. He will, however, not administer the killing blow if his anger is sated shown with both Hyde and Hilda in his story. ",
+    "Combos": "https://www.youtube.com/watch?v=2SP7vmj49DA",
+    "Combos2": "https://www.youtube.com/watch?v=ff3IbOrtC5c",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Spin! (Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Pulverize!(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Thrust!(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launch!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Hahahahaha! Be Devoured!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "You Shit! This is the END! ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yuzuriha",
+    "Descripcion": "Yuzuriha (ユズリハ) is a cheerful young woman whose family is connected to the Night Blade. She roams Kanzakai during the Hollow Night, keeping the peace with her heirloom blade.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-yu0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Yuzuriha.png",
+    "FotoTier":"imagenes/UnderTier/yuzuriha.png",
+
+    "Size": "1'69 m",
+    "Weight": "53 Kg",
+    "Personality": "Yuzuriha is a very cheerful and carefree, acting like anything that goes on around her doesn't seem to bother her. She affectionately refers to her sword as Ayame and her smartphone as Felia (both with the chan honorific). ",
+    "Combos": "https://www.youtube.com/watch?v=-TRvj14hOPc",
+    "Combos2": "https://www.youtube.com/watch?v=wPVPWLWad-0",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Battoujutsu Ni no Kata: Saki(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Sougetsu Ittou-ryu et cetera! Yae Ichirin(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Over Here!(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Sougetsu Ittou-Ryu Ougi: Kashou",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Zero no Kata Hi-ougi: Inochi Kurenai ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mika",
+    "Descripcion": "Mika Returna (ミカ・リターナ) is a member of Licht Kreis and a good friend of Orie Ballardiae.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-mika00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Mika.png",
+    "FotoTier":"imagenes/UnderTier/mika.png",
+
+    "Size": "1'42  m",
+    "Weight": "35 Kg",
+    "Personality": "Mika is a very spunky and cheerful young girl who greatly looks up to her friends and superiors. She is also very hyperactive and will frequently pepper her speech with sudden and, more often than not, completely unrelated remarks and comments, her most common trait being her ending her sentences in Yuu.",
+    "Combos": "https://www.youtube.com/watch?v=iCjSt8KZ1kE",
+    "Combos2": "https://www.youtube.com/watch?v=PAq60Z7COmw",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Mika's Missile(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mika's Cannon",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mika's Tornado",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mika's Galaxy",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Mika's Revolution",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Mika's Galaxy ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Linne",
+    "Descripcion": "Linne (リンネ) is the lead female protagonist of UNDER NIGHT IN-BIRTH and Kuon's younger sister. She is an immortal being who wishes to end her cycle of reincarnation.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-lnd00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/linne.png",
+    "FotoTier":"imagenes/UnderTier/linne.png",
+
+
+    "Size": "1'41  m",
+    "Weight": "34 Kg",
+    "Personality": "Linne is a stoic, aloof, and independent girl who tends to try resolving matters on her own regardless of how dangerous the situation is.",
+    "Combos": "https://www.youtube.com/watch?v=1cQLNZnWEfQ",
+    "Combos2": "https://www.youtube.com/watch?v=63VBTHoVxJs",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Sky Fangs",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Moon Gyre ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Tenacious Mist",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sky Fangs",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tenacious Mist",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Fang",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Mika's Revolution",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Mika's Galaxy ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Enkidu",
+    "Descripcion": "Gaien Enkidou (円鬼堂 凱庵)[1], or last name spelled as his code name Enkidu (エンキドゥ) is a member of Amnesia who was scouted by Hilda. An infamously skilled martial artist who prefers to use his regular abilities over EXS, Enkidu fights to discover further strength through battles.",
+    "Foto": "imagenes/UNDERRECORTADO/Story-enkidu00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/enkidu.png",
+    "FotoTier":"imagenes/UnderTier/endiku.png",
+
+
+    "Size": "2'14  m",
+    "Weight": "94 Kg",
+    "Personality": "Most of the time, Enkidu tends to keep to himself and won't speak unless he feels like it is necessary. He is a stoic, calm individual who is completely and utterly diligent when it comes to fighting, if at times stubborn. Despite that, Enkidu can be very humble and gets along well with his fellow comrades, especially Roger, Gordeau and Chaos, the latter being a good friend of his.",
+    "Combos": "https://www.youtube.com/watch?v=oxw73juHQzM",
+    "Combos2": "https://www.youtube.com/watch?v=05HmKEn0aGk",
+    "SpecialAttack": [
+      {
+        "nombreAtaque": "Three Precept Strike",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Chained Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Stance of Reversal",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gale Edge",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Thunder Stomp",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Spiral Dual Palm Strike",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Demon Seal: Abyssal Force ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ]
+  }
+]

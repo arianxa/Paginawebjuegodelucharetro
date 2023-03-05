@@ -1,0 +1,1383 @@
+[
+  {
+    "Nombre": "Ferry",
+    "Descripcion": "Nearly hidden by the swirling mists of her tiny island, Ferry offers up a lonely prayer. Please grant the lost souls of this place eternal rest. Please grant your blessings to the courageous yet weak life that departs this island for an uncertain future.",
+    "Race": "Erune",
+    "Atributo": "Light",
+    "Height": "145cm",
+    "Hobby": "Walk around the (Kirinoshima) Museum",
+    "Like": "Family, sister",
+    "Bad": "Other people, scary story",
+    "Foto": "imagenes/GRANDBLUETODO/ferry.jpg",
+    "Foto2": "imagenes/GrandBlue/ferry.png",
+    "FotoTier": "imagenes/granblueTier/ferry.png",
+    "Fondo": "imagenes/GrandBlue/charabg_ferry.jpg",
+    "Combos": "https://www.youtube.com/watch?v=52_3J4unoCY",
+    "Combos2": "https://www.youtube.com/watch?v=ZP3D4llU7Ls",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Ein Ball",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      },
+      {
+        "nombreAtaque": "Ghost Swing",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Up.png",
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Gespenst",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Beppo, Sic 'Em! ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Trombe",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Geegee, Get 'Em!",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Vergiften ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hinrichten",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+
+          "imagenes/AtaquegranBlue/left.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Aetheryte Requiescat ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Katalina",
+    "Descripcion": "Lyria's bodyguard, and a girl with a mysterious past. She has let fly a banner of rebellion against the Empire, and is by turn Lyria's loyal retainer and her loving older sister.",
+    "Race": "Human",
+    "Atributo": "Water",
+    "Height": "169 cm",
+    "Hobby": "Sword collection",
+    "Like": "Cute things, small animals",
+    "Bad": "Insects, cooking",
+    "FotoTier": "imagenes/granblueTier/katalina.png",
+
+    "Foto": "imagenes/GRANDBLUETODO/katalina.jpg",
+    "Foto2": "imagenes/GrandBlue/katalina.png",
+    "Fondo": "imagenes/GrandBlue/charabg_katalina.jpg",
+    "Combos": "https://www.youtube.com/watch?v=YzNYApGdaCk",
+    "Combos2": "https://www.youtube.com/watch?v=-upmCkqtc9M",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Light Wall",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Frozen Blade",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Emerald Sword",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Enchanted Lands",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Blades of Frost ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Aetheryte Requiescat ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Metera",
+    "Descripcion": "She flits through the sky; her erratic nature evident in her sudden swoops and frenzied whirls. Her magic bow and powers of flight could not be bottled up within her village, so she dashed off into the vast sky in search of excitement and color.",
+    "Race": "Erune",
+    "Atributo": "Wind",
+    "Height": "169 cm",
+    "Hobby": "Fashionable and looking for your favorite cocktail",
+    "Like": "Flying, stimulating, thrilling",
+    "Bad": "Bored, old customs, troublesome",
+    "FotoTier": "imagenes/granblueTier/metera.png",
+
+    "Foto": "imagenes/GRANDBLUETODO/metera.jpg",
+    "Foto2": "imagenes/GrandBlue/metera.png",
+    "Fondo": "imagenes/GrandBlue/charabg_metera.jpg",
+    "Combos": "https://www.youtube.com/watch?v=UH7s_bbCJZc",
+    "Combos2": "https://www.youtube.com/watch?v=tAcoiFFJkMY",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Zephyr",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Starry Sky (High)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Starry Sky (Low)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Great Fall",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Aetherial Seal",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Dense Caress",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Rapid Pulverize",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Lancelot",
+    "Descripcion": "Noble and strong, this youth leads the Order of the White Dragons. He risks his life to save his motherland from the crises that beset it, and his bravery and skill have earned the love of his men. His valor and his twin swords will carve a future for his homeland.",
+    "Race": "Human",
+    "Atributo": "Water",
+    "Height": "179 cm",
+    "Hobby": "Collecting weapons, studying martial arts",
+    "Like": "Training",
+    "Bad": "Clean up the room",
+    "Foto": "imagenes/GRANDBLUETODO/lancelot.jpg",
+    "Foto2": "imagenes/GrandBlue/lancelot.png",
+
+    "FotoTier": "imagenes/granblueTier/lancelot.png",
+
+    "Fondo": "imagenes/GrandBlue/charabg_lancelot.jpg",
+    "Combos": "https://www.youtube.com/watch?v=4h0c7IaA0ZE",
+    "Combos2": "https://www.youtube.com/watch?v=SX364eDtEVs",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Wirbelwind",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Wogenstrom",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Blade Impulse",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/leftonly.png",
+          "imagenes/AtaquegranBlue/leftonly.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Southern Cross",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Turbulenz",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Weiss Flugel",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Schöner Winterhügel",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gran",
+    "Descripcion": "This hero's adventure began when he received a letter from his father asking him to come to the Island of the Astrals, Estalucia. Now he travels the skies with his flying lizard-like buddy, Vyrn, and the mysterious blue-haired girl who saved his life by linking it with her own, Lyria.",
+    "Race": "Human",
+    "Atributo": "Any",
+    "Height": "179 cm",
+    "Hobby": "Captain of Grandcypherv",
+    "Like": "Unknown",
+    "Bad": "Unknown",
+    "Foto": "imagenes/GRANDBLUETODO/gran.jpg",
+    "Foto2": "imagenes/GrandBlue/gran.png",
+    "Fondo": "imagenes/GrandBlue/charabg_gran.jpg",
+    "FotoTier": "imagenes/granblueTier/gran.png",
+
+    "Combos": "https://www.youtube.com/watch?v=MnNHWM_LQco",
+    "Combos2": "https://www.youtube.com/watch?v=neko_OWbpTM",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Power Raise",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Reginleiv",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rising Sword",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Overdrive Surge",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Tempest Blade",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Catastrophe",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Djeeta",
+    "Descripcion": "Deep within the swirling flames of her magic, she sees the face of her dead mother. She vows to become stronger, but cannot force herself to cruelty to gain the strength she seeks. Her brother, hungry for revenge, has no such qualms. Standing together, they challenge a bitter enemy..",
+    "Race": "Human",
+    "Atributo": "Fire",
+    "Height": "162 cm",
+    "Hobby": "Making sweets and cooking in general",
+    "Like": "Taking care of others",
+    "Bad": "Selling goods",
+    "FotoTier": "imagenes/granblueTier/djeeta.png",
+
+    "Foto": "imagenes/GRANDBLUETODO/djeeta.jpg",
+    "Foto2": "imagenes/GrandBlue/djeeta.png",
+    "Fondo": "imagenes/GrandBlue/charabg_djeeta.jpg",
+    "Combos": "https://www.youtube.com/watch?v=PRhqD2aYk5w",
+    "Combos2": "https://www.youtube.com/watch?v=-C6iobBCEFM",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Overdrive Surge",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Reginleiv",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Reginleiv: Recidive",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/M.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Rising Sword",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vorpal Blade",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Eternal Ascendancy",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Skyfall",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zooey",
+    "Descripcion": "The world is in the midst of impending jeopardy—a disaster that only this arbitrator's true form can stop. But will her excessive empathy for the people interfere with her duty?",
+    "Race": "Primal",
+    "Atributo": "Light",
+    "Height": "157 cm",
+    "Hobby": "Learning something",
+    "Like": "Human, world, pie",
+    "Bad": "Chaos",
+    "Foto": "imagenes/GRANDBLUETODO/zooey.jpg",
+    "Foto2": "imagenes/GrandBlue/zooey.png",
+
+    "FotoTier": "imagenes/granblueTier/zooey.png",
+
+    "Fondo": "imagenes/GrandBlue/charabg_zooey.jpg",
+    "Combos": "https://www.youtube.com/watch?v=3hIDsTQVwPY",
+    "Combos2": "https://www.youtube.com/watch?v=qzrf0xXbR3s",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Convergence",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Summon Dragon (Immortal Thrust)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Summon Dragon (Heavy Breath)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/M.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Summon Dragon (Sweeping Beam)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spinning Slash",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Aerial Spinning Slash",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Thunder",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Thunder (Midair)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Gamma Ray",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Armageddon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Percival",
+    "Descripcion": " This young emperor of flame burns with a quiet intensity as he pursues the utopia he dreams of—a land without war, where the weak can find succor. He crosses the skies in search of allies who share his noble dream.",
+    "Race": "Human",
+    "Atributo": "Fire",
+    "Height": "180cm",
+    "Hobby": "Finding a talented vassal",
+    "Like": "Those who have good royal roads and hearts",
+    "Bad": "A person who has a bad morale",
+    "Foto": "imagenes/GRANDBLUETODO/percival.jpg",
+    "Foto2": "imagenes/GrandBlue/percival.png",
+    "Fondo": "imagenes/GrandBlue/charabg_percival.jpg",
+    "Combos": "https://www.youtube.com/watch?v=MehMJ3XY-lI",
+    "Combos2": "https://www.youtube.com/watch?v=eYbpXsm-X50",
+    "FotoTier": "imagenes/granblueTier/percival.png",
+
+    "UniqueAction": [
+      {
+        "nombreAtaque": "X-Seele",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Anzünden",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Platzen",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lord's Strike",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Träumerei",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Lohenwolf",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Feuerotte Krone",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Beelzebub",
+    "Descripcion": "A mysterious figure cloaked in black. He is wrapped up in Lucifer's fate and seems to have connections to Lucilius, but his true intentions are unknown.",
+    "Race": "Astral",
+    "Atributo": "Unknown",
+    "Height": "188 cm",
+    "Hobby": "Unknown",
+    "Like": "Unknown",
+    "Bad": "Unknown",
+    "Foto": "imagenes/GRANDBLUETODO/beelzebub.jpg",
+    "Foto2": "imagenes/GrandBlue/beelzebub.png",
+    "Fondo": "imagenes/GrandBlue/charabg_beelzebub.jpg",
+
+    "FotoTier": "imagenes/granblueTier/beelzebub.png",
+
+    "Combos": "https://www.youtube.com/watch?v=FgmyPWV7dZw",
+    "Combos2": "https://www.youtube.com/watch?v=17ddrlp2YNk",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Shadowstep",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Black Flies",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Langelaan Field",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Chaoscalibur",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Karma",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Unisonic",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Black Spear",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Anthem",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/left.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Chaos Legion",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Charlotta",
+    "Descripcion": "This Holy Knight has a sacred pledge in her heart, and an oversized weapon in her hand. As the leader of the highly praised Order of Holy Knights, her character is unimpeachable. Her sole worry is the fact that she is not growing.",
+    "Race": "Harvin",
+    "Atributo": "Water",
+    "Height": "90cm",
+    "Hobby": "Training",
+    "Like": "Children lunch, high places, tall people",
+    "Bad": "Steps, general items placed on shelves",
+    "Foto": "imagenes/GRANDBLUETODO/charlotta.jpg",
+    "Foto2": "imagenes/GrandBlue/charlotta.png",
+    "Fondo": "imagenes/GrandBlue/charabg_charlotta.jpg",
+    "FotoTier": "imagenes/granblueTier/charlotta.png",
+
+    "Combos": "https://www.youtube.com/watch?v=lbc_bSrpOAU",
+    "Combos2": "https://www.youtube.com/watch?v=5UWaXdMtX_Q",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "König Schild",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Holy Ladder(Hold)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Up.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shining Onslaught",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/diagonalizq.png",
+          "imagenes/AtaquegranBlue/Solorigt.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Sword of Lumiel",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Noble Strategy",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Brilliant Moon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Noble Execution",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Narmaya",
+    "Descripcion": "This well-forged blader advances toward ultimate strength with a single-minded, half-maniacal determination. But the distant ruler of the heavens has yet to pay her heed.",
+    "Race": "Draph",
+    "Atributo": "Dark",
+    "Height": "134cm",
+    "Hobby": "Training, Hinataboko",
+    "Like": "Children",
+    "Bad": "Meditation (to fall asleep)",
+    "FotoTier": "imagenes/granblueTier/narmaya.png",
+
+    "Foto": "imagenes/GRANDBLUETODO/narmaya.jpg",
+    "Foto2": "imagenes/GrandBlue/narmaya.png",
+    "Fondo": "imagenes/GrandBlue/charabg_narmaya.jpg",
+    "Combos": "https://www.youtube.com/watch?v=GoOEeqBN0Ck",
+    "Combos2": "https://www.youtube.com/watch?v=C839n2yUkKs",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Butterfly Effect",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Dawnfly: Setsuna",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dawnfly: Absolute Horizon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dawnfly: Transient",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Freeflutter: Kyokasuigetsu",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Freeflutter: Mugenkagura",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Freeflutter: Crescent Moon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Freeflutter: Crescent Moon (Midair)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "One Hundred Cloudscapes",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Butterfly Effect: Ame-no-Uzume",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zeta",
+    "Descripcion": "Zeta is a Fire-attribute character (Light-attribute in her Summer Version) that appears in Granblue Fantasy. She is voiced by Kana Hanazawa.",
+    "Race": "Human",
+    "Atributo": "Fire",
+    "Height": "159cm",
+    "Hobby": "Search for weaknesses of Bazaraga",
+    "Like": "Quarrel",
+    "Bad": "Scholar, researcher",
+    "FotoTier": "imagenes/granblueTier/zeta.png",
+
+    "Foto": "imagenes/GRANDBLUETODO/zeta.jpg",
+    "Foto2": "imagenes/GrandBlue/zeta.png",
+    "Fondo": "imagenes/GrandBlue/charabg_zeta.jpg",
+    "Combos": "https://www.youtube.com/watch?v=QmvARW7GzEk",
+    "Combos2": "https://www.youtube.com/watch?v=qkvy-pUZrOk",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Signo Drive",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Infinite Wonders",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spear of Arvess",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Solorigt.png",
+          "imagenes/AtaquegranBlue/Solorigt.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Spear of Arvess (Rise)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spear of Arvess (Fall)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Rhapsody",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Resolute Strike",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Sirius Roar",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Soriz",
+    "Descripcion": "Soriz, after half a century of work, came to believe that the only weapon to be trusted is the body. In between harsh, rock-smashing training sessions, he can see paradise extend before him.",
+    "Race": "Human",
+    "Atributo": "Earth",
+    "Height": "178cm",
+    "Hobby": "Training, reading (muffy books)",
+    "Like": "Onechan",
+    "Bad": "Crappy man",
+    "FotoTier": "imagenes/granblueTier/soriz.png",
+
+    "Foto": "imagenes/GRANDBLUETODO/soriz.jpg",
+    "Foto2": "imagenes/GrandBlue/soriz.png",
+    "Fondo": "imagenes/GrandBlue/charabg_soriz.jpg",
+    "Combos": "https://www.youtube.com/watch?v=_nSwB3fCnx4",
+    "Combos2": "https://www.youtube.com/watch?v=eq-Heumo178",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Muscle Fury",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Impact Knuckles",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Roundhouse Fang",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Punch the Stars",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rock Smash",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Leaping Tiger, Charging Dragon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Macho Ultimatum",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Way of the Fundoshi Fist( during  Macho Ultimatum)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Lowain",
+    "Descripcion": "This free-spirited youth had a run-in with fate, and her name was Katalina. With Cupid's arrow firmly lodged in his heart and his two best buddies by his side, he set off after her. The troublesome trio are certainly boisterous, but there's never a dull moment when they're around.",
+    "Race": "Erune",
+    "Atributo": "Dark",
+    "Height": "176cm",
+    "Hobby": "Part time job",
+    "Like": "Being with a friend",
+    "Bad": "Savings, savings",
+    "FotoTier": "imagenes/granblueTier/lowain.png",
+
+    "Foto": "imagenes/GRANDBLUETODO/lowain.jpg",
+    "Foto2": "imagenes/GrandBlue/lowain.png",
+    "Fondo": "imagenes/GrandBlue/charabg_lowain.jpg",
+    "Combos": "https://www.youtube.com/watch?v=0zbonwF9pR4",
+    "Combos2": "https://www.youtube.com/watch?v=qpdaLDkpOZg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Don't Mind If I Do",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Sammy & Tommy",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Come at Me, Bro!",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Awesome Sauce",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Magnificent Tool of Destruction",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Human! Pyramid! Attack!",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Try This on for Size!",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Ladiva",
+    "Descripcion": "The real strength of this burly duelist comes not from her unrivaled brawn, but from her tender heart. She's just bursting with affection for all living things, and she never stops cherishing each and every creature within arms' reach.",
+    "Race": "Draph",
+    "Atributo": "Earth",
+    "Height": "202cm",
+    "Hobby": "General housework (especially cooking), knitting, physical training",
+    "Like": "Love, pretty things in general, kids",
+    "Bad": "Dark face, vulgar guy",
+    "Foto": "imagenes/GRANDBLUETODO/ladiva.jpg",
+    "Foto2": "imagenes/GrandBlue/ladiva.png",
+    "FotoTier": "imagenes/granblueTier/ladiva.png",
+
+    "Fondo": "imagenes/GrandBlue/charabg_ladiva.jpg",
+    "Combos": "https://www.youtube.com/watch?v=RSLM0HANt3Y",
+    "Combos2": "https://www.youtube.com/watch?v=FqJtbm-YH1c",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Love Grapple",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Jewel Resort Screwdriver",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/360.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Leg Drop of Adoration",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/360.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Headbutt of Love",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Elegant Lariat",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Devoted Body Slam",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Maximum Love Bomb (Strike)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Maximum Love Bomb (Strike)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "The Shape of Love",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/360.png",
+          "imagenes/AtaquegranBlue/360.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Vaseraga",
+    "Descripcion": "He was unable to banish the shadows clinging to him, dyeing him the color of the abyss. As he struggled, he committed sin after sin until everything he cared about was taken from him. Finally forced to acknowledge his fall, he picked up a great scythe and donned ominous armor. The day of this wounded lion's redemption is still far off.",
+    "Race": "Draph",
+    "Atributo": "Dark",
+    "Height": "215cm",
+    "Hobby": "Drinking strong liquor",
+    "Like": "Physical strength test",
+    "Bad": "Remember the old days",
+    "FotoTier": "imagenes/granblueTier/vaseraga.png",
+
+    "Foto": "imagenes/GRANDBLUETODO/vaseraga.jpg",
+    "Foto2": "imagenes/GrandBlue/vaseraga.png",
+    "Fondo": "imagenes/GrandBlue/charabg_vaseraga.jpg",
+    "Combos": "https://www.youtube.com/watch?v=rcf3Lkv93g0",
+    "Combos2": "https://www.youtube.com/watch?v=gCiglGrHZc8",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Soul Forge",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Instinction",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Leg Drop of Adoration",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/Solorigt.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Savage Rampage",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Bloody Moon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Aftermath",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/360.png",
+          "imagenes/AtaquegranBlue/360.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1120 @@
+@font-face {
+    font-family: "LetraBD";
+    src: url(LeviReBrushed.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+.BotonBD {
+    background-color: rgba(58, 59, 59, 0.63);
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+
+    width: 130%;
+    padding-left: 2vw;
+    margin-left: 6vw;
+    padding-right: 2vw;
+    color: white;
+    font-family: 'Lora', serif;
+
+
+}.BotonBD2 {
+    background-color: rgba(58, 59, 59, 0.63);
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+
+    width: 90%;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    margin-bottom: 1.5vw;
+    margin-top: -1.5vw;
+
+    color: white;
+    font-family: 'Lora', serif;
+
+
+}
+
+/* mirar botn responsive*/
+.BotonBD:hover,.BotonBD2:hover {
+
+    background-color: rgba(128, 130, 131, 0.63);
+    font-weight: bold;
+
+}
+
+.DivBotonBD {
+
+    margin-top: 2vw !important;
+
+}
+
+.LetraTituloBD {
+    font-size: 5vw;
+    font-family: "LetraBD";
+
+}
+
+.fondo {
+    color: white;
+    min-height: 750px !important;
+}
+
+.tablaborderabajo {
+    border-bottom: 0px !important;
+}
+
+/*
+
+.fondoproba .rule {
+    background: linear-gradient(90deg, #1c1c1c, #fff 25%, #fff 75%, #1c1c1c);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 7px;
+    z-index: 1;
+}
+*/
+.fondoproba {
+
+
+    width: 100%;
+    max-width: 100%;
+    margin: 4% auto 0 auto;
+    padding: 30px 1%;
+    color: #fff;
+    font-size: 1.08em;
+    font-family: 'Lora', serif;
+    letter-spacing: 0.1em;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: uppercase;
+
+
+
+
+
+    position: relative;
+    padding: 20px 0;
+    background: linear-gradient(90deg, #1c3c85, #496cad 50%, #496cad 50%, #1c3c85);
+
+
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 12px 15px 100px 25px rgba(0, 0, 0, 0.75);
+}
+
+.clasegeneralelwidth {
+    width: auto !important;
+
+}
+
+.bolaDeDrac {
+    height: 2vw;
+    position: absolute;
+    top: 0%;
+    left: 48.5%;
+    transform: translate(-50%, -50%);
+}
+
+.ContainerDB {
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+
+
+}
+
+.colorFondoAtaquesBD {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    color: black !important;
+    font-size: 1.5vw !important;
+    font-weight: 900 !important;
+    font-family: 'Oswald', sans-serif !important;
+
+    border: none;
+    width: 70%;
+
+}
+
+.fondoTablaBD {
+
+    background-color: rgba(0, 0, 0, 0.233) !important;
+    /*QUITAR FONDO SHADOW*/
+    box-shadow: none !important;
+    padding-left: 1vw !important;
+    padding-right: 1vw !important;
+    border-bottom: black;
+
+
+}
+
+
+/*uhhhh*/
+
+.TituloAtaquesBD {
+    color: white;
+    font-weight: 100;
+    width: 100%;
+    font-family: "LetraBD";
+    font-size: 3vw !important;
+
+}
+
+.borderBotBD {
+    border-bottom: none !important;
+
+}
+
+.pruebalinea {
+    height: 1px;
+    background-color: black;
+    width: 80%;
+    margin-top: -0.1vw;
+
+
+}
+
+
+.nombreAtaquesBD {
+    width: 54%;
+    border: none;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+
+}
+
+.FotoFondoBD {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    height: 8vw;
+    margin-bottom: -2vw;
+
+
+}
+
+.TextoPersonajeTituloBD {
+    margin-left: -2vw;
+
+    color: white;
+    text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
+
+}
+
+.imgAtaqueBD {
+    height: 2.2vw !important;
+
+}
+
+.mifuente {
+    font-size: 2vh;
+}
+.RowBDP{
+    padding: 0!important;
+    margin: 0!important;
+
+}
+
+@media screen and (max-height: 579px) and (min-width: 1240px) {
+
+    .RowBDP{
+        padding: 0!important;
+        margin-left: -9vw!important;
+    
+    }
+    
+
+}
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+    .BotonBD {
+        width: auto;
+    }
+
+    /*MotoG4 GalazyG5*/
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw !important;
+
+    }
+
+    .mifuente {
+        font-size: 4vh !important;
+
+    }
+
+    .TamañoTablaBD {
+        width: auto !important;
+        overflow-x: auto;
+    }
+
+    .NavbarDB {
+        display: none !important;
+    }
+
+    .LetraTituloBD {
+        font-size: 12vw !important;
+    }
+
+    .ColDB1 {
+        margin-left: 6% !important;
+        padding-left: 10% !important;
+        padding-right: 8% !important;
+        margin-top: 20% !important;
+
+
+    }
+
+    .bolaDeDrac {
+        height: 8vw !important;
+    }
+
+    .fondoTabla2BD {
+        margin-right: 0 !important;
+    }
+
+    .TablaUnqiqueBD {
+        margin-bottom: -36vw !important;
+        margin-top: -10vw !important;
+
+    }
+
+    .colorFondoAtaquesBD {
+        font-size: 5vw !important;
+    }
+
+    .imgAtaqueBD {
+
+        height: 4vw !important;
+    }
+
+
+    .FotoBD,
+    .FotoBD2 {
+        border-radius: 0 !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+        width: 90px !important;
+        height: 90px !important;
+        cursor: pointer;
+        min-height: 22vw !important;
+
+    }
+
+    .ROWdb {
+
+        margin-left: 1rem !important;
+    }
+
+    .ContainerDB {
+
+        margin-left: -0.2rem !important;
+    }
+}
+
+/*pruebsssa*/
+
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+    .BotonBD {
+        width: auto;
+    }
+
+    /*iphone6/7/8 plus */
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw !important;
+
+    }
+
+    .mifuente {
+        font-size: 4vh !important;
+
+    }
+
+    .TamañoTablaBD {
+        width: auto !important;
+        overflow-x: auto !important;
+    }
+
+    .NavbarDB {
+        display: none !important;
+    }
+
+    .LetraTituloBD {
+        font-size: 12vw !important;
+    }
+
+    .ColDB1 {
+        margin-left: 6% !important;
+        padding-left: 10% !important;
+        padding-right: 8% !important;
+        margin-top: 20% !important;
+
+
+    }
+
+    .bolaDeDrac {
+        height: 8vw !important;
+    }
+
+    .fondoTabla2BD {
+        margin-right: 0 !important;
+    }
+
+    .TablaUnqiqueBD {
+        margin-bottom: -36vw !important;
+        margin-top: -10vw !important;
+
+    }
+
+    .colorFondoAtaquesBD {
+        font-size: 5vw !important;
+    }
+
+    .imgAtaqueBD {
+
+        height: 4vw !important;
+    }
+
+
+    .FotoBD,
+    .FotoBD2 {
+        border-radius: 0 !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+        width: 90px !important;
+        height: 90px !important;
+        cursor: pointer;
+        min-height: 22vw !important;
+
+    }
+
+    .ROWdb {
+
+        margin-left: 2.7rem !important;
+    }
+
+    .ContainerDB {
+
+        margin-left: -0.8rem !important;
+    }
+}
+
+
+.ROWdb {
+    margin-bottom: 1vw;
+}
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+    .BotonBD {
+        width: auto;
+    }
+
+    /*iphone6/7/8*/
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw !important;
+
+    }
+
+    .mifuente {
+        font-size: 4vh !important;
+
+    }
+
+    .TamañoTablaBD {
+        width: 115% !important;
+        overflow-x: auto !important;
+    }
+
+    .NavbarDB {
+        display: none !important;
+    }
+
+    .LetraTituloBD {
+        font-size: 12vw !important;
+    }
+
+    .ColDB1 {
+        margin-left: 6% !important;
+        padding-left: 10% !important;
+        padding-right: 8% !important;
+        margin-top: 20% !important;
+
+
+    }
+
+    .bolaDeDrac {
+        height: 8vw !important;
+    }
+
+    .fondoTabla2BD {
+        margin-right: 0 !important;
+    }
+
+    .TablaUnqiqueBD {
+        margin-bottom: -36vw !important;
+        margin-top: -10vw !important;
+
+    }
+
+    .colorFondoAtaquesBD {
+        font-size: 5vw !important;
+    }
+
+    .imgAtaqueBD {
+
+        height: 5vw !important;
+    }
+
+
+    .FotoBD {
+        border-radius: 0 !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+        width: 90px !important;
+        height: 90px !important;
+        cursor: pointer;
+        min-height: 22vw !important;
+
+
+    }
+
+    .FotoBD2 {
+        border-radius: 0px !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+        border-radius: 0 !important;
+        width: 90px !important;
+        height: 90px !important;
+        cursor: pointer;
+        min-height: 22vw !important;
+
+    }
+
+    .ROWdb {
+
+        margin-left: 1.5rem !important;
+    }
+
+    .ContainerDB {
+
+        margin-left: -1.8rem !important;
+    }
+}
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+
+    .BotonBD {
+        width: auto;
+    }
+
+    /*iphone X*/
+
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw !important;
+
+    }
+
+    .mifuente {
+        font-size: 4vh !important;
+
+    }
+
+    .NavbarDB {
+        display: none !important;
+    }
+
+    .LetraTituloBD {
+        font-size: 12vw !important;
+    }
+
+    .ColDB1 {
+        margin-left: 1% !important;
+        padding-left: 9% !important;
+        padding-right: 9% !important;
+        margin-top: 20% !important;
+
+
+    }
+
+    .bolaDeDrac {
+        height: 8vw !important;
+    }
+
+    .fondoTabla2BD {
+        margin-right: 0 !important;
+    }
+
+    .TablaUnqiqueBD {
+        margin-bottom: 4vw !important;
+        margin-top: -10vw !important;
+    }
+
+
+    .colorFondoAtaquesBD {
+        font-size: 5vw !important;
+    }
+
+    .imgAtaqueBD {
+
+        height: 5vw !important;
+    }
+
+
+    .FotoBD,
+    .FotoBD2 {
+        border-radius: 0 !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+        width: 90px !important;
+        height: 90px !important;
+        cursor: pointer;
+        min-height: 22vw !important;
+
+    }
+
+    .ROWdb {
+
+        margin-left: 1rem !important;
+    }
+
+
+
+}
+
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
+    .BotonBD {
+        width: auto;
+    }
+
+    /*pixel*/
+    .TamañoTablaBD {
+        width: 100% !important;
+        margin-left: 0vw !important;
+        margin-right: 30vw !important;
+
+    }
+
+    .ContainerDB {
+        width: auto !important;
+    }
+
+    .ColDB2 {
+        margin-top: -20vw !important;
+    }
+
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw !important;
+
+    }
+
+    .ROWdb {
+
+        margin-left: 2.5rem !important;
+    }
+
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw !important;
+
+    }
+
+    .mifuente {
+        font-size: 4vh !important;
+
+    }
+
+    .NavbarDB {
+        display: none !important;
+    }
+
+    .LetraTituloBD {
+        font-size: 12vw !important;
+    }
+
+
+    .bolaDeDrac {
+        height: 8vw !important;
+    }
+
+    .fondoTabla2BD {
+        margin-right: 0 !important;
+    }
+
+
+    .colorFondoAtaquesBD {
+        font-size: 5vw !important;
+    }
+
+    .imgAtaqueBD {
+
+        height: 5vw !important;
+    }
+
+    .FotoBD,
+    .FotoBD2 {
+        border-radius: 0 !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+        width: 85px !important;
+        height: 90px !important;
+        cursor: pointer;
+        min-height: 22vw !important;
+
+    }
+
+    .ContainerDB {
+
+        margin-left: 1.2rem !important;
+    }
+
+
+}
+
+
+@media screen and (min-device-height: 823px) and (max-device-width: 411px) {
+    .BotonBD {
+        width: auto;
+    }
+
+    /*pixel xl*/
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw !important;
+
+    }
+
+    .TamañoTablaBD {
+        width: 118% !important;
+        margin-left: -12vw !important;
+        margin-right: 30vw !important;
+
+    }
+
+    .mifuente {
+        font-size: 4vh !important;
+
+    }
+
+    .NavbarDB {
+        display: none !important;
+    }
+
+    .LetraTituloBD {
+        font-size: 12vw !important;
+    }
+
+
+    .bolaDeDrac {
+        height: 8vw !important;
+    }
+
+    .fondoTabla2BD {
+        margin-right: 0 !important;
+    }
+
+
+    .colorFondoAtaquesBD {
+        font-size: 5vw !important;
+    }
+
+    .imgAtaqueBD {
+
+        height: 5vw !important;
+    }
+
+    .FotoBD,
+    .FotoBD2 {
+        border-radius: 0 !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+        width: 90px !important;
+        height: 90px !important;
+        cursor: pointer;
+        min-height: 22vw !important;
+
+    }
+
+    .ROWdb {
+
+        margin-left: 2.5rem !important;
+    }
+
+
+    .ContainerDB {
+
+        margin-left: 1.2rem !important;
+        width: auto !important;
+    }
+
+    .TablaUnqiqueBD {
+        margin-bottom: 4vw !important;
+        margin-top: -10vw !important;
+    }
+
+
+}
+
+.navDB {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+@media screen and (max-device-height: 568px) and (min-device-width: 320px) {
+    .BotonBD {
+        width: auto;
+    }
+
+    /*iphone5*/
+    .LetraTituloBD {
+        padding-left: 12vw !important;
+
+    }
+
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw !important;
+
+    }
+
+    .mifuente {
+        font-size: 4vh !important;
+
+    }
+
+    .NavbarDB {
+        display: none !important;
+    }
+
+    .LetraTituloBD {
+        font-size: 12vw !important;
+        margin-left: -2rem !important;
+
+    }
+
+    .ColDB1 {
+        margin-left: 6% !important;
+        padding-left: 10% !important;
+        padding-right: 8% !important;
+        margin-top: 20% !important;
+
+
+    }
+
+    .bolaDeDrac {
+        height: 8vw !important;
+    }
+
+    .fondoTabla2BD {
+        margin-right: 0 !important;
+    }
+
+    .TablaUnqiqueBD {
+        margin-bottom: -36vw !important;
+        margin-top: -10vw !important;
+    }
+
+    .colorFondoAtaquesBD {
+        font-size: 5vw !important;
+    }
+
+    .TamañoTablaBD {
+        width: 107% !important;
+        overflow-x: auto;
+    }
+
+    .imgAtaqueBD {
+
+        height: 4vw !important;
+    }
+
+
+    .FotoBD,
+    .FotoBD2 {
+        border-radius: 0 !important;
+        min-width: 80px !important;
+        transform: skewX(0deg) !important;
+        width: 80px !important;
+        height: 80px !important;
+        cursor: pointer;
+        min-height: 22vw !important;
+        margin: 3px !important;
+    }
+
+    .ROWdb {
+
+        margin-right: 0 !important;
+    }
+
+    .DIVBD {
+        margin-right: 0 !important;
+
+        margin-left: 0rem !important;
+
+    }
+
+    .ContainerDB {
+
+        margin-left: -0.8rem !important;
+    }
+
+}
+
+@media screen and (min-device-width: 1024px) and (max-device-height: 1366px) {
+
+
+    .ROWdb {
+
+        margin-left: 3rem !important;
+    }
+
+    .ContainerDB {
+
+        margin-left: 5vw !important;
+    }
+
+
+
+}
+
+@media screen and (min-device-width: 768px) and (max-device-height: 1024px) {
+
+
+    .ROWdb {
+
+        margin-left: 2rem !important;
+    }
+
+    .FotoBD,
+    .FotoBD2 {
+        border-radius: 0 !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+        width: 90px !important;
+        height: 40px !important;
+        cursor: pointer;
+        min-height: 12vw !important;
+
+    }
+
+    .bolaDeDrac {
+        height: 4vw !important;
+    }
+
+    .ContainerDB {
+
+        margin-left: 5vw !important;
+    }
+
+}
+
+@media screen and (min-width: 1025px) {
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        filter: sepia(70%);
+
+
+    }
+
+    .ContainerDB {
+
+        margin-right: auto !important;
+        margin-left: 15vw !important;
+
+    }
+
+    .LetraTituloBD {
+        font-size: 4vw !important;
+    }
+
+    .ColDB1 {
+        margin-left: -1% !important;
+        padding-left: 3% !important;
+        padding-right: 3% !important;
+
+
+
+    }
+
+    .bolaDeDrac {
+        height: 2vw !important;
+        position: absolute;
+        top: 0%;
+        left: 48.5%;
+        transform: translate(-50%, -50%);
+    }
+
+
+    .FotoBD2 {
+        width: 90px !important;
+        min-width: 90px;
+        height: 50px !important;
+        border-radius: 25px 0;
+        min-height: 90px !important;
+        ;
+        margin: 4px;
+
+        transform: skewX(-15deg) !important;
+        cursor: pointer;
+    }
+
+    .FotoBD {
+        width: 90px !important;
+        min-width: 90px;
+        height: 50px !important;
+        border-radius: 25px 0;
+        min-height: 90px !important;
+        ;
+        margin: 4px;
+
+        transform: skewX(15deg) !important;
+        cursor: pointer;
+    }
+
+    .RowMC {
+
+        margin-left: 1.5rem !important;
+    }
+
+    .DivFotoMC {
+        margin: 0 !important
+    }
+
+    .colorFondoAtaquesBD {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        color: black !important;
+        font-size: 1.5vw !important;
+        font-weight: 900 !important;
+        font-family: 'Oswald', sans-serif !important;
+
+        border: none;
+        width: 70%;
+
+    }
+}
+
+
+
+
+
+
+.TablaUnqiqueBD {
+
+    margin-top: 3rem;
+
+}
+
+.DivBDFONDO {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-naranja-abstracto_1258-1352.jpg?size=626&ext=jpg), linear-gradient(#6e859c, #c0ccd8);
+}
+
+
+
+.eliminarradius {
+    border-radius: 0px !important;
+}
+
+.TituloAtaquesGB {
+
+    background-color: gray;
+    color: white;
+    font-weight: 100;
+    font-size: 2.5vw;
+    border-radius: 0px;
+    font-family: 'Marcellus', serif;
+    padding-bottom: 0.5vw !important;
+    padding-top: 0.2vw !important;
+
+}
+
+.colorFondoAtaquesGB {
+    background-color: #81abcb;
+    border: 1px white solid !important;
+    font-weight: 600 !important;
+    font-family: 'Marcellus', serif !important;
+}
+
+.nombreAtaquesGB {
+    font-family: 'Tenor Sans', sans-serif;
+    background-color: white;
+    border-bottom: 1px black solid !important;
+
+    color: black !important;
+
+}
+
+.fondoTablaGB {
+    border-radius: 100 !important;
+}
+
+
+.TextoTituloDB {
+    color: white;
+    margin-top: 3vw;
+    margin-left: -3vw !important;
+
+}
+
+.FotoBD2 {
+    width: 120px;
+    min-width: 90px;
+    height: 120px;
+    border-radius: 25px 0;
+
+    margin: 4px;
+
+    transform: skewX(-15deg);
+    cursor: pointer;
+}
+
+.nomostrarscrollBD {
+    /*No mostrar*/
+    overflow: hidden !important;
+}
+
+.FotoBD {
+    width: 120px;
+    min-width: 90px;
+    height: 120px;
+    border-radius: 0 25px;
+
+    margin: 4px;
+    transform: skewX(15deg);
+
+
+    cursor: pointer;
+
+}
+
+
+.fotoLogoBD {
+    margin-left: -3vw !important;
+}
+
+
+
+
+.DIVFOTO:hover {
+
+
+    transform: scale(1.15) !important;
+
+}

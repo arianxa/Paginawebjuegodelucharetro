@@ -1,0 +1,315 @@
+[
+  {
+    "Nombre": "RYU",
+    "Descripcion": "Ryu .",
+    "Foto": "imagenes/Principales/ryu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "KEN",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "CHUN-LI",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/chun-li.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+
+  {
+    "Nombre": "AKUMA",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/akuma.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "YANG",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/yang.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "YUN",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/yun.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "ALEX",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/alex.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "HUGO",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/hugo.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "DUDLEY",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/dudley.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "ELENA",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/elena.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "REMY",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/remy.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "MAKOTO",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/makoto.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "IBUKI",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ibuki.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "NECRO",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/necro.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "TWELVE",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/twelve.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "SEAN MATSUDA",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/sean-matsuda.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "ORO",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/oro.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Q",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/q.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "URIEN",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/urien.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "GILL",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/gill.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  }
+]

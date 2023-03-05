@@ -1,0 +1,549 @@
+.BioNombreGB {
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+
+    color: black;
+
+    font-size: 5vw;
+
+}
+
+.BiotituloGB {
+
+    font-family: "LetraSf";
+
+
+    margin-left: auto;
+    margin-right: auto;
+
+    color: white;
+    font-size: 3vw;
+    border-bottom: 2px white solid;
+    width: 70%;
+
+}
+
+.BioDesGB {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 1vw;
+
+}
+
+.BioNavbarGB {
+
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1vw;
+}
+
+.BioDescGB {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 1vw;
+
+}
+
+.BIOtitulocombosGB {
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    font-family: "BioLetraGB";
+    font-size: 3vw;
+    border-bottom: 3px black solid;
+    width: 20%;
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+
+
+}
+
+.DivIconGB {
+
+    background-color: rgba(0, 0, 0, 0.568);
+    height: 4vw;
+    padding-top: 1vw;
+    padding-right: 1vw;
+    margin-top: 4vw;
+
+}
+
+.BioDivTotalGB {
+    background-color: rgba(235, 228, 228, 0.246);
+}
+
+.iconoGB {
+    color: white;
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top: -0.5vw;
+    padding-top: -1vw;
+    cursor: pointer;
+}
+
+.BioImgGB {
+    height: 60vw;
+    min-width: 30vw;
+    margin-top: -6vw;
+
+}
+
+.BIOCentrarColDivGB {
+    background-color: rgba(0, 0, 0, 0.664);
+    margin-right: auto !important;
+    height: 40vw;
+    min-width: 32vw;
+    margin-top: 4vw;
+    margin-left: 15vw;
+}
+
+.BioImgyGB {
+    width: 80%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+}
+
+.derechaGB {
+    width: 50vw !important;
+    float: right;
+
+    margin-right: 9vw !important;
+}
+
+.izqGB {
+    width: 50vw !important;
+    margin-left: 4vw !important;
+
+
+}
+
+
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+
+    .iconoGB {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 7vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconGB {
+        height: 8vw;
+        padding-right: 1.5vw;
+    }
+
+    .BioNombreGB {
+        font-size: 12vw;
+    }
+
+    .BiotituloGB {
+        font-size: 8vw;
+    }
+
+    .BioDescGB {
+        font-size: 4.5vw;
+    }
+
+    .BIOtitulocombosGB {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgGB {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        min-height: 125vw!important;
+
+    }
+
+    .derechaGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
+
+    /*pixel*/
+    .iconoGB {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 7vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconGB {
+        height: 8vw;
+        padding-right: 1.5vw;
+    }
+
+    .BioNombreGB {
+        font-size: 12vw;
+    }
+
+    .BiotituloGB {
+        font-size: 8vw;
+    }
+
+    .BioDescGB {
+        font-size: 4.5vw;
+    }
+
+    .BIOtitulocombosGB {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgGB {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        min-height: 125vw!important;
+
+    }
+
+    .derechaGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
+
+    /*iphone5*/
+    .iconoGB {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 7vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconGB {
+        height: 8vw;
+        padding-right: 1.5vw;
+    }
+
+    .BioNombreGB {
+        font-size: 12vw;
+    }
+
+    .BiotituloGB {
+        font-size: 8vw;
+    }
+
+    .BioDescGB {
+        font-size: 4.5vw;
+    }
+
+    .BIOtitulocombosGB {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgGB {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        min-height: 125vw!important;
+
+    }
+
+    .derechaGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+
+    /*iphone6/7/8*/
+    .iconoGB {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 7vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconGB {
+        height: 8vw;
+        padding-right: 1.5vw;
+    }
+
+    .BioNombreGB {
+        font-size: 12vw;
+    }
+
+    .BiotituloGB {
+        font-size: 8vw;
+    }
+
+    .BioDescGB {
+        font-size: 4.5vw;
+    }
+
+    .BIOtitulocombosGB {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgGB {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        min-height: 125vw!important;
+
+    }
+
+    .derechaGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-device-height: 1024px) and (max-device-width: 768px) {
+
+
+    .BIOCentrarColDivGB {
+margin-right: -3vw!important;
+margin-left: 7vw;
+padding-bottom: 2vw;
+min-width: 50%;
+    }
+
+
+
+
+
+   
+
+    .DivIconGB {
+        height: 4.5vw;
+    }
+
+    .BioNombreGB {
+        font-size: 6vw;
+    }
+
+    .BiotituloGB {
+        font-size: 4vw;
+    }
+
+    .BioDescGB {
+        font-size: 2.3vw;
+    }
+
+    .BIOtitulocombosGB {
+        font-size: 3vw;
+    }
+
+    .BioImgGB {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+    }
+
+    .derechaGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+
+}
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+
+    /*iphone6/7/8*/
+    .iconoGB {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 7vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconGB {
+        height: 8vw;
+        padding-right: 1.5vw;
+    }
+
+    .BioNombreGB {
+        font-size: 12vw;
+    }
+
+    .BiotituloGB {
+        font-size: 8vw;
+    }
+
+    .BioDescGB {
+        font-size: 4.5vw;
+    }
+
+    .BIOtitulocombosGB {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgGB {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        min-height: 125vw!important;
+
+    }
+
+    .derechaGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+
+    /*iphone X*/
+    .iconoGB {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 7vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconGB {
+        height: 8vw;
+        padding-right: 1.5vw;
+    }
+
+    .BioNombreGB {
+        font-size: 12vw;
+    }
+
+    .BiotituloGB {
+        font-size: 8vw;
+    }
+
+    .BioDescGB {
+        font-size: 4.5vw;
+    }
+
+    .BIOtitulocombosGB {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgGB {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        min-height: 125vw!important;
+
+    }
+
+    .derechaGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqGB {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}

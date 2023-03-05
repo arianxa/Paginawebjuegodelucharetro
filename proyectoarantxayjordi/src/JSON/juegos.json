@@ -1,0 +1,114 @@
+[
+  {
+    "Nombre": "Marvel vs Capcom",
+    "Descripcion": "Marvel vs. Capcom 2: New Age of Heroes (a.k.a. Marvel vs. Capcom 2 or MvC2) is the fourth game of the Marvel vs. Capcom series of fighting games. With the (presumably) final installment of the series, Capcom simplified the engine so that it would be more accessible to casual players, in order to bring in new players, as interest in arcade fighting games had declined. Changes were made to the air combo system and the button configuration was trimmed down to 4 main buttons and 2 assist buttons. The game also features 3 on 3 tag, compared to the 2 on 2 tag from previous games in the series. It is the only game in the series to use the NAOMI system, which is used mostly for 3D games. It is mainly seen in this game in the backgrounds and system effects, as well as Abyss's sphere. Marvel vs. Capcom 2 was later ported to the Dreamcast, Xbox, PlayStation 2, Xbox 360 and PlayStation 3.In Marvel vs. Capcom 2, players select a team of characters from the Marvel and Capcom universes to engage in combat and attempt to knock out their opponents. While the game uses similar tag team-based game mechanics to the series' previous iteration, Marvel vs. Capcom: Clash of Super Heroes, it features several significant changes, such as three-on-three gameplay, a new character assist system, and a more simplified control scheme. The character artwork uses traditional 2D-animated sprites, while the backgrounds and visual effects are rendered in 3D. This makes Marvel vs. Capcom 2 the first game in the franchise to feature 2.5D graphics.The game received positive reviews from critics, who praised its gameplay, visuals, and character roster, while criticizing its soundtrack and initial lack of online multiplayer support outside Japan. It is considered one of the best fighting games of all time. Following its release, Capcom lost the use of the Marvel Comics license, putting the series on a decade-long hiatus. In April 2010, Capcom announced the development of a sequel, Marvel vs. Capcom 3: Fate of Two Worlds, which was later released in February 2011.",
+    "Foto": "imagenes/MvsC2/Mvc2_logo.gif",
+    "Rooter": "imagenes/imagenesRoster/marvel-vs-capcom.png",
+    "Cara": "imagenes/JuegosCaratula/m2.gif"
+  },
+  {
+    "Nombre": "Them's fightin herds",
+    "Descripcion": "Them’s Fightin’ Herds is an upcoming 2D fighting game developed by Mane6, with adorable animals in an original universe designed by Lauren Faust (producer and developer for My Little Pony: Friendship is Magic). The spiritual to the fan-made brawler Fighting is Magic, Them’s Fightin’ Herds features improved gameplay mechanics and graphics, an entirely new dynamic music system, a graphic lobby, and more! Players can explore and do battle across the mysterious lands of Fœnum in fighting bouts designed to be fun and rewarding to play for all players across all skill levels.",
+    "Foto": "imagenes/Juegos/logoAPNG-1.png",
+    "Rooter": "imagenes/imagenesRoster/pnys.png",
+    "Cara": "imagenes/JuegosCaratula/them3.jpg",
+    "FotosPersonajePonys": [
+      {
+        "Foto2": [
+          "imagenes/PonysPequeños/arizona.png",
+          "imagenes/PonysPequeños/velvet.png",
+
+          "imagenes/PonysPequeños/oleander.png",
+          "imagenes/PonysPequeños/paprika.png",
+          "imagenes/PonysPequeños/pom.png",
+          "imagenes/PonysPequeños/tianhuo.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Killer Instinct",
+    "Descripcion": "The story of Killer Instinct places us in a polluted world, where governments lack power and it is the large multinationals that exercise control, of all the most powerful is called Ultratech that is dedicated to the manufacture of weapons, Ultratech creates a tournament that he called Killer Instinct to test his weapons and in case it was not enough the company released Eyedol a demon from another dimension as final test, the fighter who defeated him had as a prize what he wanted ....",
+    "Foto": "imagenes/Juegos/killerinstinc.png",
+    "Cara": "imagenes/JuegosCaratula/killer1pg.jpg",
+
+    "Rooter": "imagenes/imagenesRoster/killer_instinct-2513398.jpg"
+  },
+
+  {
+    "Nombre": "Skullgirls",
+    "Descripcion": "Set in Canopy Kingdom, characters are fighting for the opportunity to control the mysterious Skull Heart, an artifact with the ability to grant wishes, albeit at a substantial cost. The Skullgirl is a monster that haunts humanity: the result of those with an impure soul attempting to use the Heart.",
+    "Foto": "imagenes/Juegos/Skullgirls.png",
+    "Cara": "imagenes/JuegosCaratula/skull1.gif",
+
+    "Rooter": "imagenes/imagenesRoster/skull.jpg"
+  },
+  {
+    "Nombre": "UnderNightIn-Birth",
+    "Descripcion": "Under Night In-Birth is French Bread's foray into an original fighting game franchise. Coming from a decade's worth of experience with their most famous game, Melty Blood, they aim to bring fans even more fast-paced fighting action with highly original characters and gripping plot lines. UNIB has received several updates with the most significant ones being Under Night In-Birth Exe:Late, Under Night In-Birth Exe:Late[st], and the latest version Under Night In-Birth Exe:Late[cl-r].",
+    "Foto": "imagenes/Juegos/UnderNightIn-Birth.png",
+    "Cara": "imagenes/JuegosCaratula/under2.jpg",
+
+    "Rooter": "imagenes/imagenesRoster/pjs.png",
+    "Logo2": "imagenes/Juegos/UNLOGO.png"
+  },
+
+  {
+    "Nombre": "Dragon Ball Fighter Z",
+    "Descripcion": "Dragon Ball FighterZ (ドラゴンボール ファイターズ Doragon Bōru Faitāzu) is a Dragon Ball fighting game developed by Arc System Works and published by Bandai Namco. It was released on January 26, 2018 for North America and Europe, and was released February 1, 2018 in Japan.",
+    "Foto": "imagenes/Juegos/DragonBallFighterZ.png",
+    "Cara": "imagenes/JuegosCaratula/dragon1.jpg",
+
+    "Rooter": "imagenes/imagenesRoster/dragonball.jpg"
+  },
+  {
+    "Nombre": "Tekken 7",
+    "Descripcion": "Tekken 7 (鉄拳7 Tekken Sebun?, lit. Iron Fist 7) is the latest installment in Tekken series, is a fighting game developed and published by Namco. The game runs on Unreal Engine 4, making it the first game of the series to run on this engine. The game also marks the 20th anniversary of the Tekken series. A update of the arcade version was released called Tekken 7: Fated Retribution. The console version is based on said update.",
+    "Foto": "imagenes/Juegos/Tekken7.png",
+    "Cara": "imagenes/JuegosCaratula/t1.jpg",
+
+    "Rooter": "imagenes/imagenesRoster/tekken.jpg",
+    "Logo": "imagenes/TK7/logo.png"
+  },
+
+  {
+    "Nombre": "Soulcalibur VI",
+    "Descripcion": "Soulcalibur VI (ソウルキャリバーVI, Sourukyaribaa Shikkusu) is the seventh installment in Namco's Soul series of fighting games. It is a reboot of the series which covers events starting pre-Soulcalibur, and was announced at The Game Awards 2017. It was released on October 19, 2018.",
+    "Foto": "imagenes/Juegos/Soulcalibur.png",
+    "Cara": "imagenes/JuegosCaratula/soul4.jpg",
+
+    "Rooter": "imagenes/imagenesRoster/soulcaliburport.jpg",
+    "Logo2": "imagenes/Juegos/SoulCallogo.png"
+  },
+  {
+    "Nombre": "Street Fighter V Champion Edition",
+    "Descripcion": "Street Fighter V: Champion Edition is a 2.5D fighting game developed and published by Capcom, released on February 14th, 2020.Announced in 17th November 2019, it is the second major updated version of Street Fighter V after Arcade Edition. New features include a second V-Skill, and Gill and Seth as returning playable characters.",
+    "Foto": "imagenes/Juegos/StreetFighterV.png",
+    "Cara": "imagenes/JuegosCaratula/street6.jpg",
+
+    "Rooter": "imagenes/imagenesRoster/street-fighter-v.jpg"
+  },
+
+  {
+    "Nombre": "Granblue Fantasy Versus",
+    "Descripcion": "Granblue Fantasy Versus (GBVS) is a 2D 1-on-1 fighting game developed by Arc System Works based on the Granblue Fantasy franchise. GBVS utilizes the same graphical styling techniques as Guilty Gear Xrd and Dragon Ball FighterZ, using 3D models to simulate 2D art.",
+    "Foto": "imagenes/Juegos/Granblue_Fantasy_Versus_logo.png",
+    "Cara": "imagenes/JuegosCaratula/grand2.jpg",
+
+    "Logo": "imagenes/Juegos/Granblue_Fantasy_Versus_logo.png",
+    "Logo2": "imagenes/GRANDBLUETODO/pagetitle.png",
+
+    "Rooter": "imagenes/imagenesRoster/granblue.png"
+  },
+  {
+    "Nombre": "Mortal Kombat 11",
+    "Descripcion": "Mortal Kombat 11 is both the 11th fighting game and the 22nd installment in the Mortal Kombat series, developed by NetherRealm Studios, QLOC & Shiver and published by Warner Bros. Interactive Entertainment. It was released on April 23rd, 2019 for the PlayStation 4, Xbox One, Nintendo Switch, and Microsoft Windows via Steam.",
+    "Foto": "imagenes/Juegos/Mortal_Kombat_11_cover_art.png",
+    "Cara": "imagenes/JuegosCaratula/mortal2.png",
+
+    "Logo": "imagenes/Juegos/logomk2.png",
+    "Logo2": "imagenes/Juegos/logomk.png",
+
+    "Rooter": "imagenes/imagenesRoster/mortalcombat.jpg"
+  }
+]

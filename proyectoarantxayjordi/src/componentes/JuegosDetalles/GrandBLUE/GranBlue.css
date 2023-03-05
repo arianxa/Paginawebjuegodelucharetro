@@ -1,0 +1,560 @@
+@media screen and (max-device-width: 750px) {
+    .BotonGB {
+
+        margin-left: 0vw !important;
+    }
+
+
+    .NavbarGB {
+        display: none !important;
+    }
+
+    .logoCharacters {
+        height: 10vw !important;
+    }
+
+    .characterGB img {
+        height: 150px !important;
+        width: auto !important;
+
+    }
+
+    .margenesGBPRUEBA {
+        margin-top: 1rem !important;
+        margin-bottom: 2rem !important;
+    }
+
+    .unskew {
+        height: 100px !important;
+        margin-left: 0.5rem !important;
+        margin-bottom: 0.5rem !important;
+
+
+        width: 100px !important;
+    }
+
+    .RowGrandBLue {
+        margin-left: 0.5rem !important;
+
+    }
+
+    .TituloAtaquesGB {
+        font-size: 7vw !important;
+
+
+    }
+
+    .unskew:hover {
+        -webkit-transform: scale(1.0);
+        -moz-transform: scale(1.0);
+        -ms-transform: scale(1.0);
+        transform: scale(1.0);
+        /*background: #303030;*/
+
+    }
+
+    .unskew.active,
+    .unskew.active:hover {
+        -webkit-transform: scale(0.5);
+        -moz-transform: scale(0.5);
+        -ms-transform: scale(0.5);
+        transform: scale(0.5);
+
+    }
+
+
+}
+
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+    .BotonGB {
+
+        margin-left: 0vw !important;
+    }
+
+    /*motog4*/
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
+
+
+        width: 110% !important;
+        margin-left: -3vw !important;
+    }
+}
+
+@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
+
+    /*pixel2*/
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
+
+
+        width: 98% !important;
+        margin-left: 4vw !important;
+    }
+
+}
+
+.nombreAtaquesGB {
+
+    width: 36% !important;
+
+}
+
+@media screen and (max-device-height: 823px) and (min-device-width: 411px) {
+
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
+
+
+        width: 99% !important;
+        margin-left: 2vw !important;
+    }
+
+
+
+}
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
+
+
+        width: 110% !important;
+        margin-left: -2vw !important;
+    }
+
+}
+
+/*.tablaGBP1{
+    margin-left:3vw!important;
+    margin-right:-4vw!important;
+
+    padding:0!important;
+}
+.tablaGBP{
+    margin-right:-6vw!important;
+
+    padding:0!important;
+}*/
+@media screen and (min-device-width:1025px) {
+    .tablaGBP1 {
+        margin-left: -3vw !important;
+        margin-right: 1vw !important;
+
+        padding: 0 !important;
+    }
+
+    .tablaGBP {
+        margin-right: 2vw !important;
+
+        padding: 0 !important;
+    }
+
+    .products {
+        margin-left: 17vw !important;
+
+
+
+    }
+
+    .contGB {
+        margin-left: auto !important;
+        margin-right: auto !important;
+
+
+    }
+
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
+
+
+        width: 98% !important;
+        margin-left: 3vw !important;
+    }
+}
+
+/*
+
+@media (min-device-width:360px) {
+    .container {
+        max-width: 340px
+    }
+}
+
+@media (min-device-width:375px) {
+    .container {
+        max-width: 360px
+    }
+}
+
+
+@media (min-device-width:576px) {
+    .container {
+        max-width: 540px
+    }
+}
+
+@media (max-width:768px) {
+    .container {
+        max-width: 720px
+    }
+}
+
+@media (min-device-width:992px) {
+    .container {
+        max-width: 960px
+    }
+}
+
+@media (min-device-width:1200px) {
+    .container {
+        max-width: 1140px
+    }
+}
+
+@media (min-device-width:1440px) {
+    .container {
+        max-width: 1280px
+    }
+}
+
+@media (min-device-width:1600px) {
+    .container {
+        max-width: 1540px
+    }
+}
+
+@media (min-device-width:1920px) {
+    .container {
+        max-width: 1880px
+    }
+}
+*/
+
+
+
+.margenesGBPRUEBA {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.products {
+    width: 90%;
+    max-width: 1000px;
+    margin: 6% auto 0 auto;
+    padding: 20px 1%;
+    color: #fff;
+    background: linear-gradient(#990000, #cc0000);
+    font-size: 1.08em;
+    font-family: 'Lora', serif;
+    letter-spacing: 0.1em;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: rgba(0, 0, 0, .3) 1px 1px 3px, rgba(0, 0, 0, .3) -1px 1px 3px, rgba(0, 0, 0, .3) 1px -1px 3px, rgba(0, 0, 0, .3) -1px -1px 3px;
+}
+
+.eliminarradius {
+    border-radius: 0px !important;
+}
+
+
+
+.DivGranBlue {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+    background-image: url(http://www.granbluefantasyvs.com/characters/images/charabg.png), linear-gradient(#6e859c, #c0ccd8);
+
+}
+
+@keyframes wave {
+    0% {
+        transform: translate(-50%, -50%) scale(0);
+        opacity: 0;
+    }
+
+    25% {
+        transform: translate(-50%, -50%) scale(0.25);
+        opacity: 0.75;
+    }
+
+    100% {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 0;
+    }
+}
+
+.characterGB {
+    height: 250px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/*.characterMks::-webkit-scrollbar { display: none; }*/
+
+.unskew {
+    height: 200px;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-transform: skew(-10deg);
+    -ms-transform: skew(-10deg);
+    transform: skew(-10deg);
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    overflow: hidden;
+    width: 120px;
+    border-left: 1px solid rgba(255, 255, 255, 0.0);
+    -webkit-box-shadow: -7px 0px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: -7px 0px 10px rgba(0, 0, 0, 0.5);
+    -webkit-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+}
+
+.TituloAtaquesGB {
+
+    background-color: gray;
+    color: white;
+    font-weight: 100;
+    font-size: 2.5vw;
+    border-radius: 0px;
+    font-family: 'Marcellus', serif;
+    padding-bottom: 0.5vw !important;
+    padding-top: 0.2vw !important;
+
+}
+
+.centrarImagen {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.verticalcenter {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.TituloJuego {
+
+    color: white;
+    font-weight: 100;
+    font-size: 2.5vw;
+    border-radius: 0px;
+    font-family: 'Marcellus', serif;
+
+    text-align: left !important;
+    font-family: "myFont";
+    margin-left: 6vw;
+    margin-top: 3vw;
+}
+
+.colorFondoAtaquesGB {
+    background-color: #81abcb;
+    border: 1px white solid !important;
+    font-weight: 600 !important;
+    font-family: 'Marcellus', serif !important;
+    cursor: pointer;
+}
+
+.nombreAtaquesGB {
+    font-family: 'Tenor Sans', sans-serif;
+    background-color: white;
+    border-bottom: 1px black solid !important;
+
+    color: black !important;
+
+}
+
+.fondoTablaGB {
+    border-radius: 100 !important;
+}
+
+/*
+.unskew:hover {
+    width: 170px;
+    min-width: 170px;
+    height: auto;
+    /*background: #303030;
+
+}
+
+.unskew.active,
+.unskew.active:hover {
+    width: 170px;
+    min-width: 170px;
+    color: #000;
+
+}
+*/
+.unskew:hover {
+    -webkit-transform: scale(1.0);
+    -moz-transform: scale(1.0);
+    -ms-transform: scale(1.0);
+    transform: scale(1.0);
+    /*background: #303030;*/
+
+}
+
+.unskew.active,
+.unskew.active:hover {
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    transform: scale(0.5);
+
+}
+
+.characterGB {
+    text-align: center;
+    cursor: pointer;
+    border-bottom: none !important;
+}
+
+.characterGB img {
+    display: inline-block;
+    height: 200px;
+    width: auto;
+    margin-left: 10px;
+    margin-left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.characterGB p {
+    font-weight: 100;
+    padding: 10px 0 10px 20px;
+}
+
+
+@media screen and (max-device-height: 579px) and (min-device-width: 1240px) {
+    .products {
+        margin-left: 9vw !important;
+    }
+
+    .anchoGB {
+
+
+        width: 81% !important;
+        margin-left: 1vw !important;
+        margin-right: 2vw !important;
+    }
+
+    .contGB {
+        margin-left: 10vw !important;
+    }
+}
+
+@media screen and (max-height: 579px) and (min-width: 1240px) {
+    .products {
+        margin-left: 9vw !important;
+    }
+
+    .anchoGB {
+
+
+        width: 81% !important;
+        margin-left: 1vw !important;
+        margin-right: 2vw !important;
+    }
+
+    .contGB {
+        margin-left: 10vw !important;
+    }
+
+}
+
+
+
+.DivBotonGB {
+
+    margin-top: 1vw !important;
+    margin-bottom: 1vw !important;
+
+
+}
+
+.DivBotonGB2 {
+
+    margin-top: 1vw !important;
+    margin-bottom: 1vw !important;
+
+
+}
+
+.BotonGB2 {
+    background: linear-gradient(#990000, #cc0000);
+
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    color: black;
+    width: 100%;
+    padding-left: 2vw;
+    padding-right: 2vw;
+margin-top: -2vw;
+margin-bottom: 1vw;
+
+    width: 90%;
+}
+
+.BotonGB {
+    background: linear-gradient(#990000, #cc0000);
+
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    color: black;
+    width: 100%;
+    padding-left: 2vw;
+    margin-left: 7vw;
+    padding-right: 2vw;
+
+}
+
+.BotonGB:hover,.BotonGB2:hover {
+    background: rgba(150, 1, 1, 0.815) !important;
+}

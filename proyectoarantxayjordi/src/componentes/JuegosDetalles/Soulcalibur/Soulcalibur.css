@@ -1,0 +1,486 @@
+.fondo2UC {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+    height: 8w !important;
+
+}
+
+.fotoLogoSC {
+    margin-top: -1vw !important;
+    margin-bottom: -2vw !important;
+
+    margin-left: 29vw;
+    height: 13vw;
+
+}
+
+.eliminarradius {
+    border-radius: 0px !important;
+}
+
+
+
+.DivSoulcal {
+
+    background: url(./fondo.png) top center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+    min-width: 1160px;
+    overflow: hidden;
+}
+
+.colimgSOul {
+
+    z-index: 1 !important;
+
+}
+
+.coltablasoul {
+    z-index: 2 !important;
+    margin-top: 0 !important;
+}
+
+.DivBotonSoul2 {
+    display: inline-block;
+    padding: 2px;
+    border: 1px solid #af9d84;
+    color: #af9d84;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", serif;
+
+    margin-top: 1vw;
+    margin-left: -3vw;
+}
+
+
+
+.BotonSL {
+
+    background-color: unset;
+    display: block;
+    padding: 0.5vw 4vw;
+    border: 1px solid rgba(175, 157, 132, 0.5);
+    color: #af9d84;
+    transition: .3s ease-in-out;
+
+}
+
+.DivBotonSoulTier {
+    display: inline-block;
+    padding: 2px;
+    border: 1px solid #af9d84;
+    color: #af9d84;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", serif;
+
+    width: 80%;
+
+
+}
+
+.BotonSL2 {
+    width: 100%;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+    background-color: unset;
+    display: block;
+    padding: 0.5vw 4vw;
+    border: 1px solid rgba(175, 157, 132, 0.5);
+    color: #af9d84;
+    transition: .3s ease-in-out;
+
+}
+
+/*    outline-color: initial;
+    outline-style: none;
+    outline-width: initial;*/
+
+/*  width: 70%;
+    padding-left: 2vw;
+    margin-left: -3vw;
+    padding-right: 2vw;*/
+
+.BotonSL:hover,
+.BotonSL2:hover {
+    background: #af9d84;
+    color: #000;
+
+    font-weight: bold;
+}
+
+.NombrePJSOUL {
+    width: 100% !important;
+    font-family: 'PT Serif', serif;
+    font-size: 40px;
+    font-weight: bold;
+
+    text-align: left;
+}
+
+.imagenestamaño {
+    height: 600px !important;
+    margin-left: -13vw;
+    min-width: 35vw;
+    z-index: -1 !important;
+
+}
+
+.containerDIV {
+    width: 100% !important;
+
+    min-width: 100%;
+
+}
+
+.td {
+    border-bottom: none !important;
+}
+
+.TableBodySOUL {
+
+    border-bottom: none !important;
+
+}
+
+.TablaGeneralSoul {
+    background-color: rgba(0, 0, 0, 0.692) !important;
+
+}
+
+.RowSOUL {
+    border-bottom: none !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.CellNombreAtaques {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+
+    color: #e4c69c !important;
+    width: 50%;
+    cursor: pointer;
+    /* background-color: rgba(72, 191, 196, 0.247);
+    color:white!important;
+    
+    
+    -webkit-box-shadow: inset 0 0 0 2px black;
+    -moz-box-shadow: inset 0 0 0 2px black;
+    box-shadow: inset 0 0 0 2px black;*/
+}
+
+.CellImgAtaques {
+    /*
+    -webkit-box-shadow: inset 0 0 0 3px cadetblue;
+    -moz-box-shadow: inset 0 0 0 3px cadetblue;
+    box-shadow: inset 0 0 0 3px cadetblue;*/
+
+}
+
+.fotoCharacterSOUL {
+    height: 6vw;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.ContainerSeparacionSOUL {
+    background: 100%;
+    background-image: url(./bg_deco_contents.png), url(./bg_deco_contents.png) !important;
+    background-repeat: repeat-x;
+    background-position: top, bottom !important;
+
+
+
+    width: 100%;
+    background-color: rgba(2, 2, 1, 0.712);
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    min-width: 100%;
+}
+
+
+
+
+
+@media screen and (max-device-width: 750px) {
+
+    .NombrePJSOUL {
+        font-size: 25px;
+    }
+
+    .CellNombreAtaques {
+        font-size: 3.5vw !important;
+    }
+
+    .imagenAtaqueSL {
+        height: 4.6vw !important;
+    }
+
+
+
+    .imagenestamaño {
+        display: none !important;
+    }
+
+    .NavSC {
+        display: none !important;
+    }
+
+    .fotoCharacterSOUL {
+        height: 40px !important;
+        margin-left: 6% !important;
+
+
+    }
+
+}
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+
+    /*MotoG4 GalazyG5*/
+
+
+
+    .fotoCharacterSOUL {
+        width: 93% !important;
+    }
+
+    .NombrePJSOUL {
+        margin-left: -5vw !important;
+    }
+
+
+    .AnchoSOUL {
+        width: 120% !important;
+        margin-left: -8vw !important;
+    }
+
+    .CellNombreAtaques {
+
+
+        width: 60% !important;
+    }
+
+
+    .ContainerSeparacionSOUL {
+        min-width: 100%;
+    }
+
+    .DivSoulcal {
+        min-width: 0%;
+    }
+
+
+
+
+}
+
+/*pruebsssa*/
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
+
+
+
+    .AnchoSOUL {
+        width: 120% !important;
+        margin-left: -8vw !important;
+    }
+
+    .CellNombreAtaques {
+
+
+        width: 60% !important;
+    }
+
+    /*iphone5*/
+    .ContainerSeparacionSOUL {
+        min-width: 100%;
+    }
+
+    .DivSoulcal {
+        min-width: 0%;
+    }
+
+}
+
+
+@media screen and (max-device-height: 731px) and (min-device-width: 411px) {
+    .fotoCharacterSOUL {
+
+        height: 15% !important;
+        width: 90% !important;
+    }
+}
+
+
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+    .ContainerSeparacionSOUL {
+        min-width: 100%;
+    }
+
+    .DivSoulcal {
+        min-width: 0%;
+    }
+
+
+
+
+    .AnchoSOUL {
+        width: 120% !important;
+        margin-left: -8vw !important;
+    }
+
+    .CellNombreAtaques {
+
+
+        width: 60% !important;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+    .ContainerSeparacionSOUL {
+        min-width: 100%;
+    }
+
+    .DivSoulcal {
+        min-width: 0%;
+    }
+
+
+
+
+    .AnchoSOUL {
+        width: 120% !important;
+        margin-left: -8vw !important;
+    }
+
+    .CellNombreAtaques {
+
+
+        width: 60% !important;
+    }
+
+
+
+
+
+
+
+}
+
+
+
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+    .ContainerSeparacionSOUL {
+        min-width: 100%;
+    }
+
+    .DivSoulcal {
+        min-width: 0%;
+    }
+
+
+    .fotoCharacterSOUL {
+
+        height: 15% !important;
+        width: 90% !important;
+    }
+}
+
+
+
+
+@media screen and (min-device-height: 1366px) and (max-device-width: 1024px) {
+    .ContainerSeparacionSOUL {
+        min-width: 100%;
+    }
+
+    .DivSoulcal {
+        min-width: 0%;
+    }
+
+
+    .coltablasoul {
+        padding-top: 5vw !important;
+    }
+
+    .colimgSOul {
+
+        padding-top: 5vw !important;
+        width: 120vw !important;
+
+    }
+
+    .imagen2SOUL {
+        width: 60vw !important;
+    }
+}
+
+@media screen and (min-device-height: 1024px) and (max-device-width: 768px) {
+    .ContainerSeparacionSOUL {
+        min-width: 100%;
+
+    }
+
+    .DivSoulcal {
+        min-width: 0%;
+    }
+
+    .coltablasoul {
+        padding-top: 5vw !important;
+    }
+
+    .colimgSOul {
+
+        padding-top: 5vw !important;
+        width: 120vw !important;
+
+    }
+
+    .fotoCharacterSOUL {
+        height: 10vw !important;
+        width: 70vw !important;
+
+        margin-top: -2vw !important;
+        margin-bottom: -5vw !important;
+
+    }
+
+}
+
+
+@media screen and (max-device-height: 823px) and (min-device-width: 411px) {
+    .ContainerSeparacionSOUL {
+        min-width: 100%;
+    }
+
+    .DivSoulcal {
+        min-width: 0%;
+    }
+
+    .fotoCharacterSOUL {
+
+        height: 15% !important;
+        width: 90% !important;
+    }
+}
+
+
+@media screen and (min-device-width: 1025px) {}
+
+@media screen and (max-device-width: 1024px) {}

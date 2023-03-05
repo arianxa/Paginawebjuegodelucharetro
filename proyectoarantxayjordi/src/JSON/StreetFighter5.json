@@ -1,0 +1,3019 @@
+[
+  {
+    "Nombre": "G",
+    "Descripcion": "G (ジー Jī?) is a video game character from the Street Fighter series, first appearing as the fifth character in Street Fighter V's third DLC season.",
+    "Foto": "imagenes/SF5/g2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/G.png",
+    "FotoTier": "imagenes/sfTierlist/g.png",
+
+    "Height": "200  cm",
+    "Weight": "150  Kg",
+    "Likes": "Bedrock baths, giving speeches",
+    "Dislikes": "Unknown",
+    "Skills": "Speed reading, mental calculation",
+    "Affiliation": "President of Planet Earth and its denizens",
+    "Personality": "G can be described as flamboyantly patriotic, claiming he is the President of Earth. He is also virtuous in nature when he gives advice towards his enemies such as M. Bison and Necalli, thus acting like a preacher in some cases.It can be said, judging from most of his quotes, that G proclaims that he is not only the President of Earth, but also the incarnation of Earth itself, its Savior (like Gill), the Universe, Power and even Matter; claiming that it's the reason that he can manipulate Earth and Magma. He sees the other characters being among The Citizens of Earth, and claiming that most of humanity's values (Love, Sorrow, Hunger, Greed etc.)",
+    "Combos": "https://www.youtube.com/watch?v=xDHJPAUpMJw",
+    "Combos2": "https://www.youtube.com/watch?v=u9n8Mj_LnfE",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Wild President",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Strong President",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crash President",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flying President",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Message To The People",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/2k.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "G Smash Over",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "G Smash Under",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "G Charge",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+
+          "imagenes/ImagenesAtaquesSF/2p.png"
+        ]
+      },
+      {
+        "nombreAtaque": "G Impact",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Pangaea Burst ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Urien",
+    "Descripcion": "Urien (ユリアン Yurian?) is a video game character from the Street Fighter series, first appearing in Street Fighter III: 2nd Impact. He is a ruthless former disciple of the Secret Society, resenting the supremacy that the organization entrusted to his malevolent older brother, Gill.",
+    "Foto": "imagenes/SF5/urien2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Urien.png",
+    "FotoTier": "imagenes/sfTierlist/urien.png",
+
+    "Height": "195 cm",
+    "Weight": "120 Kg",
+    "Likes": "Personal gains, suits, the G-Project",
+    "Skills": "All forms of combat",
+    "Dislikes": "His elder brother Gill, anyone who interferes with his plans, failed experiments, Commoners",
+    "Affiliation": "President of the Secret Society",
+    "Personality": "Urien's personality can be best described as tyrannical and authoritative, much in contrast with the benevolent and compassionate nature of his brother Gill (though in reality Gill's far from a good person and is quite fanatical).Urien also renounces any noble traits and elements associated with leadership, regarding them as worthless, and instead seeks fear and subjugation through his reign, much like a despotic, oppressive, totalitarian, and domineering tyran",
+    "Combos": "https://www.youtube.com/watch?v=OAGlGPrGz0c",
+    "Combos2": "https://www.youtube.com/watch?v=qYbKg7XU2H4",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Quarrel Punch",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Quarrel Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Terrible Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Killer Straight",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Break Rush",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Chariot Tackle",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dangerous Headbutt",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Violence Knee Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Metallic Sphere",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Dominant Crush",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Akuma",
+    "Descripcion": "(ゴウキ(豪鬼) Gōki?, Fortitude, Great Demon, Great Devil or Great Ogre), is a video game character and recurring antagonist of the Street Fighter series, first appearing in Super Street Fighter II Turbo as a hidden boss. He is an emotionless and powerful warrior fixated on mastering the Satsui no Hado.",
+    "Foto": "imagenes/SF5/akuma2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Akuma.png",
+    "FotoTier": "imagenes/sfTierlist/akuma.png",
+
+    "Height": "178 cm",
+    "Weight": "90 Kg",
+    "Likes": "Martial arts, training, Satsui no Hado, fighting Evil Ryu, strong opponents",
+    "Skills": "All forms of combat",
+    "Dislikes": "His brother Gouken,Goutetsu (for not embracing the Satsui no Hado to his fullest extent), Shadowgeist, imitators, M.Bison (for no reason),",
+    "Affiliation": "Martial Artist",
+    "Personality": "Akuma is a cold and extremely powerful warrior whose sole reason for being is to hone his fighting skills by battling and destroying strong foes. He rarely displays any sign of emotions or humanity, aside from occasional bursts of anger, and rarely smiles. He however will not engage in battle towards helpless people and in some cases may even defend them, either as a righteous calling or an afterthought of conquering major adversary. The only instance of humanity he has displayed after being drenched in the Satsui no Hado is with Kazumi Mishima, whom he respects, even in battle.",
+    "Combos": "https://www.youtube.com/watch?v=gz5Omx2NOHc",
+    "Combos2": "https://www.youtube.com/watch?v=xXEj1QVusKY",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Tenmakujinkyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Zugaihasatsu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tenha",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sekiseiken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kongoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/HP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Ashura Senku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/3K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hyakkishu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180right.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Violence Knee Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tatsumaki Zankukyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Sekia Kuretsuha",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shun Goku Satsu VT1",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LK.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Chun-Li",
+    "Descripcion": "Chun-Li (春麗 or チュンリー Shunrei or Chunrī?, Simplified Chinese: 春丽) is the main female protagonist of the Street Fighter series, originally debuting in Street Fighter II. The first female fighter in the series, she is an expert martial artist and Interpol officer who relentlessly seeks revenge for the death of her father at the hands of M. Bison.",
+    "Foto": "imagenes/SF5/chun-li2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/ChunLi-.png",
+    "FotoTier": "imagenes/sfTierlist/chunli.png",
+
+    "Height": "165 cm",
+    "Weight": "Secret",
+    "Likes": "Crepes, fruits, candy, Western confectionery",
+    "Skills": "Shooting",
+    "Dislikes": "M. Bison, crime",
+    "Affiliation": "Interpol Officer",
+    "Personality": "Chun-Li is a resourceful and dedicated officer of the law with a strong sense of justice that rivals that of her father, as she strongly believes in protecting the innocent and saving the lives of others.She is a highly disciplined, seasoned, and courageous woman, and is often the voice of reason. As an official of Interpol, she takes her work as a cop with pride (showing pride at what she does when she saves another), outside of her duty as a cop, she has an elegant, sweet, and feminine personality. Chun-Li, however, is not without her flaws, as she has shown to get very competitive with criminals in Street Fighter media, and does not take kindly to those who insult her pride as a cop. There are also times she is shown to have a fairly dense side to her personality, as shown in her ending of Super Gem Fighter Mini Mix",
+    "Combos": "https://www.youtube.com/watch?v=wLV--Ay0vko",
+    "Combos2": "https://www.youtube.com/watch?v=2zPOnOEA04U",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Tsuitotsuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hakkei ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hyakuretsukyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kikoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spinning Bird Kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Hoyokusen",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Rashid",
+    "Descripcion": "Rashid (ラシード Rashīdo?, Arabic: راشد Rāshid[4]) is a video game character from the Street Fighter series, first appearing in Street Fighter V. He is a laid-back Middle Eastern fighter with an affinity for the latest technology.",
+    "Foto": "imagenes/SF5/rashid2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Rashid.png",
+    "FotoTier": "imagenes/sfTierlist/rashid.png",
+    "Height": "180 cm",
+    "Weight": "96 Kg",
+    "Likes": "New things, movies, friends, modern technology",
+    "Skills": "Puzzle solving",
+    "Dislikes": "Fighting against women and children, loading times, murderers",
+    "Affiliation": "Socialite",
+    "Personality": "Rashid is an easy goer with a laid-back attitude, he has an affinity for any kind of the latest technology especially the internet as well as other new things. Though he is very relaxed, Rashid has a great thirst for adventure and will fly into any situation with reckless abandon. He likes to make friends with other people he meets and will rarely take battles seriously unless it's against a great opponent (like Dhalsim). Rashid can also mistake certain people as his relatives, as he mistook Zangief for his grandfather and his servant, Azam. ",
+    "Combos": "https://www.youtube.com/watch?v=iu6iUrn9HIg",
+    "Combos2": "https://www.youtube.com/watch?v=cfukZ8e9kj0",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Flap Spin",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Beak Assault",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Spinning Mixer",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eagle Spike",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Whirlwind Shot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Haboob",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/HP.png",
+
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Altair",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Karin",
+    "Descripcion": "Karin Kanzuki (神月 かりん Kanzuki Karin?) is a character from the Street Fighter series who was originally featured in the 1996 manga Sakura Ganbaru! before appearing as playable fighter in Street Fighter Alpha 3. She is the elitist rival of Sakura, and head of the Kanzuki Zaibatsu.",
+    "Foto": "imagenes/SF5/karin2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Karin.png",
+    "FotoTier": "imagenes/sfTierlist/karin.png",
+
+    "Height": "162 cm",
+    "Weight": "59 Kg",
+    "Likes": "Total victory",
+    "Skills": "Esoteric Kanzuki arts",
+    "Dislikes": "Middle-class ideals, people who do not fulfill their obligations, Shadaloo, M. Bison",
+    "Affiliation": "Head of the Kanzuki Zaibatsu",
+    "Personality": "Karin's laugh and mannerisms are derived from the unpleasant ojou stereotypes common in anime and manga as well as the rich person/popular schoolgirl/spoiled brat stereotypes of Western fiction; while she typically remains snobbish and haughty as per the standard, other aspects of her personality can vary wildly in other media. In Namco x Capcom, Karin is calmer, more level-headed and cynical, and serves as the voice of reason for the impulsive Sakura (though she still retains her trademark laugh and condescending comments during battle sequences). ",
+    "Combos": "https://www.youtube.com/watch?v=sZXLomV9x58",
+    "Combos2": "https://www.youtube.com/watch?v=ETnIhQGmg7M",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Tsumujigari",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ku-Renge",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Kanzuki-Ryu Hokojutsu Seppo",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tenko",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Violence Knee Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Senha Resshu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Kanzuki-Ryu Guren No Kata",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sekia Kuretsuha",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LK.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "M. Bison",
+    "Descripcion": "M. Bison, known as Vega (ベガ Bega?) in Japan, is a video game character and the primary antagonist of the Street Fighter series, first appearing as a non-playable boss in Street Fighter II before becoming playable in its update, Street Fighter II: Champion Edition. He is a self-imposed dictator and megalomaniac seeking world domination.",
+    "Foto": "imagenes/SF5/mbison2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/bison.png",
+    "FotoTier": "imagenes/sfTierlist/mbison.png",
+
+    "Height": "180 cm",
+    "Weight": "96 Kg",
+    "Likes": "World domination, Psycho Power",
+    "Skills": "Hypnosis",
+    "Dislikes": "Weak people, incompetent underlings, people who interfere with his plans",
+    "Affiliation": "Founder of Shadaloo",
+    "Personality": "M. Bison is an archetypal villain motivated by his own self-serving interests and lust for absolute power through world domination. He is a megalomaniacal and psychopathic dictator and terrorist who seeks to rule the world with an iron fist whilst also being universally regarded as the greatest and most powerful martial artist of all time (stated in his own pre-boss fight dialogue with Ryu in Street Fighter Alpha 3), and will readily destroy anything or anyone who dares to stand between him and his shady goals.",
+    "Combos": "https://www.youtube.com/watch?v=FCmsGmQotHY",
+    "Combos2": "https://www.youtube.com/watch?v=Y_MkngsLwuA",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Psycho Blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Knee Press",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Head Press",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Psycho Inferno",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Psycho Charge",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Psycho Crusher",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/HP.png",
+
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Ultimate Psycho Crusher",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Ibuki",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/SF5/ibuki2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Ibuki.png",
+    "FotoTier": "imagenes/sfTierlist/ibuki.png",
+
+    "Height": "162 cm",
+    "Weight": "55 Kg",
+    "Likes": "Her pet Don-chan (raccoon dog), roasted sweet potatoes, midwife toads",
+    "Skills": "Fast eater",
+    "Dislikes": "Ninja training, detention",
+    "Affiliation": "Ninja/Student",
+    "Personality": "Likely in the wake of the era which Street Fighter III debuted in, specifically that of the 1990s and the Lost Decade era of Japan, Ibuki comes to represent the youth generation gap within Japanese society, a tomboyish teenage ninja divided between traditional Japanese devotion to duty and the rise of a global liberated and outgoing youth culture in the wake of the rise of modern Information Age infrastructure.",
+    "Combos": "https://www.youtube.com/watch?v=acj5YgACzVU",
+    "Combos2": "https://www.youtube.com/watch?v=AOySnR-hb98",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Agemen",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kobekudaki",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Sazan",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bonshogeri",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Nobusama",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/2k.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sasanaki",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Kachofugetsu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Guile",
+    "Descripcion": "Guile (ガイル Gairu?) is a video game character from the Street Fighter series, first appearing in Street Fighter II. He is a major in the United States Air Force whose goal is to finish the criminal organization Shadaloo, while at the same time investigating the whereabouts of his best friend Charlie Nash.",
+    "Foto": "imagenes/SF5/guile2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Guile.png",
+    "FotoTier": "imagenes/sfTierlist/guile.png",
+
+    "Height": "182 cm",
+    "Weight": "86 Kg",
+    "Likes": "American coffee, country music, American automobiles",
+    "Skills": "Puzzle solving",
+    "Dislikes": " M. Bison (the killer of his best friend), bears, wasting money on food, deaths, involving others in his personal issues.",
+    "Affiliation": "Major of the United States Air Force",
+    "Personality": ", Guile is shown to be a stoic and very focused person, always giving advice to others including Abel about recklessness, bravery and the will to survive the battlefield. He is also seen to be happy when he and Charlie are having a sparring match after both ends up in a draw. However at the present day during the game's story, his friendship with Charlie was damaged when Guile was overpowered by Charlie in the fight. ",
+    "Combos": "https://www.youtube.com/watch?v=Icb8aLW-a9k",
+    "Combos2": "https://www.youtube.com/watch?v=LHn4Px1O_dg",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Knee Bazooka",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Full Bullet Magnum",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Somersault Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sonic Boom",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sonic Cross",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Sonic Hurricane",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/BackLeft.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Menat",
+    "Descripcion": "Menat (メナト Menato?, Arabic: منات, Egyptian: 𓅓𓈖𓏏) is a video game character from the Street Fighter series, first appearing in the second DLC season of Street Fighter V.[5] She is a young Egyptian fortune teller residing in the Palazzo Mistero in Italy and the Soul Power wielding apprentice of Rose.",
+    "Foto": "imagenes/SF5/menat2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Menat.png",
+    "FotoTier": "imagenes/sfTierlist/menat.png",
+
+    "Height": "163 cm",
+    "Weight": "55 Kg",
+    "Likes": "Souvenirs from across the world, journaling",
+    "Skills": "Fortune telling",
+    "Dislikes": "Foul-mouthed people, thrill rides",
+    "Affiliation": "Fortune Teller (Apprentice)",
+    "Personality": "She can act a bit empty headed at times, yet she has a polite but serious attitude. She travels the globe to convey various premonitions. At times, she can appear childish, energetic and bubbly. She can be annoyed towards certain people, like with the lower ranked Shadaloo soldiers.",
+    "Combos": "https://www.youtube.com/watch?v=AgSith2MBVw",
+    "Combos2": "https://www.youtube.com/watch?v=u48oDtKIuS4",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Divine Retribution",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Khamun Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Soul Sphere",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Spark",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Guardian of the Sun",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Nefertem",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Gill",
+    "Descripcion": "Gill (ギル Giru?) is a video game character from the Street Fighter series, first appearing as the main antagonist of Street Fighter III: New Generation. He is the leader of the Secret Society, a mysterious organization made up of humanity's elite who have controlled world events from the shadows since the dawn of history, and seeks to fulfill an apocalyptic agenda to ensure its own utopian salvation",
+    "Foto": "imagenes/SF5/gill2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Gill.png",
+    "FotoTier": "imagenes/sfTierlist/gill.png",
+    "Height": "208 cm",
+    "Weight": "338 Kg",
+    "Likes": "Order, being called a Messiah or Savior, Utopian beliefs, Kolin",
+    "Skills": "Pyrokinesis/Cryokinesis",
+    "Dislikes": "Disobedience",
+    "Affiliation": "Emperor of the Secret Society",
+    "Personality": "He is presented as a cult leader who would become a benevolent and compassionate monarch over his worthy subjects. Worldly, majestic, impressive, and charismatic in his pursuits, Gill is not without flaws however, being haughty, arrogant, disdainful, manipulative, and even outright draconic and elitist at worst, with his cult using immoral ways such as kidnapping, coercion, DNA manipulation, brainwashing, and extreme force in a similar way to Shadaloo in order to select their chosen people,",
+    "Combos": "https://www.youtube.com/watch?v=9xdNrra2pno",
+    "Combos2": "https://www.youtube.com/watch?v=DATVguMOEeg",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Cryo Drop Elbow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pyro Quarrel Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Pyrokinesis",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cryokinesis",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Moonsault Knee Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Seraphic Wing",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cammy",
+    "Descripcion": "Cammy White (キャミィ・ホワイト Kyamī Howaito?), also known by the codename Killer Bee (キラービー Kirā Bī?), is a video game character from the Street Fighter series, first appearing in Super Street Fighter II.",
+    "Foto": "imagenes/SF5/cammy2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Cammy.png",
+    "FotoTier": "imagenes/sfTierlist/cammy.png",
+
+    "Height": "155 cm",
+    "Weight": "61 Kg",
+    "Likes": "Chun-Li, her sisters (the Shadaloo dolls), Sakura, Delta Red, Guile, Ryu",
+    "Skills": "Knife-throwing",
+    "Dislikes": "Sympathy towards her (Shadaloo), soups, M. Bison, crime, Vega, Psycho Power",
+    "Affiliation": "MI6 Delta Red Operative ",
+    "Personality": "Cammy is a strong, forceful, determined, and pertinacious young woman with a firm sense of justice, who is extremely polite, friendly, respectful, and enthusiastic towards those whom she knows and cares about including Delta Red, Chun-Li or Guile and even helping others she barely knew like Ryu, but can be very brutal and sometimes condescending to those whom she dislikes such as M. Bison or Vega.",
+    "Combos": "https://www.youtube.com/watch?v=mxTU7KzhMAw",
+    "Combos2": "https://www.youtube.com/watch?v=PnczJ6RhIwQ",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Knee Bullet",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lift Upper",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Spiral Arrow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cannon Spike",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hooligan Combination",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180right.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Cross Stinger Assault",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Necalli",
+    "Descripcion": "Necalli (ネカリ Nekari?, Battle) is a video game character from the Street Fighter series, first appearing in Street Fighter V. He is an ancient, mysterious Aztec warrior searching for souls of powerful fighters to devour, and in some cases, the fighters themselves along with their souls.",
+    "Foto": "imagenes/SF5/necalli2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Necalli.png",
+    "FotoTier": "imagenes/sfTierlist/necalli.png",
+
+    "Height": "190 cm",
+    "Weight": "113 Kg",
+    "Likes": "Powerful souls",
+    "Skills": "Animal possession",
+    "Dislikes": "Manmade things, people",
+    "Affiliation": "Unknown",
+    "Personality": "Necalli is misanthropic, sinister, unrelenting, vicious, ominous and feral. He also has a wild personality, somewhat similar to Blanka (when angered), but is much more malicious and unstable. He possesses however a hidden genius.  Necalli seems to be attracted to powerful fighters and wishes to devour their souls either for sustenance or to appease his gods due to being their Emissary.",
+    "Combos": "https://www.youtube.com/watch?v=RvGd1q_br84",
+    "Combos2": "https://www.youtube.com/watch?v=mXiOzJG-hUM",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Opening Dagger ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Road of the Sun ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "The Disc's Guidance",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Raging Light ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mask of Tlalli ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Ceremony of Honor",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Poison",
+    "Descripcion": "Poison (ポイズン Poizun?) is a video game character who debuted as a common enemy in the beat-em-up game Final Fight. She would later join the Street Fighter series in a non-playable capacity starting with Street Fighter III: 2nd Impact, eventually becoming playable in the cross-over game Street Fighter X Tekken and later joining the cast of Ultra Street Fighter IV.",
+    "Foto": "imagenes/SF5/poison2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Poison.png",
+    "FotoTier": "imagenes/sfTierlist/poison.png",
+
+    "Height": "175 cm",
+    "Weight": "52 Kg",
+    "Likes": "French fries, her pet cat, high heels, Hugo, Chinese food",
+    "Skills": "Pyrokinesis/Cryokinesis",
+    "Dislikes": "Cops, hot dogs, Mayor Haggar",
+    "Affiliation": "Wrestling Manager/Valet",
+    "Personality": "Her story costume has her wearing a white sleeveless cocktail dress which shows a full amount of cleavage and was fastened with a black belt on her waist and black panties underneath it. The edge of her dress skirt reaches through her left knee and wears white high pumps. She retains her long hair from her previous appearance to show her fringes in each sides and was tied in a high ponytail and wears a pale gold heart-shaped sunglasses.",
+    "Combos": "https://www.youtube.com/watch?v=AgSith2MBVw",
+    "Combos2": "https://www.youtube.com/watch?v=u48oDtKIuS4",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Whiplash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Slap & Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Avant Line",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Love Me Tender",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shocking Heel",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Love Hurricane",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zeku",
+    "Descripcion": " Zeku was formerly the 38th grandmaster of the school of Bushinryu Ninjutsu, after being succeeded by his pupil Guy, he set out on a journey of self-discovery.",
+    "Foto": "imagenes/SF5/zeku2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Zeku.png",
+    "FotoTier": "imagenes/sfTierlist/zeku.png",
+
+    "Height": "181 cm",
+    "Weight": "89 Kg",
+    "Likes": "Watches, potato chips",
+    "Skills": "Appraising antiques, eating fast",
+    "Dislikes": "Stiff shoulders",
+    "Affiliation": "Ninja, 38th grandmaster of Bushinryu Ninjutsu",
+    "Personality": "While Zeku can be seen as just a simple serious and stern teacher, he does have a youthful, cheerful, upbeat, and a well-mannered attitude, as well as a strong sense of justice and modernity. His past experiences with sparring his former master, Genryusai, was influenced through his former disciple turned successor, Guy. He has a odd mannerism in which he likes to talk with himself, normally in his young form",
+    "Combos": "https://www.youtube.com/watch?v=qdr7xqGwQTs",
+    "Combos2": "https://www.youtube.com/watch?v=e9sGWd_9lfM",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Nouten Wari",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Bushin Gram - Koku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bushin Gram - Ban",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bushin Gekirinchu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Batsuzan Gaisei",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kolin",
+    "Descripcion": "Kolin (コーリン Kōrin?), also known by the alias Helen (ヘレン Heren?), is a video game character from the Street Fighter series, first appearing in Street Fighter III: New Generation as a non-playable character before making her playable debut in the second season of Street Fighter V.",
+    "Foto": "imagenes/SF5/kolin2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Kolin.png",
+    "FotoTier": "imagenes/sfTierlist/kolin.png",
+
+    "Height": "168 cm",
+    "Weight": "65 Kg",
+    "Likes": "Reading, butterflies, Gill",
+    "Skills": "Disguise, espionage",
+    "Dislikes": "Everything except Gill, soldiers, Urien, M. Bison",
+    "Affiliation": " The Secret Society",
+    "Personality": "Kolin is deeply religious, devoted to Gill and the teachings of the Secret Society. She carries a copy of the Book of Miraha, the Secret Society's holy book, and reads from it for strength when she is disheartened. She despises soldiers and seeks to end all war.",
+    "Combos": "https://www.youtube.com/watch?v=IMZYYf--8VU",
+    "Combos2": "https://www.youtube.com/watch?v=fIMZyQCMDXk",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Blizzard Heel",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sniping Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Parabellum",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Frost Touch",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vanity Step",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Frost Tower",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Seth",
+    "Descripcion": "Seth (セス Sesu?) is a video game character from the Street Fighter series, first appearing as the main antagonist of Street Fighter IV. He is the CEO of Shadaloo's weapon division, S.I.N., and one of many genetically engineered replacement bodies for M. Bison. Seth is also playable in Street Fighter V:",
+    "Foto": "imagenes/SF5/seth2.jpeg",
+    "FotoTier": "imagenes/sfTierlist/seth.png",
+
+    "Height": "198 cm",
+    "Weight": "85   Kg",
+    "Likes": "Plotting, destruction, learning new techniques",
+    "Skills": "Modifying things",
+    "Dislikes": "Humans, weakness, emotional people, those who oppose his dark desires, disobedient",
+    "Affiliation": "S.I.N",
+    "Personality": "Seth is just as intelligent as M. Bison himself, with ruthlessness and evil to match. Unlike M. Bison, Seth is generally very calm and concise, though he displays a fair bit of arrogance, often through his annoying-by-design tendency to laugh and gloat when using his more powerful moves. Seth also demonstrates a deep knowledge of the philosophy of human nature and the pursuits of purpose and self-awareness.",
+    "Combos": "https://www.youtube.com/watch?v=3FoUv9umxa4",
+    "Combos2": "https://www.youtube.com/watch?v=bh9JHaLyMQI",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Step Shoot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Hunter",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hecatoncheires",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mad Cradle",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Killing Head",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Tanden Destruction",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Birdie",
+    "Descripcion": "Birdie (バーディー Bādī?) is a video game character from the Street Fighter series, first appearing as a non-playable opponent in the original Street Fighter, before becoming playable in Street Fighter Alpha. He is an obese British punk rocker who fights using chains.",
+    "Foto": "imagenes/SF5/birdie2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Birdie.png",
+    "FotoTier": "imagenes/sfTierlist/birdie.png",
+
+    "Height": "216 cm",
+    "Weight": "230  Kg",
+    "Likes": "Beer, beef jerky, food, making money, his hairdo, Shadaloo (formerly)",
+    "Skills": "Gluttony, criminality",
+    "Dislikes": "Children, police, hunger, wearing hats, F.A.N.G, Shadaloo",
+    "Affiliation": "Kanzuki Zaibatsu",
+    "Personality": "Birdie's character is very fitting of the dim-witted brute archetype. He is violent, short-tempered and generally unkind to others around him, and has an unsettling habit of licking his chain attached to his wrist before and/or after combat.",
+    "Combos": "https://www.youtube.com/watch?v=tt7L2JfuSzA",
+    "Combos2": "https://www.youtube.com/watch?v=KEhXzX0048s",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Bull Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bull Charge",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Bull Head ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hanging Chain",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Killing Head",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Skip To My Chain",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Abigail",
+    "Descripcion": "Abigail (アビゲイル Abigeiru?) is a video game character who debuted as the penultimate boss in the beat 'em up game Final Fight, before appearing as a playable fighter in the Street Fighter series starting with the second season of Street Fighter V. He is a hulking brute of gargantuan proportions and former enforcer for the Mad Gear Gang.",
+    "Foto": "imagenes/SF5/abigail2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Abigail.png",
+
+    "FotoTier": "imagenes/sfTierlist/abigail.png",
+
+    "Height": "244 cm",
+    "Weight": "265 Kg",
+    "Likes": "Bananas, huge cars, Death Metal",
+    "Skills": "Modding cars",
+    "Dislikes": "Rust",
+    "Affiliation": "Mad Gear (formerly)",
+    "Personality": "Abigail's personality is like that of most other stereotypical rev heads and ironically, while traditional Canadian stereotypes include being generally well-mannered and polite, Abigail very rarely display these traits despite being in a gang and being an expert on vehicles; he is instead shown to be quite dimwitted, hot tempered, abrash and childish. He always likes to pretend he's driving a car and making bad impressions of car noises.",
+    "Combos": "https://www.youtube.com/watch?v=6DRo6i6U6Lo",
+    "Combos2": "https://www.youtube.com/watch?v=q5XiOg7Pcoc",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Abi Hammer",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bang Bang",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/LP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Abigail Punch",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mad Cradle",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Abigail Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Abigail Special",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Dhalsim",
+    "Descripcion": "Dhalsim (ダルシム Darushimu?, Hindi: दाल्सीम, Dālsīma) is a video game character from the Street Fighter series, first appearing in Street Fighter II. He is a Yoga Master who possesses the ability to stretch his body and conjure fire.",
+    "Foto": "imagenes/SF5/dhaslim2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Dhalsim.png",
+    "FotoTier": "imagenes/sfTierlist/dhalsim.png",
+
+    "Height": "176 cm",
+    "Weight": "49.5 Kg",
+    "Likes": "Meditation, curry, elephants ",
+    "Skills": "Sermons ",
+    "Dislikes": "Sweets, meat",
+    "Affiliation": "Yoga Master",
+    "Personality": "Balrog is generally self-centered, hot-tempered, arrogant and sadistic. He is a belligerent pugilist who possesses an insatiable urge for money and a vicious, bullying mean streak, often refusing to take responsibility for his actions. Despite being a once great prize boxer, Balrog has intentionally cheated in his fights whenever he felt like it, and has even killed one of his opponents (though by accident).",
+    "Combos": "https://www.youtube.com/watch?v=eE8YUDAvloI",
+    "Combos2": "https://www.youtube.com/watch?v=fLCwLioSHfc",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Drill Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kikokuduki",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Yoga Fire",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Yoga Flame",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Yoga Gale",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Yoga Teleport",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/3P.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Yoga Sunburst",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Laura",
+    "Descripcion": "Laura Matsuda (ララ・マツダ/松田 Rara Matsuda?) is a video game character from the Street Fighter series, first appearing in Street Fighter V. She is a free-spirited, hyperactive Brazilian woman and the older sister of Sean.",
+    "Foto": "imagenes/SF5/Laura2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Laura.png",
+    "FotoTier": "imagenes/sfTierlist/laura.png",
+
+    "Height": "175 cm",
+    "Weight": "72 Kg",
+    "Likes": "Her younger brother, meat dishes, fighting, fighting strong opponents,",
+    "Skills": "Producing static electricity",
+    "Dislikes": "Vegetables, boredom, men who are weaker then her",
+    "Affiliation": "Martial artist",
+    "Personality": "Described as bohemian (being socially unorthodox), Laura has a free spirited and energetic personality and enjoys thrills. Similar to Makoto, she has a desire to promote her family's fighting style.Laura also likes to give advice to others and her character-specific versus quotes imply that she is very easy to befriend too. ",
+    "Combos": "https://www.youtube.com/watch?v=W6dwK2gzwIk",
+    "Combos2": "https://www.youtube.com/watch?v=lFM3VbeGvqc",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Step Elbow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bang Bang",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Bolt Charge ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Thunder Clap",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sunset Wheel",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Inazuma Spin Hold",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Balrog",
+    "Descripcion": "Balrog, known as M. Bison (マイク・バイソン Maiku Baison?) in Japan, is a video game character from the Street Fighter series, first appearing as a non-playable boss in Street Fighter II before becoming playable in its update, Street Fighter II: Champion Edition. He is a greedy American boxer and personal bodyguard to M. Bison.",
+    "Foto": "imagenes/SF5/balrog2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Balrog.png",
+    "FotoTier": "imagenes/sfTierlist/balrog.png",
+
+    "Height": "198 cm",
+    "Weight": "135  Kg",
+    "Likes": "Women, bourbon, money, winning, cheating",
+    "Skills": "Gambling ",
+    "Dislikes": "Fish, math, effort",
+    "Affiliation": "Shadaloo King",
+    "Personality": "Balrog is generally self-centered, hot-tempered, arrogant and sadistic. He is a belligerent pugilist who possesses an insatiable urge for money and a vicious, bullying mean streak, often refusing to take responsibility for his actions. Despite being a once great prize boxer, Balrog has intentionally cheated in his fights whenever he felt like it, and has even killed one of his opponents (though by accident).",
+    "Combos": "https://www.youtube.com/watch?v=xgXQCotCxv4",
+    "Combos2": "https://www.youtube.com/watch?v=G0v0ur5hTG0",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Under Impact",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/LK.png",
+          "imagenes/ImagenesAtaquesSF/KM.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Stomping Combo",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/KM.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Dash Straight",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dash Grand Blow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Screw Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Gigaton Blow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Kage",
+    "Descripcion": "Kage (影 Kage?, Shadow, pronounced as KA-gé), also known as Kagenaru Mono (影ナル者 Kagenaru Mono?, The Shadowed One) is a character introduced in the fourth season of Street Fighter V: Arcade Edition.[3][4]",
+    "Foto": "imagenes/SF5/kage2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Kage.png",
+    "FotoTier": "imagenes/sfTierlist/kage.png",
+
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Likes": "Defeating powerful opponents",
+    "Skills": "Cooking ",
+    "Dislikes": "Losing his existence, weakness, Ryu",
+    "Affiliation": "Demonic Martial Artist",
+    "Personality": "Much like Evil Ryu, Kage is sadistic, wrathful, usually threatening those he faces. Unlike him, however, Kage is also cocky, believing to be the embodiment of power (and as shown when changing the language, immortal due to it), which would be the very reason he would be the strongest part of his former host, and it would be why he bested Sagat, and apparently defeated Akuma.",
+    "Combos": "https://www.youtube.com/watch?v=TzC738MN0dg",
+    "Combos2": "https://www.youtube.com/watch?v=bgxEVXtixTo",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Zugaihasatsu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kikokuduki",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Airborne Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shakunetsu Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoryuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Metsu Shoryuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shun Goku Satsu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/HP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lucia",
+    "Descripcion": "Lucia Morgan (ルシア・モーガン Rushia Mōgan?) is a character from the Final Fight series of beat 'em up games. She first appeared in Final Fight 3 and as one of the four playable main characters. She later made her Street Fighter debut as a playable character in Street Fighter V: Arcade Edition.",
+    "Foto": "imagenes/SF5/lucia2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Lucia.png",
+    "FotoTier": "imagenes/sfTierlist/lucia.png",
+
+    "Height": "172 cm",
+    "Weight": "52 Kg",
+    "Likes": "Instant noodles, Metro City, SCU (Special Crime Unit), Naps",
+    "Skills": "Cooking ",
+    "Dislikes": "Cooking",
+    "Affiliation": "Unknown",
+    "Personality": "Lucia is an enthusiastic, determined, and upright police officer who rather lets her fist do the talking than read by the book as most traditional officers do, she does every benevolent duty with a smile. She is supportive of those in her company, especially with Cody and Haggar. Behind this smile however is her inability to do housework, most notoriously cooking, exaggerated to the point that she possesses the bad cook trope found in some prominent female characters, be it game, anime or anything in between, where her cooking is so bad it is humorously poisonous, (it made Cody puke)",
+    "Combos": "https://www.youtube.com/watch?v=2bzmDWcwuYA",
+    "Combos2": "https://www.youtube.com/watch?v=LXpv1bOxLP4",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Elbow Crush",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Drop Target",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Gun Smoke",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rough Chase",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flipper Shot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Hard Hit Knee",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Sagat",
+    "Descripcion": "Sagat (サガット Sagatto?, Thai: สกัด) is a video game character from the Street Fighter series, first appearing as the non-playable main antagonist and final boss in the original Street Fighter.",
+    "Foto": "imagenes/SF5/sagat.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Sagat.png",
+    "FotoTier": "imagenes/sfTierlist/sagat.png",
+
+    "Height": "226 cm",
+    "Weight": "98 Kg",
+    "Likes": "Strong opponents, tigers, fighting Ryu",
+    "Skills": "Holding breath underwater (for over 20 minutes",
+    "Dislikes": "Shoryuken, palliative people, Satsui no Hado, His former student, dishonorable fighters, Shadaloo, Go, Ryu (formerly)",
+    "Affiliation": "Shadaloo",
+    "Personality": "Sagat encompasses a stereotypical proud fighter personality since he is very powerful and strong-willed, as well as hard-working; he is dedicated to the martial arts life in both body and spirit. According to various bios, his natural size drove him to become a powerful fighter. Sagat's uncommon physical appearance makes him menacing and downright unfriendly at first glance, which is true to a certain extent.",
+    "Combos": "https://www.youtube.com/watch?v=dQksDmhz2Js",
+    "Combos2": "https://www.youtube.com/watch?v=O29X6V5ssEU",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Tiger Heavy Elbow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Step High Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Tiger Shot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grand Tiger Shot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tiger Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tiger Knee Crush",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Tiger Rampag",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "R. Mika",
+    "Descripcion": "Rainbow Mika (レインボー・ミカ Reinbō Mika?), real name Mika Nanakawa (七川 美華 Nanakawa Mika?), also known as R. Mika, is a video game character from the Street Fighter series, first appearing in Street Fighter Alpha 3. She is a Japanese professional wrestler from the Iwashigahama Japan Women's Pro-Wrestling organization, trained by the domineering Yoko Harmageddon.",
+    "Foto": "imagenes/SF5/rmika2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Mika.png",
+    "FotoTier": "imagenes/sfTierlist/r-mika.png",
+
+    "Height": "165 cm",
+    "Weight": "62 Kg",
+    "Likes": "Master Zangief's wrestling philosophy, intensive training (specially running in a sandy beach",
+    "Skills": "Running on sandy beaches, finger push-ups, neck bridge, wrestling",
+    "Dislikes": "Rude youngsters",
+    "Affiliation": "Iwashigahama Japan Women's Pro-Wrestling",
+    "Personality": "Mika is a sprightly, beautiful girl who prides herself on going all out and wowing the crowds with her wrestling moves. Her performances can be a little rough around the edges, but she definitely has the potential to enter the pro circuit. She idolizes Zangief and considers his way of fighting as the ideal route for herself. The mask she wears around her eyes can sometimes make it difficult to tell what Mika is thinking or feeling, but she is very open about her emotions and speaks in a distinctive manner.",
+    "Combos": "https://www.youtube.com/watch?v=6vR0pJZsq7g",
+    "Combos2": "https://www.youtube.com/watch?v=lJCJLTpUa38",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Lady Mika",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Passion Press",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Shooting Peach",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wingless Airplane",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rainbow Typhoon",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Brimstone",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Peach Assault",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Blanka",
+    "Descripcion": "Blanka (ブランカ Buranka?), also known by his birth name Jimmy (ジミー Jimī?), is a video game character from the Street Fighter series, first appearing in Street Fighter II. He is a feral man from the Brazilian jungle with green skin and the ability to generate electricity.",
+    "Foto": "imagenes/SF5/blanka2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Blanka.png",
+    "FotoTier": "imagenes/sfTierlist/blanka.png",
+
+    "Height": "192 cm",
+    "Weight": "98 Kg",
+    "Likes": "His mother, Arapaima, tropical fruits",
+    "Skills": "Hunting, electric discharge",
+    "Dislikes": "Being separated from his mother, people who wear masks",
+    "Affiliation": "Unemployed/Plushies Mascot",
+    "Personality": "Despite taking on the appearance of a wild man, Blanka is generally passive and docile, and is fond of family connections and friendships as well as children, as seen in the animated series. Yet, when angered, Blanka attacks as though he was a wild animal let loose from a cage, ferociously attacking his opponents with predatorial rage.",
+    "Combos": "https://www.youtube.com/watch?v=PZvcw4T3j_U",
+    "Combos2": "https://www.youtube.com/watch?v=nPiGIOm95Aw",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Rock Crusher",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Surprise Forward",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/3K.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Rolling Attack",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Backstep Roll",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vertical Roll",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wild Hunt",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Dynamic Rolling",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cody",
+    "Descripcion": "Cody Travers (コーディー・トラバース Kōdī Torabāsu?) is a video game character who debuted in the beat-em-up series Final Fight before appearing as a playable fighter in the Street Fighter series starting with Street Fighter Alpha 3. ",
+    "Foto": "imagenes/SF5/cody2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Cody.png",
+    "FotoTier": "imagenes/sfTierlist/cody.png",
+
+    "Height": "185 cm",
+    "Weight": "80 Kg",
+    "Likes": " Metro City's street meat, Guy, Haggar, Jessica, Spinach, Milk",
+    "Skills": "Knife tricks",
+    "Dislikes": "Boredom, Mad Gear, Edi. E, People bad at fighting",
+    "Affiliation": "Mayor of Metro City",
+    "Personality": "In Final Fight, Cody is depicted as being a combative, reckless but ultimately positive and good-natured man, having a powerful sense of justice and love for his girlfriend, Jessica. However, in his Street Fighter appearances, after breaking up with Jessica, losing touch with his friends and spending several years in prison, Cody has become extremely aloof, apathetic, doubtful and at times, snarky. He remains pugnacious as ever, occasionally breaking out of prison just to fight and relieve his boredom, and often maintains his generally dismissive air - a major exception being when he finds an opponent that can entertain him.",
+    "Combos": "https://www.youtube.com/watch?v=y_ZXhnT93Lc",
+    "Combos2": "https://www.youtube.com/watch?v=P38QGMVNDNk",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Hammer Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bad Spray",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Tornado Sweep",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ruffian Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rapid Fire",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bean Ball ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Criminal Punisher",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sakura",
+    "Descripcion": "Sakura Kasugano (春日野 さくら Kasugano Sakura?) is a video game character from the Street Fighter series, first appearing in Street Fighter Alpha 2. She is a Japanese girl with an intense fixation on Ryu, having copied and learned many of his techniques, and chasing him around the world to prove herself to him.",
+    "Foto": "imagenes/SF5/Sakura2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Sakura.png",
+    "FotoTier": "imagenes/sfTierlist/sakura.png",
+
+    "Height": "157 cm",
+    "Weight": "52 Kg",
+    "Likes": "Track and field, baseball, Ryu, playing video games, becoming stronger, dancing, exercise",
+    "Skills": "Hunting, electric discharge",
+    "Dislikes": "Math, playing video games with her little brother Tsukushi (because he always beats her)",
+    "Affiliation": "Arcade Manager (Part-time, Current)",
+    "Personality": "In many aspects, Sakura is very tomboyish, outgoing, and respectful in personality, as she is most of the time happy, energetic, cheerful, positive, hard-working and focused in combat. Despite initial depictions and illustrations of appearing to be brash and confrontational, she actually has a noble spirit and a very determined attitude, either in studies or in martial arts training. She sees Ryu as an idol and teacher, rather than an opponent, since she always watches him fight and mirrors herself on his philosophies in battle.",
+    "Combos": "https://www.youtube.com/watch?v=95I-Fq3_TuA",
+    "Combos2": "https://www.youtube.com/watch?v=6OYFovcgU28",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Floral Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Furiko Upper",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tengyo Hadoken ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shouoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shunpukyaku ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Sakura Rain",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Falke",
+    "Descripcion": "Falke (ファルケ Faruke?) is a video game character from the Street Fighter series, first appearing in Ed's character story in Street Fighter V before becoming playable in the game's third DLC season. She is a member of Neo Shadaloo.",
+    "Foto": "imagenes/SF5/falke2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Falke.png",
+    "FotoTier": "imagenes/sfTierlist/falke.png",
+
+    "Height": "176 cm",
+    "Weight": "54 Kg",
+    "Likes": "Milk tea, theater watching",
+    "Skills": "Housekeeping",
+    "Dislikes": "Shadaloo",
+    "Affiliation": " Neo Shadaloo (current)",
+    "Personality": "Falke can be seen, based on her win quotes, as a calm and collected person. She is a good strategist and a perfectionist due to the extensive training she received while imprisoned by Shadaloo. Like Ed, Falke also has a distaste towards Bison after being experimented on in the past and is also opposed against not only Shadaloo but other criminal organizations such as the Illuminati.",
+    "Combos": "https://www.youtube.com/watch?v=aLlzN0x1yBw",
+    "Combos2": "https://www.youtube.com/watch?v=hE9hLGRHkO8",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Psycho Spitze",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Luftjagd",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Psycho Schneide",
+        "Animacion": ["imagenes/ImagenesAtaquesSF/2p.png"]
+      },
+      {
+        "nombreAtaque": "Katapult",
+        "Animacion": ["imagenes/ImagenesAtaquesSF/2k.png"]
+      },
+      {
+        "nombreAtaque": "Psycho Panzer ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/HP.png",
+
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Psycho Fluegel",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ken",
+    "Descripcion": "Ken Masters (ケン・マスターズ Ken Masutāzu?) is a video game character and deuteragonist of the Street Fighter series, first appearing in the original Street Fighter. Similar to his longtime best friend and rival Ryu, Ken's goal is to test his power against many different fighters and strives to become stronger, but holds more restraint due to not wanting to jeopardize his family life.",
+    "Foto": "imagenes/SF5/ken2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Ken.png",
+    "FotoTier": "imagenes/sfTierlist/ken.png",
+    "Height": "175 cm",
+    "Weight": "77 Kg",
+    "Likes": " His best friend Ryu, his master Gouken, his student Sean Matsuda, training, winning fights",
+    "Skills": "Cooking pasta dishes",
+    "Dislikes": "Losing fights, Akuma, M. Bison, Satsui no Hado, Vega, Gill, those who dare to threaten and harm his family",
+    "Affiliation": "Martial Artist/Hotel-Business Tycoon ",
+    "Personality": "While Ryu is the more serious and stoic of the two, Ken is the complete opposite - stylish, unorthodox and unpredictable, as well as being much more violent and aggressive than Ryu. He is an alpha male with a giant ego and constantly reminds his opponents about his greatness. While he can be brash, egotistical, and arrogant at times, his heart is pure. He is generally kind, friendly, a good person, and very easygoing which led him into starting a family of his own. He never backs down from a fight no matter how difficult it looks.",
+    "Combos": "https://www.youtube.com/watch?v=JNqnkxPNkh4",
+    "Combos2": "https://www.youtube.com/watch?v=2gOQlZp9Fvg",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Inazuma Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chin Buster",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoryuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tatsumaki Senpukyaku ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Tatsumaki Senpukyaku  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Guren Enjinkyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "F.A.N.G",
+    "Descripcion": "F.A.N.G (ファン Fan?, Chinese: 方), also known as the Great F.A.N.G in Japanese, is a video game character from the Street Fighter series, first appearing in Street Fighter V. He is the second-in-command of Shadaloo, ranking only below M. Bison in the hierarchy.",
+    "Foto": "imagenes/SF5/fang2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/FANG.png",
+    "FotoTier": "imagenes/sfTierlist/fang.png",
+    "Height": "222 cm",
+    "Weight": "Unknown",
+    "Likes": "Experiments, the number 2, Lord Bison",
+    "Skills": "Mixing toxins",
+    "Dislikes": "Lord Bison's enemies, the numbers 1 and 3",
+    "Affiliation": " Shadaloo",
+    "Personality": "F.A.N.G is incredibly eccentric and flamboyant, his frequent mannerisms usually consisting of odd movements and poses, much to the bemusement of others. Regardless, he is also a cold elitist and acts very condescending towards others, an example being his interactions with his own fellow assassin, Vega and boxing enforcer, Balrog, both of whom he considers incompetent and foolish. F.A.N.G is obsessed with protocol and order, with this apparent meticulousness being intense enough to drive Birdie to defect from Shadaloo. He runs the administrative operations of Shadaloo",
+    "Combos": "https://www.youtube.com/watch?v=UAc0gGSrefM",
+    "Combos2": "https://www.youtube.com/watch?v=aok02UsTKas",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Senpukuga",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/3P.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Nirenko",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Nishikyu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sotoja",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Nikankyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Shishiruirui",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ed",
+    "Descripcion": "Ed (エド Edo?), originally known as the Bandaged Boy, is a video game character from the Street Fighter series, first appearing in Street Fighter IV as a non-playable character before making his playable debut in the second season of Street Fighter V.",
+    "Foto": "imagenes/SF5/ed2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Ed.png",
+    "FotoTier": "imagenes/sfTierlist/ed.png",
+
+    "Height": "182 cm",
+    "Weight": "86 Kg",
+    "Likes": " Boxing, total victory",
+    "Skills": "Imitating Balrog, billiards",
+    "Dislikes": "People who only talk about ideals",
+    "Affiliation": "Head of Neo Shadaloo  ",
+    "Personality": "Not at all like the young, defenseless boy he once was during the Street Fighter IV events, Ed has grown a large muscular body to match his ego by the time Street Fighter V takes place. He can be cocky and flashy while taking on his opponent, having his own fair share of fun in the process.",
+    "Combos": "https://www.youtube.com/watch?v=gwbUO-IfeVw",
+    "Combos2": "https://www.youtube.com/watch?v=CiALXChFVmQ",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Psycho Spark",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Psycho Upper",
+        "Animacion": ["imagenes/ImagenesAtaquesSF/2p.png"]
+      },
+      {
+        "nombreAtaque": "Psycho Rising",
+        "Animacion": ["imagenes/ImagenesAtaquesSF/2k.png"]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Psycho Barrage",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Juri",
+    "Descripcion": "Juri Han (ハン・ジュリ Han Juri?, Hangul: 한주리, Hanja: 韓蛛俐) is a video game character from the Street Fighter series, first appearing in Super Street Fighter IV. She is a brutal South Korean Taekwondo martial artist who derives pleasure from inflicting pain on others.",
+    "Foto": "imagenes/SF5/juri2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Juri.png",
+    "FotoTier": "imagenes/sfTierlist/juri.png",
+
+    "Height": "165  cm",
+    "Weight": "57  Kg",
+    "Likes": "Spicy foods, spiders",
+    "Skills": "Photographic memory",
+    "Dislikes": "Rules, boring people",
+    "Affiliation": " Illuminati (A Shadow Falls)",
+    "Personality": "Juri fights purely for the thrill of the battle; unlike Ryu, who seeks meaning, her drive is much more vengeful, selfish and ruthless, as she's extremely sadistic, liking to inflict pain on her foes, and she's also extremely hot-tempered, as she can easily lose her temper when she is struck back in retaliation without warning. ",
+    "Combos": "https://www.youtube.com/watch?v=ifBE518SviM",
+    "Combos2": "https://www.youtube.com/watch?v=k4quxymR9do",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Korenzan",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Senkaikyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Fuharenkyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tensenrin",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ryodansatsu ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Sakkai Fuhazan",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Honda",
+    "Descripcion": "Edmond Honda (江戸主水本田 Edomondo Honda?), more commonly known as E. Honda, is a video game character from the Street Fighter series, first appearing in Street Fighter II. He is an honorable champion Sumo wrestler that values tradition.",
+    "Foto": "imagenes/SF5/ehonda2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/EHonda.png",
+    "FotoTier": "imagenes/sfTierlist/e-honda.png",
+    "Height": "185 cm",
+    "Weight": "137 Kg",
+    "Likes": "Tiramisu, chankonabe (traditional Japanese stew)",
+    "Skills": "Being a cook ",
+    "Dislikes": "Indecision, dishonoring his family",
+    "Affiliation": "Shadaloo",
+    "Personality": "E. Honda is an honorable and friendly man who warmly welcomes people he sees as good; he is also ambitious in regards to displaying the strength of sumo to the world, and to that end he always gives his all during his training and fighting regimens. He also enjoys hot steaming baths between training sessions, his favorite spot being Kapukon Yu.",
+    "Combos": "https://www.youtube.com/watch?v=0Ug4gy0Mm4A",
+    "Combos2": "https://www.youtube.com/watch?v=j4LPSSeNvj8",
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Harai-Geri",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chikara-Ashi",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Sumo Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sumo Headbutt",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Oicho Throw",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Kamigashima",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ryu",
+    "Descripcion": "Ryu (リュウ(隆) Ryū?, Prosperous, Plentiful, Abundant) is the main protagonist of the Street Fighter series, first appearing in the original Street Fighter. He is an experienced martial artist, highly focused on his training, aiming to become the strongest he can.",
+    "Foto": "imagenes/SF5/ryu2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Ryu.png",
+    "FotoTier": "imagenes/sfTierlist/ryu.png",
+
+    "Height": "175 cm",
+    "Weight": "85  Kg",
+    "Likes": "Grapes, meatloaf, food, helping people with problems",
+    "Skills": "Can sleep anywhere ",
+    "Dislikes": "Materialism, shoes, his evil alter-ego, Satsui no Hado, Psycho Power, Akuma ",
+    "Affiliation": "Wandering Martial Artist",
+    "Personality": "Ryu is a silent, meek, humble, submissive, self-deprecating, and respectful individual; which is often juxtaposed against the light-hearted, fiery persona of his childhood friend, Ken. He wanders the world with the desire for complete mastery of his martial art, and takes both his travels and training seriously. For Ryu, the training and the mastery that comes from the fight are all that he requires for satisfaction, declining the more material trappings of his various accomplishments as a warrior, simply moving on to his next challenge once he is victorious without delay, unless he is offered food or if he wants to converse with his friendly rivals",
+    "Combos": "https://www.youtube.com/watch?v=eC4dow4WYiY",
+    "Combos2": "https://www.youtube.com/watch?v=3GIHWwwbBMQ",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Axe Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Solar Plexus Strike",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoryuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tatsumaki Senpukyaku ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Tatsumaki Senpukyaku  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Shinku Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zangief",
+    "Descripcion": "Zangief (ザンギエフ Zangiefu?, Russian: Зангиев, Zangiyev), also known as the Red Cyclone (赤きサイクロン Akaki Saikuron?), is a video game character from the Street Fighter series, first appearing in Street Fighter II. He is a national Russian hero who is always seen fighting for the glory of his country.",
+    "Foto": "imagenes/SF5/zangief2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Zangief.png",
+    "FotoTier": "imagenes/sfTierlist/zangief.png",
+
+    "Height": "214 cm",
+    "Weight": "181 Kg",
+    "Likes": "Wrestling Bears, his country, Vodka",
+    "Skills": "Resistance to cold",
+    "Dislikes": "Ranged Attacks (like the Hadoken), beautiful women of marriageable age",
+    "Affiliation": "Shadaloo ",
+    "Personality": "Born and raised in the Soviet Union, Zangief is an incredibly patriotic character who has been motivated in some way to fight for his Motherland in every single game he has ever been in. While his personality has varied from one media source to another, Zangief is mostly been portrayed as a very fearless and tactical fighter who is prone to quick temperaments, and is always very competitive.",
+    "Combos": "https://www.youtube.com/watch?v=I5EcfxsSDpk",
+    "Combos2": "https://www.youtube.com/watch?v=pQi5my7DlFA",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Knee Hammer",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Butt",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Screw Pile Driver",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/360.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Siberian Express",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tundra Storm ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/2k.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Borscht Dynamite ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/360.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Bolshoi Russian Suplex",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/360.png",
+          "imagenes/ImagenesAtaquesSF/360.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Alex",
+    "Descripcion": "Alex (アレックス Arekkusu?) is a video game character from the Street Fighter series, first appearing in Street Fighter III: New Generation and that he had served as the main protagonist of the Street Fighter III sub-series.",
+    "Foto": "imagenes/SF5/alex2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Alex.png",
+    "FotoTier": "imagenes/sfTierlist/alex.png",
+
+    "Height": "195 cm",
+    "Weight": "111 Kg",
+    "Likes": "Training, his family, military fashion, city life",
+    "Skills": "NYC pizza connoisseur, fixing motorcycles, weekend carpentry",
+    "Dislikes": "Those who prey on the weak",
+    "Affiliation": "Professional Wrestler,annoying people ",
+    "Personality": "Often crass and abrasive, Alex's boldness tends to land him in deep trouble; he is also prone to violent outbursts of extreme aggression, especially if the people he loves are threatened. He is also very straightforward and refuses to mince words, especially when it comes to his confidence in his abilities. At times, this desire to prove himself can overwhelm his common sense, leading to very dangerous situations that test the very limits of his fighting capabilities.",
+    "Combos": "https://www.youtube.com/watch?v=aJRMPVwWq6Q",
+    "Combos2": "https://www.youtube.com/watch?v=C7W9WMAit2s",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Chop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lariat",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Air Stampede",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Slash Elbow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Knee Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Heavy Hammer",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Nash",
+    "Descripcion": "Charlie Nash (チャーリー・ナッシュ Chārī Nasshu?) is a video game character from the Street Fighter series, first appearing in Street Fighter Alpha, having originally been referenced by name in Street Fighter II. ",
+    "Foto": "imagenes/SF5/nash2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Nash.png",
+    "FotoTier": "imagenes/sfTierlist/nash.png",
+
+    "Height": "186 cm",
+    "Weight": "93  Kg",
+    "Likes": " His best friend Guile ,After revival: Nothing special",
+    "Skills": "Harrier maintenance, psychology",
+    "Dislikes": "After revival: Justice, scotch, and M. Bison",
+    "Affiliation": "Illuminati (currently) ",
+    "Personality": "Charlie is a calm and confident fighter - sometimes to a fault - with a strong sense of justice. Charlie has a crime-fighting attitude akin to his friend Guile, though more out of righteousness rather than revenge; even so, he sometimes acts reckless. While normally he acts in a professional manner, he lets his emotions get the better of him at times. In his Alpha artwork Charlie is shown relaxing while drinking scotch and reading a book which is very different from Guile’s behaviour.",
+    "Combos": "https://www.youtube.com/watch?v=42TEgeuYJTM",
+    "Combos2": "https://www.youtube.com/watch?v=tovt55gpKuM",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Knee Bazooka",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumping Sobat",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Sonic Boom",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sonic Scythe",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tragedy Assault",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Judgement Saber",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Vega",
+    "Descripcion": "Vega, known as Balrog (バルログ Barurogu?) in Japan, is a video game character from the Street Fighter series, first appearing as a non-playable boss in Street Fighter II before becoming playable in it's update, Street Fighter II: Champion Edition.",
+    "Foto": "imagenes/SF5/vega2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Vega.png",
+    "FotoTier": "imagenes/sfTierlist/vega.png",
+
+    "Height": "186 cm",
+    "Weight": "84 Kg",
+    "Likes": " Beauty, himself, roses",
+    "Skills": "Sticking to walls",
+    "Dislikes": "Ugly things, blood splatter splashback",
+    "Affiliation": "Shadaloo",
+    "Personality": "Vega's character archetype is very familiar in Japanese manga and anime: the Narcissist (ナルシスト Narushisuto?), often depicted as a long-haired, effeminate self-lover. Certain archetypal characters are comparable to Vega, elaborated on his pop culture page.",
+    "Combos": "https://www.youtube.com/watch?v=QPCoV1q3tZ0",
+    "Combos2": "https://www.youtube.com/watch?v=dXSPRD-Z_m8",
+
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Mercury Shard",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Buster Claw",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Switching Claw",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crimson Terror",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grand Izuna Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Bloody Rain",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ]
+  }
+]

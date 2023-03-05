@@ -1,0 +1,207 @@
+.imgAtaque {
+    height: 1.6vw !important;
+
+}
+
+.DivGeneral {
+    color: black;
+    text-align: center;
+    position: relative;
+    background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+
+
+
+}
+.pro{
+    background-color: rgba(72, 191, 196, 0.247);
+color:white!important;
+
+
+-webkit-box-shadow: inset 0 0 0 2px black;
+-moz-box-shadow: inset 0 0 0 2px black;
+box-shadow: inset 0 0 0 2px black;
+
+
+}
+
+/*    outline: 2px white solid!important;
+background-color: rgba(128, 128, 128, 0.438);
+
+*/
+
+.bodySKULL{
+    border-bottom:6px white solid!important;
+
+}
+
+th{
+    border: 6px solid rgb(255, 255, 255);
+margin-bottom: 40px!important;
+
+}
+
+.TablaGeneral{
+    background-color: rgba(0, 0, 0, 0.692)!important;
+}
+.nombreAtaques{
+
+
+
+    -webkit-box-shadow: inset 0 0 0 3px cadetblue;
+    -moz-box-shadow: inset 0 0 0 3px cadetblue;
+    box-shadow: inset 0 0 0 3px cadetblue;
+    
+
+}
+
+.TextoTitulo {
+    text-align: left !important;
+    min-width: 100% !important;
+    font-family: "myFont";  
+    font-size: 6vw;
+    margin-left: 6vw;
+    margin-top: 1.5vw;
+color: white;
+}
+
+
+
+.txtDescripcion{
+    color:rgb(255, 255, 255);
+    font-family: "myFont";
+font-size: 2vw;
+position: absolute;
+top: 32%;
+left: 89.4%;
+transform: translate(-50%, -50%);
+
+}
+.NombreDesc{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+
+}
+
+
+.imgDescripcion{
+    margin-bottom: -10px;
+
+
+}
+.Descripcion{
+
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    text-align: center;
+
+    background-color: rgba(255, 255, 255, 0.466);
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+
+.contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.fotoNombre{
+    
+    margin-top: -50px;
+    margin-bottom: -10px;
+}
+.fotoNombrePers {
+
+    margin-top: -50px;
+    margin-bottom: -10px;
+    height: 13vw;
+
+}
+
+.CentradoTituloAtaque{
+color:#f5e56f;
+    font-size: 30px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    font-family: 'PT Serif', serif;
+    font-family: "myFont";
+    text-shadow: 1px 1px 2px #ae3707, 0 0 1em #ae3707, 0 0 0.4em #ae3707;
+}
+.centrado {
+    
+    font-family: 'PT Serif', serif;  
+      font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+@font-face {
+    font-family: "myFont";
+    src: url("SelznickRemixNF.otf");
+}
+.ContainerSeparacion {
+
+    text-align: center;
+
+    background-color: rgba(255, 255, 255, 0.466);
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+
+
+}
+
+.prueba {
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    position: relative;
+}
+
+
+.fotoLogoPonys {
+    margin-left: -8vw;
+
+    margin-top: 1.5vw;
+}
+.fondo2{
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) , rgba(0,0,0,1) );
+}
+.fondo1 {
+
+    background-color: rgba(0, 0, 0, 0);
+    height: 10vw;
+    text-align: center;
+
+
+}
+
+
+.imagenTitulo {
+    height: 10vw;
+    background-position: right right;
+    background-size: 100% 200% !important;
+    display: block;
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)), url(https://steamcdn-a.akamaihd.net/steam/apps/574980/extras/steam_header.png?t=1589582752);
+    background-repeat: no-repeat;
+
+
+}
+
+
+
+.imagenpaddin{ 
+padding-top: 11vw;
+
+
+}

@@ -1,0 +1,612 @@
+.FotoMC {
+    border: 2.5px rgb(219, 149, 18) solid;
+
+    height: 5vw;
+    filter: sepia(70%);
+
+
+}
+
+
+
+.btn-MVC {
+    margin-bottom: 2vw !important;
+}
+
+.btn-MVC.large2>span {
+    font-family: "FontT";
+    text-align: center;
+    padding: 2vw 0.2vw !important;
+    display: inline-block;
+    font-size: 1.5vw !important;
+
+}
+
+.botonMC:hover {
+    background: rgba(150, 1, 1, 0.815) !important;
+
+}
+
+.btn-MVC.large2>span>span {
+    min-width: 32.59452vw;
+    margin: 1px 50px !important;
+    margin-top: 0 !important;
+    padding: 16px !important;
+    line-height: 2vw;
+    padding: 5px;
+    color: white;
+    background-repeat: repeat;
+    border: 2px solid #a78d50;
+}
+
+.DIVcolorear {
+    position: relative;
+    /* Estas dos propiedades sólo sirven para centrar */
+    display: table;
+    margin: 0 auto;
+}
+
+/* Y esta para evitar el margin automático de Blogger en los enlaces */
+
+.DIVcolorear:before,
+.separator:before {
+    content: "";
+    display: block;
+    position: absolute;
+    /* Todas las posiciones a cero */
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: none;
+}
+
+.DIVcolorear:hover:before {
+    background: rgba(255, 102, 0, 0.5);
+    /*Sepia*/
+}
+
+
+
+
+
+
+/*filter: brightness(0.4);
+filter: saturate(30%);
+filter: sepia(60%);
+
+*/
+.DivFotoMC {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 50% !important;
+
+}
+
+.DIVCONTENEDORTABLAMVS {
+    background-color: rgba(0, 0, 0, 0.555) !important;
+    width: 100% !important;
+    margin-bottom: -1vw !important;
+}
+
+/*https://www.fightersgeneration.com/newspics/bg-red5.gif*/
+
+.DivFONDOSMC {
+
+    background-image: url(https://www.fightersgeneration.com/newspics/bg-red5.gif);
+}
+
+.TextoPersonajeTituloMC {
+    background: linear-gradient(to right, rgb(43, 2, 1), rgb(87, 5, 2), rgb(43, 2, 1));
+    padding-top: 0.5vw;
+    text-shadow: 0 0 30px #fff;
+    padding-bottom: 0.8vw;
+
+}
+
+.MVCursor {
+    cursor: pointer;
+
+}
+
+
+.mifuenteMVC {
+
+    font-size: 2vh;
+}
+
+.mifuenteataquesMVC {
+    font-size: 1.1vw !important;
+}
+
+.margendelbotoonMK {
+    margin-bottom: 2vw;
+    background: none;
+}
+.margendelbotoonMK2 {
+    margin-bottom: 2vw;
+    margin-left: 2vw;
+    background: none;
+}
+
+/*
+@media screen and (max-width: 415px) {
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+
+
+    .RowMC {
+
+        margin-left: 1.5rem !important;
+    }
+
+}
+
+
+
+
+@media screen and (max-width: 415px) {
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+
+
+    .RowMC {
+
+        margin-left: 1.5rem !important;
+    }
+
+}
+*/
+
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+
+    /*MotoG4 GalazyG5*/
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+    .containerMV {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+
+    }
+
+    .colPrimeraMarvel {
+        margin-left: 0%;
+
+    }
+
+    .DivFotoMC {
+        margin: 1vw !important
+    }
+}
+
+/*pruebsssa*/
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
+
+    /*iphone5*/
+    .DivFotoMC {
+        margin: 1vw !important
+    }
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+    .containerMV {
+        padding-right: 0px !important;
+
+    }
+
+    .colPrimeraMarvel {
+        margin-left: 0%;
+
+    }
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+
+    /*iphone6/7/8*/
+    .DivFotoMC {
+        margin: 1vw !important
+    }
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+    .containerMV {
+        padding-right: 0px !important;
+        padding-left: 16px !important;
+
+    }
+
+    .colPrimeraMarvel {
+        margin-left: -2%;
+
+    }
+}
+
+
+
+@media screen and (max-device-height: 731px) and (min-device-width: 411px) {
+
+    /*pixel*/
+    .colPrimeraMarvel {
+        margin-left: 0% !important;
+
+    }
+}
+
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+
+    /*iphone6/7/8*/
+    .DivFotoMC {
+        margin: 1vw !important
+    }
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+    .containerMV {
+        padding-right: 0px !important;
+        padding-left: 18px !important;
+
+    }
+
+    .colPrimeraMarvel {
+        margin-left: 0%;
+
+    }
+}
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+
+    /*iphone X*/
+    .DivFotoMC {
+        margin: 1vw !important
+    }
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+    .containerMV {
+        padding-right: 0px !important;
+        padding-left: 20px !important;
+
+    }
+
+    .colPrimeraMarvel {
+        margin-left: 0%;
+
+    }
+
+}
+
+
+
+
+@media screen and (max-device-height: 1366px) and (min-device-width: 1024px) {
+    .tablaanchuraMC {
+
+        width: 190% !important;
+    }
+
+    .colPrimeraMarvel {
+        margin-left: 4%;
+
+    }
+
+    .containerMV {
+        padding-right: 0px !important;
+        padding-left: 20px !important;
+
+    }
+}
+
+.navMC {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+@media screen and (max-device-height: 1024px) and (min-device-width: 768px) {
+
+
+
+
+    .containerMV {
+        padding-right: 0px !important;
+        padding-left: 10px !important;
+
+    }
+
+    .colPrimeraMarvel {
+        margin-left: 4.5%;
+
+    }
+
+    .tablaanchuraMC {
+
+        width: 190% !important;
+    }
+}
+
+
+@media screen and (max-device-height: 823px) and (min-device-width: 411px) {
+
+    /*PixelXL*/
+    .DivFotoMC {
+        margin: 1vw !important
+    }
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+    .containerMV {
+        padding-right: 0px !important;
+        padding-left: 5vw !important;
+
+    }
+
+    .colPrimeraMarvel {
+        margin-left: 0%;
+
+    }
+
+    .RowMC {
+
+        margin-left: 1.5rem !important;
+    }
+
+}
+
+
+@media screen and (min-device-width: 1025px) {
+    .colPrimeraMarvel {
+        margin-left: -1%;
+
+    }
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 5vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+    .tablaanchuraMC {
+
+        width: 100% !important;
+    }
+
+    .RowMC {
+
+        margin-left: 0.5rem !important;
+    }
+
+    .DivFotoMC {
+        margin: 0 !important
+    }
+
+}
+
+@media screen and (max-device-width: 1024px) {
+    .mifuenteMVC {
+        font-size: 4vh !important;
+
+    }
+
+    .containerMV {
+        padding-right: 0px;
+        padding-left: 0px;
+        padding-left: 5vw;
+        margin-left: 3vw;
+    }
+
+    .DIVCONTENEDORTABLAMVS {
+        margin-bottom: -7% !important;
+
+    }
+
+
+    .RowMC {
+        display: inline-block !important;
+        text-align: center !important;
+    }
+
+    .colPrimeraMarvel {
+        /*margin-left: 4%;*/
+    }
+
+    .PaddingBotRespMC {
+        margin-bottom: -5vw !important;
+    }
+
+    .bottomMC {
+        margin-bottom: 8vw !important;
+    }
+
+    .NavbarMC {
+        display: none !important;
+    }
+
+    .LetraTituloMC {
+        font-size: 8vw !important;
+    }
+
+    footer {
+        margin-top: 2% !important;
+    }
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw;
+        filter: sepia(70%);
+    }
+
+    .RowMC {
+        margin-left: 0.5rem !important;
+    }
+
+    .DivFotoMC {}
+}
+
+.LetraTituloMC {
+    -webkit-text-stroke: 2px black;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4vw;
+    text-transform: uppercase;
+}
+
+.fondo1MC {
+
+    background-color: rgba(0, 0, 0, 0);
+    height: 10vw;
+    text-align: center;
+
+
+}
+
+.fondo2MC {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+}
+
+@font-face {
+    font-family: "LetraMC";
+    src: url(Korinna-Regular.otf);
+
+}
+
+@font-face {
+    font-family: "LetraMC2";
+    src: url(Korsiv.otf);
+
+}
+
+
+
+
+.TituloAtaquesMC {
+    color: white;
+    font-size: 1.5vw;
+    font-weight: 800;
+    border-bottom: 1px solid #a78d50;
+    ;
+    font-family: "LetraMC" !important;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.colorFondoAtaquesMC {
+    background: none;
+    font-size: 2vh !important;
+
+    color: white !important;
+    font-family: "LetraMC2" !important;
+    white-space: nowrap !important;
+    font-style: oblique;
+    font-weight: lighter !important;
+
+}
+
+.botonMC {
+    border: 1px #a78d50 solid;
+    background: rgba(0, 0, 0, 0.555);
+    font-size: 2vh !important;
+
+    color: white !important;
+    font-family: "LetraMC2" !important;
+    white-space: nowrap !important;
+    font-style: oblique;
+    font-weight: lighter !important;
+    padding: 1vw;
+    width: 80%;
+
+}
+
+.fondoTablaMC {
+
+    width: 100%;
+    max-width: 1100px;
+    margin: 0.8% auto;
+    border: 1px solid #a78d50;
+    background: rgba(0, 0, 0, 0.7) !important;
+    -webkit-border-radius: 6px !important;
+    -moz-border-radius: 6px !important;
+    -ms-border-radius: 6px !important;
+    border-radius: 6px !important;
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 0.5vw !important;
+}
+
+
+.FotoMC:hover {
+    cursor: pointer;
+    filter: grayscale(0%);
+    transform: scale(1.1) !important;
+
+
+}

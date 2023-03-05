@@ -1,0 +1,565 @@
+.DivBioMK {
+    text-align: center;
+    position: relative;
+    background: url(https://cdn-prod.mortalkombat.com/static/roster-bg.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+}
+
+.BioDivTotalMK {
+    background-color: rgba(235, 228, 228, 0.068);
+}
+
+@font-face {
+    font-family: "BioLetraMK";
+    src: url(Kombat11-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+.BioNombreMK {
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+
+    color: white;
+    font-family: "BioLetraMK";
+
+    font-size: 5vw;
+
+}
+
+.BiotituloMK {
+
+    font-family: "BioLetraMK";
+    margin-left: auto;
+    margin-right: auto;
+
+    color: white;
+    font-size: 3vw;
+    border-bottom: 2px white solid;
+    width: 70%;
+    margin-bottom: 1vw;
+    margin-top: 1vw;
+
+}
+
+.BioDesMK {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 1vw;
+
+}
+
+.BioNavbarMK {
+
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1vw;
+}
+
+
+.BIOtitulocombosMK {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-family: "BioLetraMK";
+    font-size: 3vw;
+    border-bottom: 3px white solid;
+    width: 15%;
+    margin-bottom: 2vw;
+    margin-top: 4vw;
+
+
+}
+
+.DivIconMK {
+
+    background-color: rgba(0, 0, 0, 0.568);
+    height: 4vw;
+    padding-top: 1vw;
+    padding-right: 1vw;
+}
+
+.iconoMK {
+    color: white;
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top: -0.5vw;
+    padding-top: -1vw;
+    cursor: pointer;
+}
+
+.BioImgMK {
+    height: 35vw;
+    margin-right: -6vw;
+
+}
+
+.BIOCentrarColDivMK {
+    background-color: rgba(0, 0, 0, 0.664);
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.BioImgyMK {
+    width: 80%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+}
+
+.derechaMK {
+    width: 50vw;
+    float: right;
+
+    margin-right: 9vw;
+}
+
+.izqMK {
+    width: 50vw;
+    margin-left: 4vw;
+
+
+}
+
+
+
+
+
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+
+    .iconoMK {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 8vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconMK {
+        height: 9vw;
+        padding-right: 1.5vw;
+
+    }
+
+    .BioNombreMK {
+        font-size: 12vw;
+    }
+
+    .BiotituloMK {
+        font-size: 8vw;
+    }
+
+    .BioDesMK {
+        font-size: 5vw;
+    }
+
+    .BIOtitulocombosMK {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgMK {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        height: 110vw;
+        margin-left: -13vw;
+    }
+
+    .derechaMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
+
+    /*pixel*/
+    .iconoMK {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 8vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconMK {
+        height: 9vw;
+        padding-right: 1.5vw;
+
+    }
+
+    .BioNombreMK {
+        font-size: 12vw;
+    }
+
+    .BiotituloMK {
+        font-size: 8vw;
+    }
+
+    .BioDesMK {
+        font-size: 5vw;
+    }
+
+    .BIOtitulocombosMK {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgMK {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        height: 110vw;
+        margin-left: -13vw;
+    }
+
+    .derechaMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
+
+    /*iphone5*/
+    .iconoMK {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 8vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconMK {
+        height: 9vw;
+        padding-right: 1.5vw;
+
+    }
+
+    .BioNombreMK {
+        font-size: 12vw;
+    }
+
+    .BiotituloMK {
+        font-size: 8vw;
+    }
+
+    .BioDesMK {
+        font-size: 5vw;
+    }
+
+    .BIOtitulocombosMK {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgMK {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        height: 110vw;
+        margin-left: -13vw;
+    }
+
+    .derechaMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+
+    /*iphone6/7/8*/
+    .iconoMK {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 8vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconMK {
+        height: 9vw;
+        padding-right: 1.5vw;
+
+    }
+
+    .BioNombreMK {
+        font-size: 12vw;
+    }
+
+    .BiotituloMK {
+        font-size: 8vw;
+    }
+
+    .BioDesMK {
+        font-size: 5vw;
+    }
+
+    .BIOtitulocombosMK {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgMK {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        height: 110vw;
+        margin-left: -13vw;
+    }
+
+    .derechaMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-device-height: 1024px) and (max-device-width: 768px) {
+
+    .iconoMK {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconMK {
+        height: 6vw;
+    }
+
+    .BioNombreMK {
+        font-size: 6vw;
+    }
+
+    .BiotituloMK {
+        font-size: 2vw;
+    }
+
+    .BioDesMK {
+        font-size: 1.9vw;
+    }
+
+    .BIOtitulocombosMK {
+        font-size: 3vw;
+    }
+
+    .BioImgMK {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+    }
+
+    .derechaMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+
+}
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+
+    /*iphone6/7/8*/
+    .iconoMK {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 8vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconMK {
+        height: 9vw;
+        padding-right: 1.5vw;
+
+    }
+
+    .BioNombreMK {
+        font-size: 12vw;
+    }
+
+    .BiotituloMK {
+        font-size: 8vw;
+    }
+
+    .BioDesMK {
+        font-size: 5vw;
+    }
+
+    .BIOtitulocombosMK {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgMK {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        height: 110vw;
+        margin-left: -13vw;
+    }
+
+    .derechaMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }}
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+
+    /*iphone X*/
+    .iconoMK {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 8vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconMK {
+        height: 9vw;
+        padding-right: 1.5vw;
+
+    }
+
+    .BioNombreMK {
+        font-size: 12vw;
+    }
+
+    .BiotituloMK {
+        font-size: 8vw;
+    }
+
+    .BioDesMK {
+        font-size: 5vw;
+    }
+
+    .BIOtitulocombosMK {
+        font-size: 8vw;
+        width: 40%;
+    }
+
+    .BioImgMK {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        height: 110vw;
+        margin-left: -13vw;
+    }
+
+    .derechaMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqMK {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}

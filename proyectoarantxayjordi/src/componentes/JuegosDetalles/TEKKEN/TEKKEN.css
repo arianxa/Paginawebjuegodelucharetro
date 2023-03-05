@@ -1,0 +1,538 @@
+.BotonTK {
+    background-color: rgba(119, 6, 6, 0.788);
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    margin-top: 5vw;
+    width: 20vw;
+    padding-left: 2vw;
+    margin-left: 10vw;
+    padding-right: 2vw;
+    color: white;
+    font-family: "Letratk";
+    letter-spacing: 2px;
+    font-size: 2vw;
+    margin-bottom: 1vw;
+
+}
+.BotonTK2 {
+    background-color: rgba(119, 6, 6, 0.788);
+    padding: 0.5vw;
+    border: 4px black solid;
+    width: 95%;
+    margin-left: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    color: white;
+    font-family: "Letratk";
+    letter-spacing: 2px;
+    font-size: 2vw;
+    margin-bottom: 1vw;
+    margin-top: 2vw;
+
+}
+
+/*    background-color: rgba(25, 65, 66, 0.63);*/
+.BotonTK:hover,.BotonTK2:hover {
+
+    background-color: rgba(235, 66, 66, 0.459);
+    font-weight: bold;
+
+}
+
+.DivBotonTK {
+    margin-right: -50vw;
+    margin-top: 0vw !important;
+    float: right;
+
+}
+
+.DivBotonTK2 {
+    margin-top: 0vw !important;
+
+}
+
+/*RESPONSIVE BOTON*/
+
+
+.fondoTablaTK {
+    background: rgba(255, 255, 255, 0.144) !important;
+
+
+}
+
+.LineaTK {
+
+    width: 20vw !important;
+    background-color: white;
+    height: 2px !important;
+}
+
+.tamañodefectoTK {
+    width: 100%;
+}
+
+@media screen and (max-device-width: 1024px) and (min-device-height: 1366px) {
+
+
+    .fondoTablaTK {
+        width: 250% !important;
+        margin-left: -4vw !important;
+    }
+
+    .colorFondoAtaquesTK {
+
+
+        font-size: 3vw !important;
+    }
+    .DivBotonTK{
+        margin-left: -4vw !important;
+
+    }
+}
+
+
+@media screen and (max-device-width: 768px) and (min-device-height: 1024px) {
+
+    /*ipad*/
+    .fondoTablaTK {
+        width: 250% !important;
+        margin-left: -2vw !important;
+    }
+
+    .colorFondoAtaquesTK {
+
+
+        font-size: 3vw !important;
+    }
+    .DivBotonTK{
+        margin-left: -4vw !important;
+
+    }
+
+}
+
+
+@media screen and (max-device-height: 731px) and (min-device-width: 411px) {
+
+    /*pixel*/
+    .fondoTablaTK {
+        margin-left: 2vw !important;
+    }
+
+
+}
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+
+    .fondoTablaTK {
+        margin-left: 2vw !important;
+    }
+
+    .pruebadelbotton {
+        display: block !important;
+    }
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+
+    /*iphone plus*/
+
+    .fondoTablaTK {
+        margin-left: 2vw !important;
+    }
+
+    .tamañodefectoTK {
+        width: 100% !important;
+    }
+
+}
+
+@media screen and (max-device-height: 568px) and (min-device-width: 320px) {
+
+    /*iphone5*/
+    .tamañodefectoTK {
+        width: 99% !important;
+    }
+
+    .fondoTablaTK {
+        margin-left: 2vw !important;
+    }
+
+}
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+    .tamañodefectoTK {
+        width: 100% !important;
+    }
+
+    /*iphone 6/7*/
+    .fondoTablaTK {
+        margin-left: 2vw !important;
+    }
+
+}
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+
+    /*iphone x*/
+
+
+    .tamañodefectoTK {
+        width: 100% !important;
+    }
+
+    .fondoTablaTK {
+        margin-left: 3vw !important;
+    }
+}
+
+/*tamañodefectoTK*/
+
+@media screen and (min-device-width: 1025px) {
+
+    .tamañodefectoTK {
+
+        margin-left: 1vw !important;
+
+    }
+}
+
+@media screen and (max-device-width: 1025px) {
+    .LetraTituloTK {
+
+
+        font-size: 10vw !important;
+    }
+
+    .NavbarTK {
+
+        display: none !important;
+    }
+
+    .resppp {
+        height: 10vw !important;
+
+    }
+
+    .FOTOTK2 {
+        height: 2vh !important;
+
+
+    }
+
+    .TituloAtaquesTK {
+        font-size: 4vh !important;
+    }
+
+    .escondersi {
+        display: none !important;
+
+    }
+
+
+
+    .PruebadefondoAtaques {
+        margin-bottom: -12% !important;
+    }
+
+    .margentabla {
+        margin-left: 0.8rem !important;
+        margin-right: 0rem !important;
+
+    }
+
+    .PruebadefondoAtaques {
+
+        margin-bottom: -23% !important;
+
+
+    }
+
+    .colTKTabla {
+        margin-left: auto !important;
+        margin-right: auto !important;
+
+        justify-content: center !important;
+        margin-bottom: 3rem !important;
+    }
+
+    .TituloAtaquesTK {
+        font-size: 10vw !important;
+
+    }
+
+    .imgAtaqueTTK {
+        height: 4vw !important;
+        min-height: 6vw !important;
+
+    }
+
+    .FotoTK {
+        cursor: pointer;
+        min-width: 25vw !important;
+        min-height: 29vw !important;
+
+    }
+
+    .TK2img {
+        margin-left: 1rem !important;
+
+
+    }
+
+    .NombrePesonajeTK {
+        font-size: 4vw !important;
+
+    }
+
+    .TextoPersonajeTituloTK {
+        font-size: 9vw !important;
+    }
+
+    .LineaTK {
+
+        width: 80% !important;
+    }
+
+    footer {
+        margin-top: 20% !important;
+    }
+
+    .pruebadelbotton {
+        display: block !important;
+    }
+
+    .DivBotonTK {
+
+        margin-right: 0vw;
+        margin-top: 15vw !important;
+        float: none;
+
+
+
+    }
+
+    .margenesdelfooter {
+        margin-top: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    .BotonTK {
+
+        font-size: 5vw;
+        width: 70vw;
+    }
+}
+
+.TituloAtaquesTK {
+    font-family: "Letratk";
+    letter-spacing: 0.3em;
+    font-weight: 500;
+    font-size: 2.5vw;
+
+    color: white
+}
+
+.colorFondoAtaquesTK {
+
+    color: white !important;
+}
+
+.fondo2TK {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+}
+
+.fotoLogoTK {
+    float: right;
+    margin-top: 1.5vw;
+}
+
+.DivNegroTransTK {
+
+    background-color: rgba(0, 0, 0, 0.233) !important;
+
+
+}
+
+.DivFONDOTK {
+    color: black;
+    text-align: center;
+
+    width: 100% !important;
+    background-image: url(https://static.bandainamcoent.eu/high/tekken/tekken-7/06-characters/t7_characters_background.jpg), linear-gradient(#6e859c, #c0ccd8);
+}
+
+
+/*        position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+
+    background-repeat: repeat-x;
+*/
+.TextoPersonajeTituloTK {
+    font-size: 3vw;
+    margin-left: -2vw;
+
+    color: white;
+    text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
+}
+
+
+
+.fondonombreTK {
+
+    width: 100%;
+    max-width: 100%;
+    margin: 2% auto 0 auto;
+    color: #fff;
+    font-family: "Letratk";
+    padding-top: -3px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: uppercase;
+
+    position: relative;
+    padding-top: 0.5vw;
+    padding-bottom: 0.1vw;
+    background: linear-gradient(90deg, #7a0606, #c91111 50%, #c91111 50%, #7a0606);
+
+
+
+
+}
+
+@font-face {
+    font-family: "Letratk";
+    src: url(trump_gothic_west.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+
+.PruebadefondoAtaques {
+    cursor: pointer;
+    margin-bottom: -3%;
+    background-image: url(https://tk7.tekken.com/assets/images/common/stone.jpg), linear-gradient(#6e859c, #c0ccd8);
+
+}
+
+.LetraTituloTK {
+    font-weight: 800 !important;
+    font-style: oblique !important;
+    letter-spacing: 6px;
+    font-family: "Letratk";
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: white;
+    font-size: 3vw;
+}
+
+.FotoTK {
+    cursor: pointer;
+    width: 6vw !important;
+    height: 6vw !important;
+    background-color: rgba(0, 0, 0, 0.637);
+    border: 2px black solid;
+
+
+}
+
+.NombrePesonajeTK {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 1vw;
+    font-weight: 800;
+    opacity: 0;
+
+}
+
+/* filter: brightness(1.1) !important;
+*/
+.DIVFOTOTK:HOVER {
+    z-index: 1 !important;
+
+    transform: scale(1.15) !important;
+
+    transform: scale(1.05) !important;
+    cursor: pointer;
+}
+
+
+/*    filter: brightness(0.6) !important;
+*/
+.DIVFOTOTK {
+    position: relative;
+}
+
+.DIVFOTOTK:before,
+.separator:before {
+    content: "";
+    display: block;
+    position: absolute;
+    /* Todas las posiciones a cero */
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: none;
+}
+
+.DIVFOTOTK:hover:before {
+    margin-top: 4% !important;
+    ;
+    margin-bottom: 4% !important;
+    background: rgba(172, 3, 3, 0.438);
+    /*Sepia*/
+
+}
+
+.imgAtaqueTTK {
+    height: 2.2vw !important;
+
+}
+
+
+@media screen and (max-device-width: 750px) {}
+
+.escondersi {
+    display: block;
+}
+
+/*
+
+
+
+div.DIVFOTOTK .FotoTK:hover {
+ 
+    background-color: red;
+    background-blend-mode: hard-light!important;
+}*/
+
+
+
+
+div.DIVFOTOTK:hover h3 {
+    opacity: 1;
+}
+
+
+.FOTOTK2 {
+    height: 600px !important;
+    z-index: -1 !important;
+
+}
+
+footer {
+    margin-top: 1%;
+}

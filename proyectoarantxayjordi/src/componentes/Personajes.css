@@ -1,0 +1,122 @@
+body {
+  width: auto !important;
+  min-width: auto !important;
+  height: auto;
+}
+
+html {
+  min-height: 100% !important;
+  min-width: 100%;
+}
+
+
+.fondodepantalla {
+  background-color: #282c34;
+  height: auto !important;
+  width: auto !important;
+  min-width: auto !important;
+  min-height: 750px !important;
+  margin-top: 10px;
+  padding-right: 15vh !important;
+  padding-left: 18vh !important;
+}
+
+.TextoIncial {
+  color: white !important;
+  margin-left: -100px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+
+}
+
+
+.Personajes {
+
+  margin-right: 10px;
+  margin-top: 10px;
+
+}
+
+/*
+.tamañoimg {
+  width: 150px !important;
+  min-width: 150px !important;
+  min-height: 150px !important;
+  height: 150px !important;
+  border-radius: 40px 10px !important;
+
+}*/
+
+/*
+img{
+/*Damos tamaño a las fotos*/
+/*Le tenemos que dar el borde a la foto y al div card
+  width: 150px!important;
+  min-width: 150px!important;
+  min-height: 150px!important;
+ height: 150px!important;
+ border-radius:40px 10px!important;
+
+
+}*/
+
+.Nombre {
+  /*Damos estilo al nombre*/
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card:hover,
+.card.flip {
+  box-shadow: 0 0 20px #4f9;
+}
+
+.card {
+
+  width: 150px !important;
+  min-width: auto !important;
+  min-height: auto !important;
+  height: 150px !important;
+
+  /* border-radius: 40px 10px !important;*/
+
+
+}
+
+.card .Nombre {
+  /*Ocultamos los datos*/
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: black;
+  opacity: 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-transition: all 0.6s ease;
+  width: 100%;
+}
+
+.card:hover {
+  /*Hacemos que la foto se vea un pelin mas grande al pasar*/
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  transform: scale(1.05);
+  width: 100%;
+}
+
+.card:hover .Nombre {
+  /*Al hacer hover sobre la caja hacemos visible los datos*/
+  width: 100%;
+  filter: alpha(opacity=80);
+  opacity: .8;
+  border-radius: 40px 10px !important;
+
+
+
+}

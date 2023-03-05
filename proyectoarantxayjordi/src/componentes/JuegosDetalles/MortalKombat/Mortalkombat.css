@@ -1,0 +1,537 @@
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+
+    .AnchoMK {
+
+
+        width: 120% !important;
+        margin-left: -5vw !important;
+    }
+
+    .node {
+        margin-left: -8vw !important;
+
+    }
+}
+
+@media screen and (min-device-height: 823px) and (max-device-width: 411px) {
+    /*pixel xl*/
+
+    .AnchoMK {
+
+
+        width: 150% !important;
+        margin-left: -11vw !important;
+    }
+
+    .node {
+        margin-left: -8vw !important;
+
+    }
+
+
+}
+
+
+@media screen and (max-device-width: 1024px) and (min-device-height: 1366px) {
+
+    .TituloAtaquesMK {
+
+
+        font-size: 5vw !important;
+    }
+
+    .colorFondoAtaquesMK {
+
+        font-size: 3vw !important;
+
+
+    }
+
+    .AnchoMK {
+
+
+        width: 250% !important;
+        margin-left: 3vw !important;
+    }
+
+
+}
+
+@media screen and (max-device-width: 768px) and (min-device-height: 1024px) {
+    .TituloAtaquesMK {
+
+
+        font-size: 5vw !important;
+    }
+
+    .colorFondoAtaquesMK {
+
+        font-size: 3vw !important;
+
+
+    }
+
+    .AnchoMK {
+
+
+        width: 250% !important;
+        margin-left: 3vw !important;
+    }
+
+
+
+}
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+
+    /*iphone6/7/8*/
+
+    .AnchoMK {
+
+
+        width: 140% !important;
+        margin-left: -9vw !important;
+    }
+
+    .node {
+        margin-left: -8vw !important;
+
+    }
+
+
+}
+
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
+    /*pixel*/
+
+    .AnchoMK {
+
+
+        width: 130% !important;
+        margin-left: -8vw !important;
+    }
+
+    .node {
+        margin-left: -8vw !important;
+
+    }
+}
+
+
+.pruebadelelemento {
+    text-align: center;
+    border: none !important;
+}
+
+.DivMortalkombat {
+    text-align: center;
+    position: relative;
+    background: url(https://cdn-prod.mortalkombat.com/static/roster-bg.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+
+
+}
+
+
+.MuiTable-root {
+    width: 100% !important;
+    display: table !important;
+}
+
+.claseeprueba {
+    text-align: center;
+    /*
+    margin-left: auto !important;
+    margin-right: auto !important;
+    */
+}
+
+
+.imgAtaqueMK {
+    height: 1.5vw !important;
+}
+
+.nombreAtaquesMK {
+    width: 54%;
+    border: none;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+}
+
+.colorFondoAtaquesMK {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    color: white !important;
+
+    font-size: 13px;
+    font-weight: 100 !important;
+    cursor: pointer;
+    border: none;
+
+}
+
+.fondoTablaMK {
+
+    background-color: rgba(0, 0, 0, 0) !important;
+
+
+}
+
+
+.TituloAtaquesMK {
+    color: #de9a00;
+    font-weight: 100;
+    width: 100%;
+}
+
+.pruebaaa {
+    border-bottom: none !important;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700);
+
+@font-face {
+    font-family: "mkserif";
+    src: url(Kombat11-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@-ms-viewport {
+    width: device-width
+}
+
+
+.character-thumb {
+    width: 100px;
+    margin: 5px;
+    position: relative;
+    will-change: transform;
+    transition: opacity .25s linear, -webkit-transform .25s ease;
+    transition: opacity .25s linear, transform .25s ease;
+    transition: opacity .25s linear, transform .25s ease, -webkit-transform .25s ease;
+    box-shadow: 6px 6px 15px 0 #000
+}
+
+.character-thumb:not(.visible) {
+    opacity: .5;
+    -webkit-transform: translateZ(-60px);
+    transform: translateZ(-60px);
+    z-index: -1;
+    box-shadow: 10px 10px 10px 0 transparent
+}
+
+/*Esto es el triangulo */
+.character-thumb:not(.locked)>div:first-child:after {
+    content: "";
+    position: absolute;
+    display: block;
+    bottom: 0;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-color: transparent transparent #152229;
+    border-style: solid;
+    border-width: 0 0 10px 10px;
+    transition: all .2s ease
+}
+
+.container {
+    margin: auto !important;
+}
+
+.nomostrarscroll {
+    /*No mostrar*/
+    overflow: hidden;
+}
+
+.photo {
+
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+    height: 10vw;
+}
+
+/* Contenedor de la imagen */
+.photo-container {
+
+    filter: blur(180px);
+    transition: all .0s ease;
+
+    margin-top: 1vw;
+    margin-bottom: 3vw;
+    margin-left: -8vw;
+    height: 7vw;
+
+}
+
+.tablaborderabajoMK {
+    border-bottom: 0px !important;
+}
+
+/* Banner de la imagen */
+.photo .photo-banner {
+
+    left: 50%;
+    transition: all 0s ease;
+    position: absolute;
+    transform: translateX(-50%);
+}
+
+.photo-banner {
+    height: 14.8vw;
+    margin-top: -2.7vw;
+    margin-bottom: -2vw;
+    margin-left: -4vw;
+}
+
+/* Cuando se haga hover sobre el contenedor */
+.photo:hover>.photo-container {
+    filter: blur(0);
+}
+
+.photo:hover>.photo-banner {
+    opacity: 0;
+}
+
+tr {
+    border: none !important;
+}
+
+.TituloElegirMK {
+
+    font-family: "mkserif", Times New Roman, serif;
+    color: #f2861d;
+    font-size: 3.5vw;
+    line-height: 1.5;
+    margin-top: 1vw;
+}
+
+/*FONDO AMARILLO */
+
+.character-thumb.active .img-wrapper {
+    border-color: #d38606;
+    background: radial-gradient(ellipse at center, #593f13 0, #191105 100%)
+}
+
+.character-thumb.active .img-wrapper:after {
+    border-color: transparent transparent #d38606
+}
+
+.character-thumb .img-wrapper {
+    border: 1px solid #152229;
+    background: radial-gradient(ellipse at center, #1e2938 0, #080808 100%);
+    overflow: hidden;
+    position: relative;
+    transition: opacity .25s
+}
+
+.character-thumb .img-wrapper img {
+    display: block;
+    width: 100%;
+    border-radius: 1px;
+    overflow: hidden;
+    will-change: transform;
+    transition: -webkit-transform .2s ease;
+    transition: transform .2s ease;
+    transition: transform .2s ease, -webkit-transform .2s ease
+}
+
+.character-thumb .label {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: .65rem;
+    margin-top: 1px;
+    letter-spacing: .05rem;
+    position: absolute;
+    bottom: 5px;
+    width: 100%
+}
+
+@media (min-width:768px) {
+    .character-thumb .label {
+        font-size: .7rem;
+        margin-top: 5px
+    }
+
+
+}
+
+
+
+
+@media screen and (max-device-width: 1107px) {
+    .TituloElegirMK {
+
+        font-size: 7.5vw;
+
+        margin-top: 3vw !important;
+        margin-bottom: -3vw !important;
+    }
+
+    .imgAtaqueMK {
+        height: 5vw !important;
+
+    }
+
+    .photo-banner,
+    .photo {
+        display: none !important;
+    }
+
+    .margenesparalastablas {
+        margin-left: 7vh;
+        margin-right: 7vh;
+    }
+}
+
+@media (min-width:992px) {
+    .character-thumb .label {
+        transition: opacity .3s, -webkit-transform .3s ease;
+        transition: opacity .3s, transform .3s ease;
+        transition: opacity .3s, transform .3s ease, -webkit-transform .3s ease;
+        -webkit-transform-origin: center center -10px;
+        transform-origin: center center -10px;
+        font-weight: 700;
+        line-height: 1;
+        opacity: 1;
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+}
+
+
+.character-thumb:hover:not(.locked) {
+    text-decoration: none
+}
+
+.character-thumb:hover:not(.locked):not(.locked)>div:first-child:after {
+    border-width: 0 0 20px 20px;
+    border-color: transparent transparent #d38606;
+}
+
+.character-thumb:hover:not(.locked) .img-wrapper {
+    border-color: #d38606;
+    background: radial-gradient(ellipse at center, #593f13 0, #191105 100%);
+    cursor:pointer;
+
+}
+
+.character-thumb:hover:not(.locked) .img-wrapper img {
+    -webkit-transform: scale3d(1.1, 1.1, 1);
+    transform: scale3d(1.1, 1.1, 1)
+}
+
+
+@media (min-width:992px) {
+    .character-thumb.locked .img-wrapper {
+        height: 110px;
+        margin-left: 60px !important;
+
+    }
+
+    .character-thumb.locked .img-wrapper>svg {
+        width: 75px;
+
+    }
+
+}
+
+
+
+
+
+
+
+.horiz-rule {
+    display: block;
+    margin: -12px 0;
+    position: relative;
+    height: 24px;
+    z-index: 1;
+}
+
+.horiz-rule img.node {
+    height: 29px;
+}
+
+.horiz-rule img.node {
+    width: auto;
+    height: 22px;
+    position: absolute;
+    top: 6%;
+    left: 48.5%;
+}
+
+.horiz-rule .bar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 4px;
+    background-color: #5a4c30;
+}
+
+
+.title-block .rule {
+    background: linear-gradient(90deg, #1c1c1c, #fff 25%, #fff 75%, #1c1c1c);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 7px;
+    z-index: 1;
+}
+
+.title-block {
+    position: relative;
+    padding: 20px 0;
+    background: linear-gradient(90deg, #150302, #540808 25%, #540808 75%, #150302);
+}
+
+.DivBotonMK {
+
+    margin-top: 3vw !important;
+
+
+}
+
+
+.BotonMk {
+    background: linear-gradient(90deg, #150302, #540808 25%, #540808 75%, #150302);
+    color: white;
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    width: 100%;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    margin-bottom: 2vw;
+
+}
+.BotonMk2 {
+    background: linear-gradient(90deg, #150302, #540808 25%, #540808 75%, #150302);
+    color: white;
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    width: 75%;
+    padding-left: 2vw;
+    padding-right: 2vw;
+margin-top: -2vw;
+}
+
+
+.BotonMk:hover,.BotonMk2:hover {
+    border-color: #5a4c30;
+
+}

@@ -1,0 +1,2718 @@
+[
+  {
+    "Nombre": "Fulgore",
+    "Descripcion": "DANGER!!! The retrieval of this Fulgore unit’s brain core must be approached with EXTREME CAUTION. Multiple self-destruct and defensive mechanisms have been implemented to keep this brain core from falling into the possession of enemy corporations and/or rogue states. Unit S4.Q4NT.YX-003 is a unique model and is highly adaptable. DO NOT attempt to place its brain core in another unit that is not equipped with Ryatmag™ slot-lock as S4.Q4NT.YX-003 has been known to exhibit rebellious behavior.",
+    "Foto": "imagenes/KITODO/fulgore-foto.png",
+    "FotoTier":"imagenes/KITier/fulgore.png",
+    "Fondo": "imagenes/KITODO/fulgore-fondo.jpg",
+    "Runa": "imagenes/KITODO/fulgore-runa.png",
+
+    "Size": "2'01 m",
+    "Weight": "254 Kg",
+    "Personality": "Fulgore is what it is programmed to be: a cold and heartless killing machine that follows orders and directives without question and finishes its opponents with deadly accuracy. With each new upgrades and models, Fulgore quickly evolves into a razor-sharp predator that proves a difficult challenge for anyone standing in Ultratech's way, as shown in KI2 with its one-track objective to kill Jago. ",
+    "Combos": "https://www.youtube.com/watch?v=WAGvPB_7aBc",
+    "Combos2": "https://www.youtube.com/watch?v=PJn9KM0qHGM",
+    "Ataques": [
+      {
+        "nombreAtaque": "Blade Dash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Energy Bolt",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eye Laser",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Plasmaport",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Plasma Slice",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Devastation Beam",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Aria",
+    "Descripcion": "ARIA is shown as a vague, feminine silhouette with piercing white eyes and a slightly blue color scheme. Her design had not yet been finalized during Season One, and this silhouette was used as a placeholder.",
+    "Foto": "imagenes/KITODO/aria-foto.png",
+    "FotoTier":"imagenes/KITier/aria.png",
+
+    "Fondo": "imagenes/KITODO/aria-fondo.jpg",
+    "Runa": "imagenes/KITODO/aria-runa.png",
+    "Size": "2'04 m",
+    "Weight": "135 Kg",
+    "Personality": "As the world's first artificial superintelligence, ARIA is, for lack of better terms, a uniquely sophisticated and multilayered individual. Her perspective on the universe is rigorously logical and immeasurably complex, and will rarely take into account human morals and ethics when exercising judgment or executing decisions.",
+    "Combos": "https://www.youtube.com/watch?v=tz6WjTjGBCo",
+    "Combos2": "https://www.youtube.com/watch?v=lIlPRNxKw-8",
+    "Ataques": [
+      {
+        "nombreAtaque": "Shotgun Blitz",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Explosive Arc",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crescendo  (air OK) (Booster body)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Allegro  (Blade body)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dissonance",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Rash",
+    "Descripcion": "Rash (real name Dave Shar) is the wisecracking member of the Battletoads and a guest character in Killer Instinct Season 3. He is one of the main characters of the Battletoads series of beat 'em ups created by Rareware, the developers of the original Killer Instinct. His exploits with his fellow toads, Zitz and Pimple, have led them across the galaxy in battles against the evil Dark Queen.",
+    "Foto": "imagenes/KITODO/rash-foto.png",
+    "FotoTier":"imagenes/KITier/rash.png",
+
+    "Fondo": "imagenes/KITODO/rash-fondo.jpg",
+    "Runa": "imagenes/KITODO/rash-runa.png",
+    "Size": "1'9 m",
+    "Weight": "82 Kg",
+    "Personality": "As the world's first artificial superintelligence, ARIA is, for lack of better terms, a uniquely sophisticated and multilayered individual. Her perspective on the universe is rigorously logical and immeasurably complex, and will rarely take into account human morals and ethics when exercising judgment or executing decisions.",
+    "Combos": "https://www.youtube.com/watch?v=qubPxo3d6XI",
+    "Combos2": "https://www.youtube.com/watch?v=Ae1Le4bitVM",
+    "Ataques": [
+      {
+        "nombreAtaque": "Wicked Tongue any direction (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Battlemaniac repeatedly",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rash Bash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Battering Ram",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wrecking Ball (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Big Bad Boot",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultra 2",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Omen",
+    "Descripcion": "Omen is a demon herald of Gargos and the secondary antagonist in Killer Instinct (2013). He is a bonus character in Season 2 (the 5th character of the season and the 14th overall), and is the dark spirit that had possessed the warrior Jago, turning him into Shadow Jago. He is a loyal servant of the astral deity Gargos, and has been given the special duty of preparing the world for the return of his master",
+    "Foto": "imagenes/KITODO/omen-foto.png",
+    "FotoTier":"imagenes/KITier/omen.png",
+
+    "Fondo": "imagenes/KITODO/omen-fondo.jpg",
+    "Runa": "imagenes/KITODO/omen-runa.png",
+    "Size": "1'94 m",
+    "Weight": "80 Kg",
+    "Personality": "Omen's relatively simple design bears a resemblance to Cinder from the original Killer Instinct. His appearance is that of a human silhouette, consisting of a strange, shadowy-blue fog, transitioning into a bright, white color around his face, fingers, and toes. Electricity seems to indefinitely crackle along his body. ",
+    "Combos": "https://www.youtube.com/watch?v=zD6KtPPrvYM",
+    "Combos2": "https://www.youtube.com/watch?v=gA1o-1DVuKc",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Furious Swipes",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Rashakuken",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Orda Shield",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Demon Slide",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Furious Flurry",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shadow Form (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Demonic Despair With full Shadow ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jago",
+    "Descripcion": "Jago is a mysterious warrior monk from a remote region of Tibet and one of the main protagonists of the Killer Instinct series, having been playable in every installment of the franchise to date. Guided by the mysterious Tiger Spirit to seek his destiny, he has been led to the Killer Instinct tournament to destroy the evil within. He is the younger half-brother of Orchid.",
+    "Foto": "imagenes/KITODO/jago-foto.png",
+    "FotoTier":"imagenes/KITier/jago.png",
+
+    "Fondo": "imagenes/KITODO/jago-fondo.jpg",
+    "Runa": "imagenes/KITODO/jago-runa.png",
+    "Size": "1'70 m",
+    "Weight": "86 Kg",
+    "Personality": "Jago is a warrior-monk whose goal is to seek out other fighters and fulfill his destiny by entering the Killer Instinct tournament and destroying Ultratech. He is a quiet and stern man who, due to having spent much time in solitude, isn’t very friendly or open to quaint pleasures of the world.",
+    "Combos": "https://www.youtube.com/watch?v=1-22PmbNMrE",
+    "Combos2": "https://www.youtube.com/watch?v=1-22PmbNMrE",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Neck Cutter",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Roundhouse",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Endokuken",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Laser Sword",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wind Kick",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Tiger Fury",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Maya",
+    "Descripcion": "An Amazonian queen who hails from South America's rain forests, in Killer Instinct (2013) she is the last remaining member of a secretive cabal of monster hunters known as the Night Guard. Maya made her second debut as a playable character in the Season Two of Killer Instinct (2013), and was given a fraternal twin in Season Three through the new character Mira.",
+    "Foto": "imagenes/KITODO/maya-foto.png",
+    "FotoTier":"imagenes/KITier/maya.png",
+
+    "Fondo": "imagenes/KITODO/maya-fondo.jpg",
+    "Runa": "imagenes/KITODO/maya-runa.png",
+    "Size": "1'55 m",
+    "Weight": "63 Kg",
+    "Personality": "Maya is a formidable young Amazon who stalks her enemies like a jungle huntress. She never hesitates to act in the face of dangers, can be stouthearted to the point of recklessness, and is known for referring to foes as her 'prey'. Because of the forbidden weapons Maya was forced to take up in her self-defense, the ancient twin blades known as 'Temperance' and 'Vengeance', a grand struggle between light and darkness has begun deep within her soul.",
+    "Combos": "https://www.youtube.com/watch?v=DkuTq6h3w3g",
+    "Combos2": "https://www.youtube.com/watch?v=KzYWGDcJxGA",
+    "Ataques": [
+      {
+        "nombreAtaque": "Axe Kick",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Savage Strikes",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Mantis In air",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Leap Kick",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Temperance Strike (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vengeance Strike (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Enmity Strike",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Tumble Kick",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kilgore",
+    "Descripcion": "Part of a vintage series of heavy assault cyborgs that were manufactured by Ultratech in the distant past, this war machine is the last remaining unit of the decommissioned CCIX precursor series to the Fulgore cyborgs. Kilgore was placed in storage by ARIA after it was found to display a sense of self-awareness, having independently altered its own programming.",
+    "Foto": "imagenes/KITODO/kilgore-foto.png",
+    "FotoTier":"imagenes/KITier/kilgore.png",
+
+    "Fondo": "imagenes/KITODO/fulgore-fondo.jpg",
+    "Runa": "imagenes/KITODO/fulgore-runa.png",
+    "Size": "2'01 m",
+    "Weight": "254 Kg",
+    "Personality": "Like Fulgore, Kilgore is a heartless war machine - however, it does not possess the mind of a human, giving it a less cunning sense of strategy but an even colder instinct. This certain Kilgore's AI, however, is faulty due to years of inaction, and upon its awakening it goes rogue and wreaks havoc on Ultratech before being subdued and placed back under ARIA's control. ",
+    "Combos": "https://www.youtube.com/watch?v=vG_gVv_ZSGI",
+    "Combos2": "https://www.youtube.com/watch?v=KxnKKWPqf9o",
+    "Ataques": [
+      {
+        "nombreAtaque": "Short Circuit",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chain Gun Dash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chain Gun Barrage",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Metal Ball",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Missile Pod",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Chain Gun Assault",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hisako",
+    "Descripcion": "Hisako (久子 Hisako?, Eternal Child or Everlasting Child), born as Chiharu (千春 Chiharu?, One Thousand Springs), is the sixteenth character of Killer Instinct (2013) and the seventh character of Season 2. She is a naginata-wielding spirit girl who is referred to as an Onryō (怨霊), or Avenging Ghost.",
+    "Foto": "imagenes/KITODO/hisako-foto.png",
+    "FotoTier":"imagenes/KITier/hisako.png",
+
+    "Fondo": "imagenes/KITODO/hisako-fondo.jpg",
+    "Runa": "imagenes/KITODO/hisako-runa.png",
+    "Size": "1'65  m",
+    "Weight": "68 Kg",
+    "Personality": "Hisako is a twisted spirit obsessed with having her revenge on those who have disturbed her rest - Ultratech. Upon her appearance, she traveled across the globe, defeating all who stood in her way, to fight and defeat ARIA, showing her great dedication and strength of will.",
+    "Combos": "https://www.youtube.com/watch?v=0Tb-A4f3VQY",
+    "Combos2": "https://www.youtube.com/watch?v=jj_AyUKLeno",
+    "Ataques": [
+      {
+        "nombreAtaque": "Descent",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vengeance",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "On Ryo Zan",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air On Ryo Zan",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Influence",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Possession",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Glacius",
+    "Descripcion": "Glacius is an extraterrestrial entity and a signature character of the Killer Instinct series, having been playable in every installment of the franchise to date. A member of an alien species renowned for their potent telekinetic abilities, Glacius was left stranded on Earth and becomes entangled with humanity's affairs after Ultratech manages to steal advanced technology from his crashed vessel.",
+    "Foto": "imagenes/KITODO/glacius-foto.png",
+    "FotoTier":"imagenes/KITier/glacius.png",
+
+    "Fondo": "imagenes/KITODO/glacius-fondo.jpg",
+    "Runa": "imagenes/KITODO/glacius-runa.png",
+    "Size": "2 m",
+    "Weight": "136 Kg",
+    "Personality": "Glacius is a valiant and powerful alien entity which functions as a galactic marshal, upholding the tenets of universal justice across entire worlds. His mission on Earth was initially to recover the hazardous technology that had been taken from his vessel by Ultratech, but after its successful retrieval he remains on the planet to assist the young human race in its desperate struggle for survival against the demon warlord Gargos.",
+    "Combos": "https://www.youtube.com/watch?v=TIl2NhJu_l4",
+    "Combos2": "https://www.youtube.com/watch?v=WBQKMJsYEro",
+    "Ataques": [
+      {
+        "nombreAtaque": "Ice Lance",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ice Pick",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Liquidize",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cold Shoulder",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shatter",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Hail",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mira",
+    "Descripcion": "Mira Fallegeros is a character introduced in the third season of Killer Instinct (2013). She is a former member of the Night Guard and the fraternal twin sister of Maya who sacrificed herself years ago to save Maya during a botched mission slaying vampires, but she has since returned as one of the very things they came to destroy",
+    "Foto": "imagenes/KITODO/mira-foto.png",
+    "FotoTier":"imagenes/KITier/mira.png",
+
+    "Fondo": "imagenes/KITODO/mira-fondo.jpg",
+    "Runa": "imagenes/KITODO/mira-runa.png",
+    "Size": "1'65 m",
+    "Weight": "51 Kg",
+    "Personality": "Prior to being turned into a bloodthirsty revenant, Mira, together with Maya, was considered the best that the Night Guard had to offer. The fraternal twins were known for being as fearless as they were capable, and would dispatch monstrous creatures on their missions with ease.",
+    "Combos": "https://www.youtube.com/watch?v=lnyo67isdg4",
+    "Combos2": "https://www.youtube.com/watch?v=YcJ56f-0jYo",
+    "Ataques": [
+      {
+        "nombreAtaque": "Vicious Strikes",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mist Form  any direction (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Embrace",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Trephine",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Blood Seekers",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Reaping",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Eyedol",
+    "Descripcion": "Eyedol is a fearsome, bicephalous monstrosity and a primary antagonist of the Killer Instinct series ever since he featured as the franchise's original last boss in Killer Instinct (1994). One of the two demon warlords that were banished from Earth in the ancient past, the other being Gargos, in Killer Instinct (2013) Eyedol's a corrupted champion who was slain by Gargos, his nemesis, and who was thereafter foolishly resurrected by the sorcerer Kan-Ra. ",
+    "Foto": "imagenes/KITODO/eyedol-foto.png",
+    "FotoTier":"imagenes/KITier/eyedol.png",
+
+    "Fondo": "imagenes/KITODO/eyedol-fondo.jpg",
+    "Runa": "imagenes/KITODO/eyedol-runa.png",
+    "Size": "2'15 m",
+    "Weight": "360 Kg",
+    "Personality": " Eyedol's body and soul were consumed utterly by manifold factors: The magically enhanced abilities granted to him by those benevolent beings, his own pride and arrogance over the supreme victory that he managed to achieve over Gargos, and him seizing a large portion of the Astral Tyrant's dark power.",
+    "Combos": "https://www.youtube.com/watch?v=9mKeeN90uA8",
+    "Combos2": "https://www.youtube.com/watch?v=H6Ktl__6vyE",
+    "Ataques": [
+      {
+        "nombreAtaque": "Wake Up!",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Bash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Clobber",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Crushing Destroyer ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crushing Swing",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crushing Shoulde",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gargos",
+    "Descripcion": "Gargos is a diabolical half-god who, alongside Eyedol, has been one of the primary antagonists of the Killer Instinct franchise ever since he appeared as the final boss of the 1996 arcade game Killer Instinct 2. Although Gargos hasn't appeared in every KI title, his name or influence are always mentioned and he has strong ties to Jago",
+    "Foto": "imagenes/KITODO/gargos-foto.png",
+    "FotoTier":"imagenes/KITier/gargos.png",
+
+    "Fondo": "imagenes/KITODO/general_raam.fondo.jpg",
+    "Runa": "imagenes/KITODO/gargos-runa.png",
+    "Size": "2'13 m",
+    "Weight": "200 Kg",
+    "Personality": " A devilish and god-like entity which is unfathomably powerful within its astral domain and profoundly corruptive anywhere else, the demon king Gargos has a singular obsession with attaining the ultimate power in the universe and enslaving the bodies and souls of all sentient beings; from those inhabiting the mortal realms to the ones dwelling within the astral plane itself.",
+    "Combos": "https://www.youtube.com/watch?v=tsaFlrWoM_g",
+    "Combos2": "https://www.youtube.com/watch?v=imHm-PTcnQk",
+    "Ataques": [
+      {
+        "nombreAtaque": "Wake Up!",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Bash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Clobber",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crushing Roar",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Reckoning (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Oblivion ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Summon Minion ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Minion Commands",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Devil's Divide",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Riptor",
+    "Descripcion": "Riptor is a genetically engineered bioweapon created by Ultratech. A crossbreed of human and reptilian DNA, she combines a near human-level intellect and problem solving capabilities with the ferocity of the extinct Raptor genera—together with various cybernetic and biotech enhancements.",
+    "Foto": "imagenes/KITODO/riptor-foto.png",
+    "FotoTier":"imagenes/KITier/riptor.png",
+
+    "Fondo": "imagenes/KITODO/riptor-fondo.jpg",
+    "Runa": "imagenes/KITODO/riptor-runa.png",
+    "Size": "1'50 m",
+    "Weight": "317 Kg",
+    "Personality": "Riptor’s personality is difficult to determine due to her animalistic reptilian nature. She is a cunning and clever hunter who leads her pack of Stalkers with power and authority, quickly striking down the enemies of Ultratech with fierce genius. ",
+    "Combos": "https://www.youtube.com/watch?v=wGiDtwy5_Ko",
+    "Combos2": "https://www.youtube.com/watch?v=ovNweyYNdgA",
+    "Ataques": [
+      {
+        "nombreAtaque": "Flame Breath",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flame Mortar(hold)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Unique Run Normals While Running,",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Predator Stance",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Shoulder Charge ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Talon Rake ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tail Flip (air ok)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kim Wu",
+    "Descripcion": "Kim Wu is a playable female character of half-Korean, Half-Chinese descent who was first introduced in the 1996 arcade game Killer Instinct 2. A feisty and young martial arts prodigy who specializes herself in the wielding of nunchaku, she has been chosen by an ancient dragon spirit to save the world from a terrible evil. ",
+    "Foto": "imagenes/KITODO/kim_wu-foto.png",
+    "FotoTier":"imagenes/KITier/kim-wu.png",
+
+    "Fondo": "imagenes/KITODO/kim_wu-fondo.jpg",
+    "Runa": "imagenes/KITODO/kim_wu-runa.png",
+    "Size": "1'61 m",
+    "Weight": "58 Kg",
+    "Personality": "Being the chosen of the holy dragon spirit Yeouiju, it's not by chance that Kim Wu exhibits all the traits attributed to the sign of the dragon in the Chinese zodiac. She is gifted, intelligent, bossy, loud, garish and unfaithful, but successful and popular; and is held in veneration by her admirers and elder family members ",
+    "Combos": "https://www.youtube.com/watch?v=idHBZwm76vw",
+    "Combos2": "https://www.youtube.com/watch?v=_Ykkcg5ivTQ",
+    "Ataques": [
+      {
+        "nombreAtaque": "Dragon Grasp",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Counter",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dragon Cancel (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Firecracker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Dance",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Kick",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shadow Jago",
+    "Descripcion": "Shadow Jago (often referred to as simply Shago by the fans) is the Omen-possessed form of Jago, introduced in Killer Instinct (2013) as a skin for Jago given to players who purchased a Day One 12-month Xbox Live membership. Shadow Jago is also the hidden boss of Killer Instinct's Arcade Mode, being fought at the end of the ladder instead of Fulgore under special conditions.",
+    "Foto": "imagenes/KITODO/shadow_jago-foto.png",
+    "FotoTier":"imagenes/KITier/shadow-jago.png",
+
+    "Fondo": "imagenes/KITODO/shadow_jago-fondo.jpg",
+    "Runa": "imagenes/KITODO/shadow_jago-runa.png",
+    "Size": "1'70 m",
+    "Weight": "86 Kg",
+    "Personality": "Shadow Jago is a merciless monster who fights without any signs of restraint, bellowing with fury and growling like an animal as he pummels his enemies with a barrage of attacks from all angles. He mindlessly seeks out those who would oppose Gargos so that he may defeat them and transmit their energies to his maste",
+    "Combos": "https://www.youtube.com/watch?v=rn42EUePB64",
+    "Combos2": "https://www.youtube.com/watch?v=8BrPZOs5WJU",
+    "Ataques": [
+      {
+        "nombreAtaque": "Dark Drift",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Shendokuken  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dark Demise  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Fury",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Annihilation During instinct",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Eagle",
+    "Descripcion": "Eagle (real name tipyeléhne, also known as Black Eagle in the KI comics) is a character mentioned in Killer Instinct (1994) who made his first playable debut in the post-Season Three content of Killer Instinct (2013). He is the younger brother of Thunder/hinmatoom (or his older brother in the comics) and, just like him, is a traditional Native American warrior originating from the Nez Percé tribe in Idaho. ",
+    "Foto": "imagenes/KITODO/Eagle-foto.png",
+    "FotoTier":"imagenes/KITier/eagle.png",
+
+    "Fondo": "imagenes/KITODO/thunder-fondo.jpg",
+    "Fondo2": "imagenes/Kifondos/arbiter.jpg",
+
+    "Runa": "imagenes/KITODO/arbiter-runa.png",
+    "Size": "1'90 m",
+    "Weight": "85 Kg",
+    "Personality": "It is unclear at present whether Eagle's unusual equipment and bionic modifications are due to experimentations performed by Ultratech, or if they represent highly advanced alien technologies which Glacius has entrusted to his new Earthling protégé.",
+    "Combos": "https://www.youtube.com/watch?v=89oW2wULbhI",
+    "Combos2": "https://www.youtube.com/watch?v=TczxVFGxPyk",
+    "Ataques": [
+      {
+        "nombreAtaque": "Arrow Attacks",
+        "Animacion": ["imagenes/AtaquesKIllerInstinct/hp.png"]
+      },
+      {
+        "nombreAtaque": "Bird Commands",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Scatter Shot",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Rain Shot",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ankle Breaker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wingspan",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tusk",
+    "Descripcion": "Tusk is a playable character first introduced in the 1996 arcade game Killer Instinct 2. A legendary barbarian and warrior champion who was called Tunth-ska in the ancient world, Tusk's a hefty fighter characterized by his preternatural strength and mastery of two-handed greatswords",
+    "Foto": "imagenes/KITODO/tusk-foto.png",
+    "FotoTier":"imagenes/KITier/tusk.png",
+
+    "Fondo": "imagenes/KITODO/tusk-fondo.jpg",
+    "Runa": "imagenes/KITODO/tusk-runa.png",
+    "Size": "1'86 m",
+    "Weight": "172 Kg",
+    "Personality": "Often mistaken for a Viking who lives in the modern age, Tunth-ska is an ancient barbarian who was uplifted into immortality by angelic beings and was reborn an undying watchman to our world. Though he lived among Vikings and took a liking to their ways, Tusk predates recorded history. He was alive before farming was developed.",
+    "Combos": "https://www.youtube.com/watch?v=KlmGYl6Rwjw",
+    "Combos2": "https://www.youtube.com/watch?v=YsDYC7z522g",
+    "Ataques": [
+      {
+        "nombreAtaque": "Skull Splitter  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Shendokuken  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Immortal Spirit",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Moosejaw Immortal Spirit",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Collateral Damage Immortal Spirit",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Destroyer Immortal Spirit",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Orchid",
+    "Descripcion": "Orchid (also called B. Orchid or Black Orchid in a tribute to her dark beauty) is a playable female fighter and a major signature character of the Killer Instinct games, having featured prominently in every installment of the series to date. A secret agent and highly trained assassin who boasts mysterious powers, Orchid was dispatched by a shadowy organization to uncover the truth behind Ultratech's activities.",
+    "Foto": "imagenes/KITODO/orchid-foto.png",
+    "FotoTier":"imagenes/KITier/orchid.png",
+
+    "Fondo": "imagenes/KITODO/orchid-fondo.jpg",
+    "Runa": "imagenes/KITODO/orchid-runa.png",
+    "Size": "1'70 m",
+    "Weight": "56 Kg",
+    "Personality": "A steadfast and intrepid servicewoman, B. Orchid's life changed dramatically when she was sent to investigate a RUMINT about the sinister ambitions and sprawling web of influence of the supposedly defunct Ultratech. Quickly uncovering that the notorious corporation not only remains active but in fact has never been as powerful.",
+    "Combos": "https://www.youtube.com/watch?v=178v0Kz_xT8",
+    "Combos2": "https://www.youtube.com/watch?v=ATEl74VYqVU",
+    "Ataques": [
+      {
+        "nombreAtaque": "Whiplash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Grenade Toss",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Air Throw In air,",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flick Flack",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ichi Ni San",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Blockade Runner",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Buster",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Arbiter",
+    "Descripcion": "A Sangheili referred to simply as The Arbiter is an alien warrior that looks similar to those in the Covenant empire and a guest character from the Halo series appearing in Killer Instinct Season 3. His appearance was teased at the Killer Instinct World Cup in 2016.",
+    "Foto": "imagenes/KITODO/arbiter-foto.png",
+    "FotoTier":"imagenes/KITier/arbiter.png",
+
+    "Fondo": "imagenes/KITODO/arbiter-fondo.jpg",
+    "Runa": "imagenes/KITODO/arbiter-runa.png",
+    "Size": "2'38 m",
+    "Weight": "145 Kg",
+    "Personality": "A Sangheili referred to simply as The Arbiter is an alien warrior that looks similar to those in the Covenant empire and a guest character from the Halo series appearing in Killer Instinct Season 3. His appearance was teased at the Killer Instinct World Cup in 2016.",
+    "Combos": "https://www.youtube.com/watch?v=zShxWh3gfSg",
+    "Combos2": "https://www.youtube.com/watch?v=58LOJ5bkoxA",
+    "Ataques": [
+      {
+        "nombreAtaque": "Fire Weapon Various ",
+        "Animacion": ["imagenes/AtaquesKIllerInstinct/hk.png"]
+      },
+      {
+        "nombreAtaque": "Throw Grenade ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cloven Kick",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy's Demise",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Truth Seeker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Prophet's Bane",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Energy Shield",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sadira",
+    "Descripcion": "Sadira is the first female antagonist introduced to the series. She is a mysterious female assassin whose allegiance lies with Ultratech and she was the first completely new character revealed for the first season of Killer Instinct (2013)",
+    "Foto": "imagenes/KITODO/sadira-foto.png",
+    "FotoTier":"imagenes/KITier/sadira.png",
+
+    "Fondo": "imagenes/KITODO/sadira-fondo.jpg",
+    "Runa": "imagenes/KITODO/sadira-runa.png",
+    "Size": "1'73 m",
+    "Weight": "58 Kg",
+    "Personality": "Sadira is a ruthless killer who delights in seeing her targets in pain, showing a clear sadistic streak in the way she taunts them in her native Thai tongue before each battle. She is easily influenced by fame and fortune, striking a deal with Ultratech in order to make the Red Eyes of Rylai the most powerful clan of assassins in the world.",
+    "Combos": "https://www.youtube.com/watch?v=sT_vCGEM_PY",
+    "Combos2": "https://www.youtube.com/watch?v=v-zUvq2ijGs",
+    "Ataques": [
+      {
+        "nombreAtaque": "Widow's Drop In air",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SalticidaeIn  In air",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fang",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Blade Demon",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Recluse",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Widow's Bite In air",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Web Cling In air",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "UltimateUltra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Spinal",
+    "Descripcion": "Spinal is a reanimated skeleton and the restless remains of an ancient warrior. One of the signature characters of the Killer Instinct franchise, he's been playable in every installment of the series ever since his debut in the original arcade game Killer Instinct (1994)",
+    "Foto": "imagenes/KITODO/spinal-foto.png",
+    "FotoTier":"imagenes/KITier/spinal.png",
+
+    "Fondo": "imagenes/KITODO/spinal-fondo.jpg",
+    "Runa": "imagenes/KITODO/spinal-runa.png",
+    "Size": "1'67 m",
+    "Weight": "49 Kg",
+    "Personality": "Spinal is a complete maniac, having been driven insane by the wild pull of the Mask of the Ancients over the hundreds (or thousands) of years since his death. He cackles with glee in the midst of battle, enjoying combat to a disturbing extent. He no longer speaks and has a very one-track mind, always pursuing his prized Mask so that he may be granted great powers and freedom.",
+    "Combos": "https://www.youtube.com/watch?v=sT_vCGEM_PY",
+    "Combos2": "https://www.youtube.com/watch?v=v-zUvq2ijGs",
+    "Ataques": [
+      {
+        "nombreAtaque": "Dive Kick In air,",
+        "Animacion": ["imagenes/AtaquesKIllerInstinct/mk.png"]
+      },
+      {
+        "nombreAtaque": "Power Devour HOLD",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shield Crush",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Searing Skull",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Boneshaker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Skeleport",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shadow Skull Summon",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cinder",
+    "Descripcion": "Cinder (born as Ben Ferris) is a playable character featured in Killer Instinct (1994) and Killer Instinct (2013). A human male whose body consists of super-heated plasma and living flames, Ben Ferris is a career criminal who had his civil rights revoked and was experimented on by Ultratech, accidentally resulting in his fiery state of being.",
+    "Foto": "imagenes/KITODO/cinder-foto.png",
+    "FotoTier":"imagenes/KITier/cinder.png",
+
+    "Fondo": "imagenes/KITODO/cinder-fondo.jpg",
+    "Runa": "imagenes/KITODO/cinder-runa.png",
+    "Size": "1'88 m",
+    "Weight": "88 Kg",
+    "Personality": "Cinder is cocky, smart, egocentric, and loud-mouthed, and always acts in a dramatic and cheesy way. He seems to have had no qualms with his body being consumed by flames, only caring about the impressive powers he gained in the process",
+    "Combos": "https://www.youtube.com/watch?v=uXGMgLE6ZKQ",
+    "Combos2": "https://www.youtube.com/watch?v=Fgg3ma-tqNo",
+    "Ataques": [
+      {
+        "nombreAtaque": "Cross Fire In air,",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Trailblazer (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fireflash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/up.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Pyrobomb",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fission",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Inferno",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kan-Ra",
+    "Descripcion": "Kan-Ra is a cursed sorcerer from Ancient Babylon and a new playable character introduced in the Season Two of Killer Instinct (2013). Condemned by the Babylonian King that he betrayed to walk the Earth as a decaying corpse, Kan-Ra seeks to undo his affliction through whatever means he can find - and is more than willing to inflict a few of his own unto others along the way",
+    "Foto": "imagenes/KITODO/kan_ra-foto.png",
+    "FotoTier":"imagenes/KITier/kan-ra.png",
+
+    "Fondo": "imagenes/KITODO/kan_ra-fondo.jpg",
+    "Runa": "imagenes/KITODO/kan_ra-runa.png",
+    "Size": "1'55 m",
+    "Weight": "48 Kg",
+    "Personality": "Kan-Ra is an ancient and megalomaniacal individual who lost his humanity long ago in endless pursuit of greater power. He's always willing to act in an underhanded fashion if this means he can gain the upper hand, such as when he sought to assassinate his own king while attempting to frame his co-conspirator for the murder, and he never hesitates to manipulate others to his advantage. ",
+    "Combos": "https://www.youtube.com/watch?v=1_qKJbsPStE",
+    "Combos2": "https://www.youtube.com/watch?v=rGyjwR2T50U",
+    "Ataques": [
+      {
+        "nombreAtaque": "Sand Creation Normals Various",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sand Trap Normals",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sacrifice needs Sand Trap",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Spike",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Swarm (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Whirl",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Clutch",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sabrewulf",
+    "Descripcion": "Baron Konrad von Sabrewulf, often named Sabrewulf or just Wulf, and known as hímiinhaama (the Wolf-man) to the Nez Percé tribe of Thunder and Eagle[1], is a signature character of the Killer Instinct franchise, having been playable in every title of the series since his original debut in the Killer Instinct (1994) arcade game",
+    "Foto": "imagenes/KITODO/sabrewulf-foto.png",
+    "FotoTier":"imagenes/KITier/sabrewulf.png",
+
+    "Fondo": "imagenes/KITODO/sabrewulf-fondo.jpg",
+    "Runa": "imagenes/KITODO/sabrewulf-runa.png",
+    "Size": "1'80 m",
+    "Weight": "200 Kg",
+    "Personality": "Throughout the series, Konrad von Sabrewulf is portrayed as a tortured and conflicted soul which is trapped inside the body of a monster. Desperate to keep the beast within at bay, he's willing to do anything for the chance to regain his lost humanity",
+    "Combos": "https://www.youtube.com/watch?v=YyUxieWExp4",
+    "Combos2": "https://www.youtube.com/watch?v=B7Qkv_VQU6A",
+    "Ataques": [
+      {
+        "nombreAtaque": "Overpower",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ragged Edge",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eclipse",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/up.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Run",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "HamstringRun",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumping Slash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Running Uppercut",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shin Hisako",
+    "Descripcion": "She embodies Hisako's transcendence into a kami spirit upon reclaiming her father's katana blade. Shin Hisako was first revealed in the patch notes of the 3.6 update, and she was also officially released on March 17th, 2017.",
+    "Foto": "imagenes/KITODO/Shin_Hisako-foto.png",
+    "FotoTier":"imagenes/KITier/shin-hisako.png",
+
+    "Fondo": "imagenes/KITODO/hisako-fondo.jpg",
+    "Runa": "imagenes/KITODO/hisako-runa.png",
+    "Size": "1'62 m",
+    "Weight": "Pending",
+    "Personality": "Unlike her original counterpart, Shin Hisako is calm and joyful due to her spirit being purged by being granted her father's Guardian-infused katana. Because of this, her sense of hatred and the anger that she had for centuries has faded away, freeing her from the bonds of her grave and making her able to fight against the forces of Gargos without sensing any rage upon her.",
+    "Combos": "https://www.youtube.com/watch?v=gLQF20kFuAI",
+    "Combos2": "https://www.youtube.com/watch?v=YQ0Hzu1GvQo",
+    "Ataques": [
+      {
+        "nombreAtaque": "Spirit Orb (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Katana Poke",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shin On Ryo Zan",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shin Air On Ryo Zan",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spirit Slice",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Awakened Soul",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "TJ Combo",
+    "Descripcion": "TTyler-Johnson Garrett, more commonly known by his ring name, TJ Combo, is an American boxer and playable character in the Killer Instinct franchise.",
+    "Foto": "imagenes/KITODO/tj_combo-foto.png",
+    "FotoTier":"imagenes/KITier/tjcombo.png",
+
+    "Fondo": "imagenes/KITODO/tj_combo-fondo.jpg",
+    "Runa": "imagenes/KITODO/tj_combo-runa.png",
+    "Size": "1'98 m",
+    "Weight": "99 Kg ",
+    "Personality": "Described as someone born to win, but hates to lose, TJ Combo is a strong, brash and arrogant man with an unstoppable fighting spirit. Prior to his fall from grace, he was even more cocky than he is presently, but after his humbling defeat at the hands of Ultratech, he was a broken man for many years before finally building up the courage and resolve to fight back.",
+    "Combos": "https://www.youtube.com/watch?v=e8jS2DJfw_M",
+    "Combos2": "https://www.youtube.com/watch?v=_CNCR09Umqk",
+    "Ataques": [
+      {
+        "nombreAtaque": "Tremor",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/up.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vortex/Cyclone",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/up.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spin Fist",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoot Toss",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Powerline",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Back Step",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tumble",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flying Knee",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Thunder",
+    "Descripcion": "Thunder (real name hinmatoom, formerly known in the original universe as Chief Thunder) is a traditional Native American Nez Percé tribal warrior, and a playable character in both Killer Instinct (1994) and Killer Instinct (2013). He is the older brother of Eagle.",
+    "Foto": "imagenes/KITODO/thunder-foto.png",
+    "FotoTier":"imagenes/KITier/thunder.png",
+
+    "Fondo": "imagenes/KITODO/thunder-fondo.jpg",
+    "Runa": "imagenes/KITODO/thunder-runa.png",
+    "Size": "1'93 m",
+    "Weight": "127 Kg ",
+    "Personality": "Thunder is a man of loyal heart who remains devoted to his family and his heritage, easily seen in his traditional Nez Percé battle attire. He mainly speaks in his native language of Niimi'ipuutímt out of preference, though he does know English. His main goal is to find his brother tipyeléhne, also known as Eagle, who was kidnapped by Ultratech years ago. Thunder has learned from Orchid that Eagle was used in the creation of the Fulgore Mk. III, and since then he has fought against Ultratech so that he may find the Mk. III prototype and hopefully his brother as well.",
+    "Combos": "https://www.youtube.com/watch?v=UqhPedi6wnI",
+    "Combos2": "https://www.youtube.com/watch?v=5WGkWTrOxM4",
+    "Ataques": [
+      {
+        "nombreAtaque": "Horn Breaker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Call of Sky",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Call of the Earth",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ankle Slicer",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Triplax",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sammamish",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Aganos",
+    "Descripcion": "Aganos (ἀγανός) is an ancient war-golem that originated in Mycenaean Greece. A new character introduced in Killer Instinct (2013), Aganos was the sixth character to be added during Season Two, and is the fifteenth character of the reboot overall.",
+    "Foto": "imagenes/KITODO/aganos-foto.png",
+    "FotoTier":"imagenes/KITier/aganos.png",
+
+    "Fondo": "imagenes/KITODO/maya-fondo.jpg",
+    "Runa": "imagenes/KITODO/thunder-runa.png",
+    "Size": "2'43 m",
+    "Weight": "600 Kg ",
+    "Personality": "Thunder is a man of loyal heart who remains devoted to his family and his heritage, easily seen in his traditional Nez Percé battle attire. He mainly speaks in his native language of Niimi'ipuutímt out of preference, though he does know English. His main goal is to find his brother tipyeléhne, also known as Eagle, who was kidnapped by Ultratech years ago. Thunder has learned from Orchid that Eagle was used in the creation of the Fulgore Mk. III, and since then he has fought against Ultratech so that he may find the Mk. III prototype and hopefully his brother as well.",
+    "Combos": "hhttps://www.youtube.com/watch?v=4wYJcZUQD0g",
+    "Combos2": "https://www.youtube.com/watch?v=cD_FAcw9EXw",
+    "Ataques": [
+      {
+        "nombreAtaque": "War Path",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "No Escape",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pulverize",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ruin",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Payload Assault",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Natural Disaster",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "General RAAM",
+    "Descripcion": "General RAAM is a quiet-yet-merciless leader of the Locust Hordes' military and a guest character in Killer Instinct Season 3, hailing from the Gears of War series. He was leaked on Shoryuken[1] before his official reveal, and was formally announced at E3 2016.",
+    "Foto": "imagenes/KITODO/general_raam-foto.png",
+    "FotoTier":"imagenes/KITier/general-raam.png",
+
+    "Fondo": "imagenes/KITODO/general_raam.fondo.jpg",
+    "Runa": "imagenes/KITODO/general_raam-runa.png",
+    "Size": "3'04 m",
+    "Weight": "Unknown ",
+    "Personality": " His right brow droops over his eye further than his left brow does, and he has deep golden eyes. He is fully clad in heavy, ornate, Locust-designed armor, featuring large structures atop his collar bones and a leather-like kilt attached to his belt that reaches to his shins, somewhat resembling a trench coat. His primary weapon is a large, serrated combat knife unique to his arsenal, and he has the ability to control the bat-like creatures known as Kryll.",
+    "Combos": "https://www.youtube.com/watch?v=vvQSTAqbbhg",
+    "Combos2": "https://www.youtube.com/watch?v=4cPQl3DnMwA",
+    "Ataques": [
+      {
+        "nombreAtaque": "Deception",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kryll Shield",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dominance",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kryll Rush",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Emergence",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Decimation",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  }
+]

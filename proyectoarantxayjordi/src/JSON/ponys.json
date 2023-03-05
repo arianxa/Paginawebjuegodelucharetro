@@ -1,0 +1,602 @@
+[
+  {
+    "Nombre": "ARIZONA",
+    "Descripcion": "Prairie born ‘n raised, Arizona is the youngest daughter of Texas and Minnesota, Head Bull and Cow of her cattlekind clan.Despite her small size, she’s incredibly strong. Though lacking in experience, she’s undeterred by obstacles. Many older folks underestimate Arizona, but few are more dependable or trustworthy. When called to action, her powerful headbucks and quaking stomps send opponents flying, then she reels ’em back in with her trusty lasso.Arizona was the only one among cattlekind with courage enough to answer the Council’s call in search of Foenum’s Champion, knowing full well what dangers she faced. Thrust into the wider outside world, Arizona tries to make sense of it all (or decides not to care) while she charges headfirst into the fray.",
+    "Foto": "imagenes/ponys2/arizona.png",
+    "Foto2": "imagenes/ponys2/arizonaResponsive.png",
+    "Foto3": "imagenes/Ponys/ARIZONA.png",
+    "FotoTier": "imagenes/PonysPequeños/arizona.png",
+
+    "fondo": "imagenes/ponys2/wallarizona.jpg",
+    "Combos": "https://www.youtube.com/watch?v=og4Jr-jmdGA",
+    "Combos2": "https://www.youtube.com/watch?v=DHX8UoPQp1s",
+    "Uniquemovement": [
+      {
+        "nombreAtaque": "RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+
+      {
+        "nombreAtaque": "Pushblock",
+        "Animacion": ["imagenes/imagenesataques/Attack_2.png"]
+      },
+      {
+        "nombreAtaque": "Cross Counter",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Attack_2.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Quick Recovery",
+        "Animacion": ["imagenes/imagenesataques/Attack_1.png"]
+      },
+
+      {
+        "nombreAtaque": "ELBOW DROP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      }
+    ],
+    "MAGICSYSTEM": [
+      {
+        "nombreAtaque": "MAGIC STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "MAGIC DASH",
+        "Animacion": [
+          "imagenes/imagenesataques/HCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "COUNTER",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      }
+    ],
+    "Specials": [
+      {
+        "nombreAtaque": "STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      }
+    ],
+
+    "SUPERATTACKS": [
+      {
+        "nombreAtaque": "LVL 1 – TRAMPLE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – REBOUND",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "VELVET",
+    "Descripcion": "Velvet enjoys premiere status as a member of Reine City‘s ruling elite, the peak of modern civilization at the center of the world, high in the frozen north. She is the daughter of Jarl Stronghoof Hoofstrong, whose family line has been passed down his family line for generations.No deer in Reine is Velvet’s equal in the practice of Winter Magic, in form nor in function. She is perfection personified, supremacy symbolized. Those who dare challenge her will be left with nothing but a cold shoulder.A grand tournament was held in Reine City to determine who was most fit to answer the Council’s call and become Foenum’s Champion. Velvet trounced all opposition without so much as breaking a sweat. Haven’t heard the news? Well, you’re forgiven for now. Can’t rightly blame someone for living under a rock. You’ll see… soon enough.",
+    "Foto": "imagenes/ponys2/velvet.png",
+    "Foto2": "imagenes/ponys2/velvetResponsive.png",
+    "Foto3": "imagenes/Ponys/VELVET.png",
+    "FotoTier": "imagenes/PonysPequeños/velvet.png",
+
+    "fondo": "imagenes/ponys2/wallvelvet.jpg",
+    "Combos": "https://www.youtube.com/watch?v=MaYxxISZ7pU",
+    "Combos2": "https://www.youtube.com/watch?v=hV499HNxBg8",
+    "Uniquemovement": [
+      {
+        "nombreAtaque": "SLIDE",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      }
+    ],
+    "Specials": [
+      {
+        "nombreAtaque": "ICICLE MISSILE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, LOW",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, MID",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, HIGH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ],
+    "MAGICSYSTEM": [
+      {
+        "nombreAtaque": "INSTANT SNOWBALL",
+        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
+      },
+      {
+        "nombreAtaque": "SNOWBALL TOSS",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Down.png",
+
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC ICE ERUPTION",
+        "Animacion": [
+          "imagenes/imagenesataques/DPF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "WIND",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      }
+    ],
+    "SUPERATTACKS": [
+      {
+        "nombreAtaque": "LVL 1 – ICE CYCLONE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – FROSTBITE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "OLEANDER",
+    "Descripcion": "Oleander, the great granddaughter of Divine Oracle Amaryllis, sensed the return of Predator-kind 13 years before the first actual sighting. Her masters in the Order of the Horn saw no need to take action, as always, urging her to trust that the power of Light Magic would keep Foenum safe.Frustrated and desperate, she took matters upon herself. She began studying from a book of Dark Magic and eventually forged a pact with the demon trapped inside it. The evidence of her blasphemous act manifested over time as her coat began to turn a darker shade. Despite condemnation from those around her, Oleander is determined to prove that Dark Magic can be used to do good.With the aid of her demonic companion FHTNG TH§ ¿NSP§KBL? (Fred for short), Oleander may steal energy from her opponents, eventually amassing enough to temporarily loosen Fred’s bindings so he may fight alongside her. But can she really control Fred, or will she discover the reason for his imprisonment after it’s already too late…?",
+    "Foto": "imagenes/ponys2/oleander.png",
+    "Foto2": "imagenes/ponys2/OleanderResponsive.png",
+    "fondo": "imagenes/ponys2/FondoWoodlans.png",
+    "Foto3": "imagenes/Ponys/OLEANDER.png",
+    "FotoTier": "imagenes/PonysPequeños/oleander.png",
+
+    "Combos": "https://www.youtube.com/watch?v=KqPJXQiX2MY",
+    "Combos2": "https://www.youtube.com/watch?v=eyUFymSDP0w",
+    "Uniquemovement": [
+      {
+        "nombreAtaque": "DOOM CLAW",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SMITE",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ],
+    "Specials": [
+      {
+        "nombreAtaque": "SHADOW SPARK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "CHAPTER TRAP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "TELEPORT",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      }
+    ],
+    "MAGICSYSTEM": [
+      {
+        "nombreAtaque": "STUDY",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC SPARK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC TRAP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC TELEPORT",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      }
+    ],
+    "SUPERATTACKS": [
+      {
+        "nombreAtaque": "LVL 1 – SHADOW BLAST",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – HI, FRED!",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "PAPRIKA",
+    "Descripcion": "High in the Huacaya Mountains, alpaca roam though inhospitable wilderness as their ancestors have since the dawn of time. The harsh, barren environment leaves little room for any pursuits other than raw survival.But there is one among them who eschews their sober, serious attitude. Her name is Paprika, and she’s brimming with vigorous affection. Some say she aims to fill the world with love the land never had for her, but whatever her reasons, she feels compelled to share all she has and more, whether you’re willing or not.Paprika is a basket case and a whole bag of tricks, tossing a variety of gifts and zipping around the stage faster than anyone is able to keep track of. Crushing embraces and surprising kisses make for some of her deadliest techniques. Once she decides you’re the love of her life, there can be no escape.",
+    "Foto": "imagenes/ponys2/paprika.png",
+    "Foto2": "imagenes/ponys2/paprikaResponsive.png",
+    "fondo": "imagenes/ponys2/FondoAlpake.png",
+    "Foto3": "imagenes/Ponys/PAPRIKA.png",
+    "FotoTier": "imagenes/PonysPequeños/paprika.png",
+
+    "Combos": "https://www.youtube.com/watch?v=wv5YyxBHztw",
+    "Combos2": "https://www.youtube.com/watch?v=KfEZC-UixsU",
+    "Uniquemovement": [
+      {
+        "nombreAtaque": "RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "BACK RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleLeft.png"]
+      },
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ],
+    "Specials": [
+      {
+        "nombreAtaque": "CARTWHEEL HOLD",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "ZIPPY TELEPORT",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "KISS!",
+        "Animacion": [
+          "imagenes/imagenesataques/DPF.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      }
+    ],
+    "MAGICSYSTEM": [
+      {
+        "nombreAtaque": "GIFT, RANDOM",
+        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
+      },
+      {
+        "nombreAtaque": "GIFT, FLOWER POT",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GIFT, EDIBLE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GIFT, CINNAMON ROLL",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      }
+    ],
+    "SUPERATTACKS": [
+      {
+        "nombreAtaque": "LVL 1 – SMOTHER",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png",
+          "imagenes/imagenesataques/QCB.png",
+
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – PICNIC BASKET",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "POM",
+    "Descripcion": "Sheeple are a democratic society. Upholding the will of the masses (or the flock in this case), is among their most core values. Problem is, all Sheep will vote in favor of the very first suggestion any Sheep happens to make. Pom made the mistake of suggesting that they should respond to the Council’s call for a Champion at all, and ended up being voted in as Champion herself.Sheep Dogs, the only large predators in Foenum with instincts to protect ungulates rather than eat them, live among the Sheep and keep them safe from harm. Occasionally a pack may choose to spend most of their time around one particular Sheep over another, and Pom has found herself in the company of a rather large one as of late. Perhaps they see a burning potential building inside her… because despite her desperate cries to return to her soft, grassy homeland, they continue to urge her along.",
+    "Foto": "imagenes/ponys2/pom.png",
+    "Foto2": "imagenes/ponys2/pomResponsive.png",
+    "fondo": "imagenes/ponys2/FondoBaaah.png",
+    "Foto3": "imagenes/Ponys/POM.png",
+    "FotoTier": "imagenes/PonysPequeños/pom.png",
+
+    "Combos": "https://www.youtube.com/watch?v=k62u-_7IXuE",
+    "Combos2": "https://www.youtube.com/watch?v=acRXxEOPpjo",
+    "Uniquemovement": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      }
+    ],
+    "Specials": [
+      {
+        "nombreAtaque": "SHEEP HERDING",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BARK!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ],
+    "MAGICSYSTEM": [
+      {
+        "nombreAtaque": "DIGGING PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DIGGING PUP, FOLLOWING",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GROWLY PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "PILOT PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BIG MOMMA",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "RALLY",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Button_D.png",
+
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      }
+    ],
+    "SUPERATTACKS": [
+      {
+        "nombreAtaque": "LVL 1 – STAMPEDE!",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – PICNIC BASKET",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "TIANHUO",
+    "Descripcion": "Longma of the Huoshan Empire are few in number but carry extraordinary heritage: half-dragon, half-horse. They believe they embody the best traits of both: peaceful minds and hardy bodies from the ungulates, iron wills and the strength to fight from the predators.The road to perfect balance is a often described as more of a tightrope. Sway too far in one direction or the other, and you could send yourself tumbling. Tianhuo’s ruthless ambition to purge herself of all weakness had manifested as cruelty to others in the past, but in the years since she has self-reformed. Now she serves as Captain of the Guard in service to Her Royal Highness the Longestma, Empress of Huoshan.",
+    "Foto": "imagenes/ponys2/tianhuo.png",
+    "Foto2": "imagenes/ponys2/tianhuoResponsive.png",
+    "fondo": "imagenes/ponys2/FondoHuoshan.png",
+    "Foto3": "imagenes/Ponys/TIANHUO.png",
+    "FotoTier": "imagenes/PonysPequeños/tianhuo.png",
+
+    "Combos": "https://www.youtube.com/watch?v=dji1aPLh4c0",
+    "Combos2": "https://www.youtube.com/watch?v=f6-kh1YTSs8",
+    "Uniquemovement": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      }
+    ],
+    "Specials": [
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      }
+    ],
+    "MAGICSYSTEM": [
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ],
+    "SUPERATTACKS": [
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  }
+]

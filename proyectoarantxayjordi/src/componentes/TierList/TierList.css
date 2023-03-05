@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Allerta+Stencil&family=Changa+One:ital@1&family=Open+Sans&display=swap');
+
+.testtablas {
+  border: solid 3px rgba(255, 255, 255, 0.705);
+
+  border-radius: 30px;
+  margin-bottom: 2vw;
+}
+
+.DivPrincTier {
+  background-color: #b0b0b0;
+  color: #111;
+  font-size: 17px;
+  background-image: url(https://media.eventhubs.com/images/design_site_bg2.png);
+  background-repeat: repeat-x;
+  background-position: left top;
+  margin: 0;
+  padding: 0;
+}
+
+.DescripcionTier {
+  margin-left: 6vw;
+  margin-right: 6vw;
+  font-size: 1.2rem;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.FondoTier {
+  /*background-color: rgba(255, 235, 205, 0.445);*/
+  margin-left: 8vw !important;
+  margin-right: 8vw !important;
+}
+
+.iconoTier {
+  color: black;
+  font-size: 5vh;
+  float: left;
+  cursor: pointer;
+}
+
+.subtitulo {
+  font-family: 'Abel', sans-serif;
+  color: white;
+  font-size: 6vh;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -2rem;
+}
+
+.TierNombre {
+  margin-top: 3vw;
+  font-size: 8vh;
+
+  font-family: 'Changa One', cursive;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.margenestablas {
+  margin-left: 5vw;
+}
+.table thead th{
+  border-left:none!important;
+  border-right:none!important;
+  border-top:none!important;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+
+
+border-bottom: 1px white solid;
+}
+.thead{
+  border:none!important;
+}
+.margenesiconos {
+  margin-top: 3vw;
+  margin-left: 3vw;
+  margin-bottom: 3vw;
+  color: white;
+}
+
+.pruebadeltitlo {
+  width: 50%;
+  float: right;
+}
+
+.tdTierNumero {
+
+  width: 15%;
+}
+
+
+.tdTierNombre {
+
+  width: 30%;
+}
+
+
+.tdTierGeneral {
+  vertical-align: middle !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+
+
+}
+
+.fototier {
+
+  height: 7vw;
+}
+
+.HeadTablaTier{
+  color:white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.TablaTier {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.table {
+  margin-bottom: 0 !important;
+}
+
+.NombrePersTier {
+  font-size: 1.4rem;
+  color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.elominarborders {
+  border-top: none !important;
+}
+
+.fondotabla {
+  background: rgb(255, 255, 255);
+  background: -moz-linear-gradient(90deg,
+      rgba(255, 255, 255, 1) 62%,
+      rgba(156, 156, 156, 1) 85%);
+  background: -webkit-linear-gradient(90deg,
+      rgba(255, 255, 255, 1) 62%,
+      rgba(156, 156, 156, 1) 85%);
+  background: linear-gradient(90deg,
+      rgba(255, 255, 255, 1) 62%,
+      rgba(156, 156, 156, 1) 85%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#9c9c9c", GradientType=1);
+}
+
+@font-face {
+  font-family: "BioLetraBD";
+  src: url(LeviReBrushed.ttf);
+}
+
+.TituloDesc {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {}
+
+@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
+  /*pixel*/
+}
+
+@media screen and (max-device-height: 568px) and (max-device-width: 320px) {
+  /*iphone5*/
+}
+
+@media screen and (max-device-height: 736px) and (max-device-width: 414px) {
+  /*iphone6/7/8*/
+}
+
+@media screen and (max-device-height: 1024px) and (max-device-width: 768px) {}
+
+@media screen and (max-device-height: 667px) and (max-device-width: 375px) {
+  /*iphone6/7/8*/
+}
+
+@media screen and (max-device-height: 812px) and (max-device-width: 375px) {}

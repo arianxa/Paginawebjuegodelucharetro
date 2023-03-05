@@ -1,0 +1,746 @@
+@font-face {
+    font-family: "LetraBD";
+    src: url(LeviReBrushed.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+.LetraTituloSF {
+    font-size: 5vw;
+    font-family: "LetraBD";
+
+}
+
+.fondo {
+    color: white;
+    min-height: 750px !important;
+}
+
+.tablaborderabajo {
+    border-bottom: 0px !important;
+}
+
+.DivBotonSF2 {
+
+
+    margin-top: 1vw !important;
+    margin-bottom: 1vw !important;
+
+}
+
+
+.BotonSF {
+    background-color: rgba(0, 0, 0, 0.555) !important;
+
+
+    border: 2px #a78d50 solid;
+    border-radius: 4px;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    color: #e4c69c;
+    width: 70%;
+    padding-left: 2vw;
+    margin-left: 7vw;
+    padding-right: 2vw;
+
+}
+
+.BotonSF2 {
+    background-color: rgba(0, 0, 0, 0.555) !important;
+
+
+    border: 2px #a78d50 solid;
+    border-radius: 4px;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    color: #e4c69c;
+    width: 85%;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    margin-top: -1vw;
+
+}
+
+.BotonSF:hover,
+.BotonSF2:hover {
+    background: rgba(150, 1, 1, 0.815) !important;
+}
+
+/*
+
+.fondoproba .rule {
+    background: linear-gradient(90deg, #1c1c1c, #fff 25%, #fff 75%, #1c1c1c);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 7px;
+    z-index: 1;
+}
+*/
+.fondoproba {
+
+
+    width: 100%;
+    max-width: 100%;
+    margin: 4% auto 0 auto;
+    padding: 30px 1%;
+    color: #fff;
+    font-size: 1.08em;
+    font-family: 'Lora', serif;
+    letter-spacing: 0.1em;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: uppercase;
+
+
+
+
+
+    position: relative;
+    padding: 20px 0;
+    background: linear-gradient(90deg, #1c3c85, #496cad 50%, #496cad 50%, #1c3c85);
+
+
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 12px 15px 100px 25px rgba(0, 0, 0, 0.75);
+}
+
+
+
+
+
+
+
+/*uhhhh*/
+
+
+
+.pruebalinea {
+    height: 1px;
+    background-color: black;
+    width: 80%;
+    margin-top: -0.1vw;
+
+
+}
+
+
+
+
+
+
+.imgAtaqueSF {
+    height: 2.2vw !important;
+
+}
+
+.DivBDFONDOSF {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*  background: linear-gradient(to right, #d61920 , #d196ce ,#2461be );*/
+
+    width: 100% !important;
+    background-color: rgba(255, 255, 255, 0.123);
+    background-blend-mode: multiply;
+    background-repeat: repeat-x;
+    background-image: url(http://cdn26.us1.fansshare.com/photo/hdwallpaperbackgrounds/outstanding-earth-space-backgrounds-wallpaper-background-outstanding-wallpaper-hd-anime-1739729774.jpg), linear-gradient(#6e859c, #c0ccd8);
+}
+
+.DIVCONTENEDORTABLASSF {
+    background-color: rgba(0, 0, 0, 0.555) !important;
+    width: 100% !important;
+}
+
+.PruebadefondoAtaquesSF {
+    /*background: linear-gradient(70deg, black, white);*/
+    background-image: url(https://vignette.wikia.nocookie.net/streetfighter/images/7/7e/Dojo.jpg/revision/latest/scale-to-width-down/1000?cb=20191004230027), linear-gradient(#6e859c, #c0ccd8) !important;
+    margin-bottom: -6vw;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-color: rgba(0, 0, 0, 0.432);
+    background-blend-mode: soft-light;
+}
+
+.PruebadefondoAtaquesSF::before {
+
+    /*background-color: rgba(0, 0, 0, 0.555)!important;*/
+    background-image: linear-gradient(90deg, rgba(190, 55, 52, 1) 0%, rgba(0, 49, 96, 1) 35%, rgba(0, 49, 98, 1) 100%);
+
+
+}
+
+/*margin-bottom: -6vw;
+*/
+.eliminarradius {
+    border-radius: 0px !important;
+}
+
+
+
+
+
+
+.nomostrarscrollBD {
+    /*No mostrar*/
+    overflow: hidden !important;
+}
+
+.FotoSF {
+    width: 90px !important;
+    height: 10vw !important;
+    border-radius: 0 !important;
+    border: 2px white solid;
+    margin: 4px;
+    transform: skewX(15deg);
+
+
+    cursor: pointer;
+
+}
+
+.FotoSF2 {
+    width: 90px !important;
+    min-width: 5vw !important;
+    height: 10vw !important;
+    border-radius: 0 !important;
+    border: 2px white solid;
+    margin: 4px;
+    transform: skewX(-15deg);
+
+
+    cursor: pointer;
+
+}
+
+
+
+.fotoLogoBD {
+    margin-left: -3vw !important;
+}
+
+
+.DIVFOTO {
+    position: relative;
+
+}
+
+.contenedorSF {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.SFcentrado {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.TextoPersonajeTituloSF {
+
+    position: relative;
+    bottom: 9vh;
+    color: #fff;
+    font-weight: bold;
+}
+
+/**/
+.fondoTablaSF {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0.8% auto;
+    border: 1px solid #a78d50;
+    background: rgba(0, 0, 0, 0.7) !important;
+    -webkit-border-radius: 6px !important;
+    -moz-border-radius: 6px !important;
+    -ms-border-radius: 6px !important;
+    border-radius: 6px !important;
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 0.5vw !important;
+}
+
+.colorFondoAtaquesSF {
+    color: white !important;
+    font-family: 'Oswald' !important;
+    white-space: nowrap !important;
+    font-style: oblique;
+    cursor: pointer;
+}
+
+.rowSF5:hover {
+    background: rgba(150, 1, 1, 0.815) !important;
+
+}
+
+.imgAtaqueSF {
+
+    height: 1.7vw !important;
+}
+
+.TituloAtaquesSF {
+    color: white;
+    font-size: 1.5vw;
+    font-weight: 800;
+    border-bottom: 1px solid #a78d50;
+    ;
+    font-style: oblique;
+    font-family: "WinYuGothic", "YuGothic", "メイリオ", Meiryo, Avenir-Light, Futura, Century Gothic, -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", sans-serif;
+
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.NombrePesonaje1 {
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    transform: scale(1.15) !important;
+    font-size: 1.1vw !important;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    z-index: 2 !important;
+    text-align: center !important;
+
+
+
+}
+
+
+.nom2 {
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    transform: scale(1.15) !important;
+    font-size: 1.1vw !important;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    z-index: 2 !important;
+    text-align: center !important;
+
+}
+
+
+.fotoPruebaa:hover {
+    filter: brightness(0.6) !important;
+
+
+}
+
+.DIVFOTO:hover {
+    z-index: 1 !important;
+    filter: brightness(1.1) !important;
+
+
+    transform: scale(1.05) !important;
+    /*transition: all 1s;*/
+
+}
+
+.DivNombrePJ {
+    display: none;
+
+}
+
+.LetraTituloSF {
+    -webkit-text-stroke: 2px black;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+}
+
+
+.margenes {
+    margin-bottom: 3rem !important;
+    margin-right: 3rem !important;
+
+
+}
+
+.DIVFOTO:hover>.DivNombrePJ {
+    background-color: rgba(0, 0, 0, 0.274) !important;
+    display: block;
+    text-align: center !important;
+}
+
+.mifuenteSF {
+    font-size: 2vh;
+
+}
+
+@media screen and (max-device-width: 1024px) {
+    .TextoPersonajeTituloSF {
+        bottom: 3vh;
+        margin-top: -1vw;
+    }
+}
+
+@media screen and (max-device-width: 1000px) {
+    .TextoPersonajeTituloSF {
+        bottom: 3vh;
+        margin-top: -1vw;
+    }
+}
+
+@media screen and (max-device-width: 750px) {
+    .mifuenteSF {
+        font-size: 4vh !important;
+
+    }
+
+    .DIVCONTENEDORTABLAMVS {
+        margin-bottom: -7vw
+    }
+
+
+    .TextoPersonajeTituloSF {
+        bottom: 6vh;
+        margin-top: -1vw;
+
+    }
+
+    .tamañolinea {
+        height: 8vh;
+    }
+
+    .LetraTituloSF {
+        font-size: 9vw !important;
+
+    }
+
+    .margenesSF {
+        margin-bottom: 0rem !important;
+        margin-right: 3rem !important;
+        margin-left: 3rem !important;
+
+    }
+
+    .NavbarSF {
+        display: none !important;
+    }
+
+    .RowSF {
+        margin-left: 3% !important;
+    }
+
+    .FotoSF {
+
+        width: 25vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 25vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .pROSF {
+        margin-bottom: -6vw !important;
+
+    }
+
+    .NombrePesonaje1 {
+        font-size: 4vw !important;
+    }
+
+    .nom2 {
+        margin-left: 5vw;
+
+    }
+
+
+}
+
+@media screen and (max-device-width: 750px) {
+
+    .NombrePJSOUL {
+        font-size: 25px;
+    }
+
+    .CellNombreAtaques {
+        font-size: 3.5vw !important;
+    }
+
+    .imagenAtaqueSL {
+        height: 4.6vw !important;
+    }
+
+
+
+    .imagenestamaño {
+        display: none !important;
+    }
+
+    .NavSC {
+        display: none !important;
+    }
+
+    .fotoCharacterSOUL {
+        height: 40px !important;
+        margin-left: 6% !important;
+
+
+    }
+
+}
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+
+    /*MotoG4 GalazyG5*/
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .AnchoSF {
+        width: 150% !important;
+        margin-left: -13.5vw !important;
+    }
+
+    .RowSF {
+        margin-left: 7vw !important;
+    }
+
+}
+
+/*pruebsssa*/
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
+
+    /*iphone5*/
+    .AnchoSF {
+        width: 170% !important;
+        margin-left: -17.3vw !important;
+    }
+
+
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+    .RowSF {
+        margin-left: 1vw !important;
+    }
+
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+}
+
+
+
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+    .RowSF {
+        margin-left: -1vw !important;
+    }
+
+    /*iphone6/7*/
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .AnchoSF {
+        width: 150% !important;
+        margin-left: -14vw !important;
+    }
+}
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+}
+
+
+
+
+@media screen and (min-device-height: 1366px) and (max-device-width: 1024px) {
+
+    .AnchoSF {
+
+        margin-left: 4vw !important;
+    }
+
+
+}
+
+@media screen and (max-device-height: 1024px) and (min-device-width: 768px) {
+    .AnchoSF {
+
+        margin-left: 4vw !important;
+    }
+}
+
+@media screen and (max-device-height: 579px) and (min-device-width: 1240px) {
+
+    .FotoSF {
+        min-width: 90px !important;
+        min-height: 10vw !important;
+        border-radius: 0 !important;
+        border: 2px white solid;
+        margin: 4px;
+        transform: skewX(15deg);
+
+
+        cursor: pointer;
+
+    }
+
+    .FotoSF2 {
+        width: 90px !important;
+        min-width: 5vw !important;
+        height: 10vw !important;
+        border-radius: 0 !important;
+        border: 2px white solid;
+        margin: 4px;
+        transform: skewX(-15deg);
+
+
+        cursor: pointer;
+
+    }
+
+
+}
+
+
+
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
+
+    /*pixel2*/
+    .AnchoSF {
+        width: 135% !important;
+        margin-left: -10vw !important;
+        margin-right: 0vw !important;
+
+
+    }
+
+    .RowSF {
+        margin-left: 1vw !important;
+    }
+
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+}
+
+@media screen and (min-device-height: 823px) and (max-device-width: 411px) {
+
+    /*pixel xl*/
+    .RowSF {
+        margin-left: 1vw !important;
+    }
+
+    .AnchoSF {
+        width: 150% !important;
+        margin-left: -15vw !important;
+    }
+
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+
+
+}
+
+
+
+
+@media screen and (min-device-width: 1025px) {}
+
+@media screen and (max-device-width: 1024px) {}

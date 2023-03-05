@@ -1,0 +1,5459 @@
+[
+  {
+    "Nombre": "Leroy",
+    "Descripcion": "Leroy Smith is a character in the Tekken series of video games created by Bandai Namco Entertainment. Making his first appearance in Tekken 7, he is an American martial artist introduced as part of the third season pass, originally announced alongside Zafina during the EVO 2019 finals.",
+    "Foto": "imagenes/TK7/Leroy-smith.png",
+    "Foto2": "imagenes/PersonajesTekken7/Leroy-smith.png",
+    "Personality": "A humble and wise old man, Leroy is also insightful. After witnessing the death of his family and the ruin of his hometown, he trained in Wing Chun to bring down crime and restore order. He blames Heihachi Mishima, whose many actions brought misery to him and others, for the destruction of his family and beloved hometown.",
+    "Height": "186 cm",
+    "Weight": "80  kg",
+    "Likes": "His late-family",
+    "Dislikes": "Gangs",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Trader",
+    "Combos": "https://www.youtube.com/watch?v=fhRsH3gaHlQ",
+    "Combos2": "https://www.youtube.com/watch?v=eJazzV4PCzw",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jab",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1.svg"]
+      },
+      {
+        "nombreAtaque": "Chain Punch: Sheath",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Chain Punch: Sheath 6 ",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Front Palm Pulsing Fist",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Chain Punch: Stem",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Long Dragon Storm",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Long Dragon Storm to Hermit",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Strike of the Five Precepts",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dragon's Heel",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Akuma",
+    "Descripcion": "Akuma (悪魔 Akuma?, Devil), also known as Gouki (豪鬼 Gōki?, Great Demon, Great Devil or Great Ogre) in Japan, is a licensed guest character appearing in Tekken 7: Fated Retribution, and one of the major antagonists of the Street Fighter series and it's UDON Comics adaptation. Known for his sheer power with the Satsui no Hadō, Akuma has clashed multiple times with his brother, Gouken, and is the killer of their master, Goutetsu. Akuma was first revealed at the Tekken World Tour 2015 Grand Finals as one of the new characters for Fated Retribution.",
+    "Foto": "imagenes/TK7/Akuma.png",
+    "Foto2": "imagenes/PersonajesTekken7/akuma.png",
+    "Personality": "Akuma is a seemingly brutal, angry, quite honorable and proud warrior who is always training and has contempt for weaklings. He is rarely, if ever, seen smiling and enjoys fighting formidable warriors and those with enough potential for immense strength, such as Ryu.",
+    "Height": "178 cm",
+    "Weight": "90 Kg",
+    "Likes": "Satsui no Hado ,Fighting strong opponents ,Becoming stronger,Fighting Evil Ryu",
+    "Dislikes": "His master Goutetsu ,His brother Gouken ,M. Bison ,Weakness,Anyone who interferes with his training",
+    "Species": "Human/Demon",
+    "Gender": "Male",
+    "Occupation": "Martial Artist",
+    "Combos": "https://www.youtube.com/watch?v=Ry23G3SG-4Y",
+    "Combos2": "https://www.youtube.com/watch?v=LkpJBNUDzig",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Drive",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Back Strike",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Peacock Jive ",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sundial",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Garland Kick Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dominating Heel",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Bloody Masquerade Lance",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Élysée Le Bras Allongé Caracole",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dendrobium",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Moonsault Alstroemeria",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/up.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Geese Howard",
+    "Descripcion": "Geese Howard (ギース・ハワード Gīsu Hawādo?) is a playable guest character within the Tekken series of fighting games. He is from the Fatal Fury (known as Garou (Hungry Wolves) in Japan), Art of Fighting and The King of Fighters series created by SNK, where he acts as the recurring boss of the Fatal Fury series. Believing in the darwinistic principle of strength, Geese craves all forms of power, be it physical and mental prowess to money and other assets",
+    "Foto": "imagenes/TK7/Geese_Howard.png",
+    "Foto2": "imagenes/PersonajesTekken7/Geese_Howard.png",
+    "Personality": "Although defined by his pride and insatiable lust for power in all its forms, Geese is both cunning and strong. He knows all of the faces of power, from money to immortality, and in many cases, he is well aware of the paths by which to obtain such power; such paths were taught through the harsh lessons Geese learned during childhood and while working his way up the underworld of his native South Town.",
+    "Height": "183 cm",
+    "Weight": "82 Kg",
+    "Likes": "Himself,His mother (Maria Howard),Steaks,Billiards,Speak Softly, Love (Love Theme from The Godfather)",
+    "Dislikes": "People who stop his ambitions (such as his archenemy Terry Bogard),His father (Rudolph Von Zanac)",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Police Commisioner (Former),CEO of Howard Connection,Underworld Kingpin of South town, USA",
+    "Combos": "https://www.youtube.com/watch?v=vNkiIvmjjEc",
+    "Combos2": "https://www.youtube.com/watch?v=eEG8563sIgs",
+    "Ataques": [
+      {
+        "nombreAtaque": "Tenha Uchi to Use MAX mode",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Tenha Jinchusen",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jyurin Midaretuki",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Fuwa to Use MAX ",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Mikazuki Nidan-Geri",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Three Ring Circus",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Nioh Kuzushi",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Zettou Sokutou-Geri",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Yakoutsuki",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Paul",
+    "Descripcion": "Paul Phoenix (ポール・フェニックス Pōru Fenikkusu?) is a character in the Tekken series who made his debut in the first Tekken game and since then has appeared in every game to date. He is a hotheaded, aggressive character, determined more than ever to win the King of Iron Fist Tournament to prove he is the best fighter in the entire universe.",
+    "Foto": "imagenes/TK7/Paul_Phoenix.png",
+    "Foto2": "imagenes/PersonajesTekken7/Paul_Phoenix.png",
+    "Personality": "Paul is an extremely overconfident, muscle-brained individual who never doubts himself. This overconfidence tends to get the better of him as his ego spins out of control with the end result usually leaving Paul in difficult and awkward situations. Despite this, his arrogant attitude has never changed throughout the years and still he enters tournaments striving to prove himself to be the best in the universe (he means this literally, according to his ending in Tekken 5).",
+    "Height": "187 cm",
+    "Weight": "81 Kg",
+    "Likes": "Pizza,Smell of gasoline,Money,Marshall Law,Forest Law,Steve Fox,Having a rematch with Kazuya Mishima,Proving that he is the best in the universe",
+    "Dislikes": "Freeways in Japan,Traffic jams (he was caught in a massive traffic jam during the previous Tournament),Kuma I & II,Losing ,People calling him dumb",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Unemployed",
+    "Combos": "https://www.youtube.com/watch?v=gN00RxttHVM",
+    "Combos2": "https://www.youtube.com/watch?v=i5HvQ_BMnTc",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Drive",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab Roundhouse",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Quick PK Smash",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoulder Tackle",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hammer Punch to Power Punch",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Burning Spear",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "God Hammer Punch",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Higaku",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Shredder",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/upright.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Steve",
+    "Descripcion": "Steve is a young British boxer who was adopted at a young age and whose origins long remained shrouded in mystery. Throughout the games, Steve's main objective has been to learn more information about his past, including the origin of the mysterious scar on his arm, and to get revenge against those responsible.",
+    "Foto": "imagenes/TK7/Steve_Fox.png",
+    "Foto2": "imagenes/PersonajesTekken7/Steve_Fox.png",
+    "Personality": "Steve is a polite and gentlemanlike individual whose main motivation is to fight in the ring. He has very few enemies and has made many friends and friendly rivals throughout the series, including Marshall Law and Paul Phoenix.",
+    "Height": "187 cm",
+    "Weight": "75 Kg",
+    "Likes": "Fighting in the ring,Training,Sportsmanship",
+    "Dislikes": "The Mafia and the Mishima Zaibatsu,Heihachi Mishima,Jin Kazama,Bad sportsmanship",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Professional Boxer",
+    "Combos": "https://www.youtube.com/watch?v=Nq8TUtoFC-I",
+    "Combos2": "https://www.youtube.com/watch?v=geDadvey7rw",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Drive",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lightning Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Vanguard Rush",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Centurion Rush",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Ducking Body Blow to Left Hook",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dominating Heel",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Knuckle Plow",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lancaster Combination",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Uppercut Cross Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Frigate Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+ 
+  {
+    "Nombre": "Jin",
+    "Descripcion": "Jin Kazama (風間 仁 Kazama Jin?) is one of the main characters of the Tekken series. He is featured on the packaging for the console version of almost every sequel following his introduction in Tekken 3.",
+    "Foto": "imagenes/TK7/Jin_Kazama.png",
+    "Foto2": "imagenes/PersonajesTekken7/Jin_Kazama.png",
+    "Personality": "Jin's actions and surroundings fit the mold of a quintessential tragic hero, excluding the lack of a tragic flaw as of Tekken 6. As with many tragedies, all of the major traumatic events that occur within the hero's life are beyond his control.",
+    "Height": "180 cm",
+    "Weight": "75 Kg",
+    "Likes": "His mother,His mother's teachings (TK3),His grandfather (TK3),Ling Xiaoyu,Nina Williams,Flames",
+    "Dislikes": "Deception,His father,His grandfather (TK4-onwards),Devil Gene,Ogre,His devil form,Azazel",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Student (formerly),Martial Artist,Head of the Mishima Zaibatsu (formerly)",
+    "Combos": "https://www.youtube.com/watch?v=CqSDC1DokCI",
+    "Combos2": "https://www.youtube.com/watch?v=-IyFciaWZ40",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Axe Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right to Spinning Hook Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoulder Tackle",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hammer Punch to Power Punch",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Jab to Double Low",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Kazama Style Turning Leg Strike",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Double Chamber Punch",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mental Alertness 1",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+3+4.svg"]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Law",
+    "Descripcion": "Marshall Law (マーシャル・ロウ Māsharu Rou?) is an American fighter of Chinese descent who was introduced in the original Tekken game, and has returned for all subsequent Tekken games, except Tekken 3 and Tekken Tag Tournament (where he was replaced by his son, Forest Law, though he made a cameo in his son's ending and in the opening in the former). He is a very close friend of Paul Phoenix and is married to Mrs. Law.",
+    "Foto": "imagenes/TK7/Marshall_Law.png",
+    "Foto2": "imagenes/PersonajesTekken7/Marshall_Law.png",
+    "Personality": "Marshall usually gets along well with his friends and family. Marshall has been friends with Paul Phoenix since Tekken 1 and have shown to not only friends, but fighting partners also. Marshall also got along with Steve Fox when they teamed up in Tekken 6. Law also likes to joke or make fun of his friends. ",
+    "Height": "179 cm",
+    "Weight": "69 Kg",
+    "Likes": "Money,His family,His best friend,Steve Fox",
+    "Dislikes": "Being broke,Baek Doo San,His son fighting outside of the dojo (TK3),Spoiled and entitled children",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Cook and Chinese restaurant owner,Dojo owner and instructor,Dishwasher (TK5)",
+    "Combos": "https://www.youtube.com/watch?v=6PESHcMWIlY",
+    "Combos2": "https://www.youtube.com/watch?v=vdsNyELRqh4",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Machine Gun Arrow",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Dragon Fist Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Blazing Fist Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "High Kick to Bloody Cleaver",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Crescent Kick Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/up.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Pressing Kick Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Hamme",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dragon Arrow",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Devil Jin",
+    "Descripcion": "Devil Jin (デビル仁 Debiru Jin?) is a Tekken character who made his first appearance in Tekken 3, but didn't become a fully playable character until Tekken 5. He is Jin Kazama's devil form after being consumed by the effects of the Devil Gene.",
+    "Foto": "imagenes/TK7/Devil_Jin.png",
+    "Foto2": "imagenes/PersonajesTekken7/Devil_Kazuya.png",
+    "Personality": "When the Devil Gene completely takes over Jin's mind, he becomes crazed, aggressive, destructive and brooding. It is also evident from his dialogue in the Scenario campaign that he does not completely share the same memories as Jin but will still retain certain sensations from time-to-time. In a more exact case, Devil Jin can be treated more like the Devil Gene itself within Jin's body, with Devil Jin looking down on his host as someone weak-willed and insignificant.",
+    "Height": "180 cm",
+    "Weight": "75 Kg",
+    "Likes": "His mother,His mother's teachings (TK3),His grandfather (TK3),Ling Xiaoyu,Nina Williams,Flames",
+    "Dislikes": "Deception,His father,His grandfather (TK4-onwards),Devil Gene,Ogre,His devil form,Azazel",
+    "Species": "Human",
+    "Gender": "Demon",
+    "Occupation": "The Devil Gene within Jin Kazama",
+    "Combos": "https://www.youtube.com/watch?v=gYpn-pBenj8",
+    "Combos2": "https://www.youtube.com/watch?v=v2Ma2VgnRVo",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Flash Punch Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoot the Works",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Fly",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Infernal Destruction",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Three Ring Circus",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Pressing Kick Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Hamme",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lightning Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1+4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ganryu",
+    "Descripcion": "Ganryu (巌竜 Ganryū?) is a character in the Tekken series. He first appeared in the original Tekken, and returned for the sequel, Tekken 2, and later Tekken 5, Tekken 6 and Tekken 7 as a DLC character included in the third season pass.",
+    "Foto": "imagenes/TK7/Ganryu.png",
+    "Foto2": "imagenes/PersonajesTekken7/Ganryu.png",
+    "Personality": "Ganryu is a very proud and passionate man, and full of confidence. In his younger years, this caused problems for him, as his arrogance in the ring led to his dismissal from the sport of sumo. Ganryu was also very materialistic, with his greed for wealth leading him into a bad gambling habit.",
+    "Height": "189 cm",
+    "Weight": "125 Kg",
+    "Likes": "Buridaikon,Michelle Chang (TK2),Julia Chang (TK5-onwards)",
+    "Dislikes": "Rejection",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "The Devil Gene within Jin Kazama",
+    "Combos": "https://www.youtube.com/watch?v=5mWO88XjKfA",
+    "Combos2": "https://www.youtube.com/watch?v=vjgtmfqX-Vc",
+    "Ataques": [
+      {
+        "nombreAtaque": "Open Palm Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Open Palm Combo (4)",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Enma Harite (2) to Tachiai",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sumo Stampede (2) ",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Ducking Palm",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Rock Cleaving Palm to Sit",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Kabuki Palm to Hammer Rush (2)",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sumo Hammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Headbutt",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kazuya",
+    "Descripcion": "Kazuya Mishima (三島 一八 Mishima Kazuya?) is one of the main characters in the Tekken series. He appears in all of the Tekken games except Tekken 3, in which he only made two cameo appearances. ",
+    "Foto": "imagenes/TK7/Kazuya_Mishima.png",
+    "Foto2": "imagenes/PersonajesTekken7/Kazuya_Mishima.png",
+    "Personality": "This character was originally listed as the classic Japanese video game hero (prototype that was established from the image of Ryu, an almost model character of Kazuya as the Japanese hero) for his style: the muscular guy with black hair, karateka suit , red gloves, etc. However, this original image evolved over time until it reached the point that it has become almost completely detached from the character due to the fact that its personality in the history of the game has been changing, leaving aside its aspect of good until becoming the anti-hero or even the villain of the Tekken saga.",
+    "Height": "181 cm",
+    "Weight": "76 Kg",
+    "Likes": "Ultimate power,His mother,His grandfather,His devil form,His father's irritated expressions",
+    "Dislikes": "His father,His son,His son’s devil form,His adoptive brother Akuma",
+    "Species": "Human/Demon",
+    "Gender": "Male",
+    "Occupation": "Test subject/worker of G Corporation",
+    "Combos": "https://www.youtube.com/watch?v=Px-xO5n2-Vw",
+    "Combos2": "https://www.youtube.com/watch?v=Oc9u4LYgLaQ",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Devil Transformation",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/uplef.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Elkeid",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Twin Pistons",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Infernal Destruction",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sorai Zanba",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Demon Slayer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Twin Fang Double Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Nejiri Uraken",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kazumi",
+    "Descripcion": "Kazumi Mishima (三島 一美 Mishima Kazumi?) neé Hachijō (八条 Hachijō?) is a character in the Tekken series of 3D fighting games. She is the mother of Kazuya Mishima, the daughter-in-law of Jinpachi Mishima, the paternal grandmother of Jin Kazama, and the late wife of Heihachi Mishima. Kazumi is introduced in Tekken 7 as one of the new characters as well as one of the main antagonists of the game. She was originally one of the unplayable bosses along with her grandson, Jin prior to the release of the Arcade version.",
+    "Foto": "imagenes/TK7/kazumi.png",
+    "Foto2": "imagenes/PersonajesTekken7/kazumi.png",
+    "Personality": "She is shown to be quite honorable and formal, as in one of her intro animations, she formally bows to her opponent while announcing she will be their next opponent.",
+    "Height": "181 cm",
+    "Weight": "76 Kg",
+    "Likes": "Her former husband,Her son",
+    "Dislikes": "Her Devil Gene (presumably),Violence,Her husband's and son's affinity for evil",
+    "Species": "Human/Demon",
+    "Gender": "Female",
+    "Occupation": "Host of the Devil Gene,Hachijo Clan's Assassin,Martial Artist",
+    "Combos": "https://www.youtube.com/watch?v=jAyZyqhTvJM",
+    "Combos2": "https://www.youtube.com/watch?v=W_DdtcsQo50",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Burst Punch Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Demon Hunter",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Rolling Tiger",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+4.svg"]
+      },
+      {
+        "nombreAtaque": "Fearless Warrior",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Diamond Cleaver",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Last Warrior",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Tiger Demon's Gate",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Diamond Flash",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "King",
+    "Descripcion": "King (キング Kingu?) is a title that two characters have taken in the Tekken series. Even though there have been two characters who have taken the name, each is simply called King in their respective games, though a numerical value is sometimes given to them to separate them as different characters.",
+    "Foto": "imagenes/TK7/King_II.png",
+    "Foto2": "imagenes/PersonajesTekken7/King_II.png",
+    "Personality": "Until the age of 24, this person worked hard with King until, one day, news broke of the first King's death at the hands of Ogre. Seeing that the orphanage would crumble into ruin (the money gained from King's wrestling matches was the only funding received), this man donned the mask of King and imitated his style. Unfortunately, he had only seen King's wrestling moves as a child, and he lost every competition he entered. One day, however, another man with a mask visited the new King, introducing himself as an old friend.",
+    "Height": "200 cm",
+    "Weight": "90 Kg",
+    "Likes": "His predecessor and former caretaker King I,Having victory beers with Armor King I (TK3)",
+    "Dislikes": "Tears of Children",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Pro-wrestler,Manager of an Orphanage",
+    "Combos": "https://www.youtube.com/watch?v=8vZZHY3zhPM",
+    "Combos2": "https://www.youtube.com/watch?v=bkhIOg7L7qs",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Palm Strike to Head Jammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Palm Attack to Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Spinner",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Reverse Jaguar Step",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jaguar Step to Sobat & Press",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2+3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Elbow Impact",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Atlas' Hammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Stagger Kicks",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zafina",
+    "Descripcion": "Zafina (Arabic: زافينا Zāfīnā, Japanese: ザフィーナ Zafīna) is a playable character in the Tekken series. She was introduced in Tekken 6 and appeared in Tekken Tag Tournament 2. She returns in Tekken 7 as a DLC character included in the third season pass.",
+    "Foto": "imagenes/TK7/Zafina.png",
+    "Foto2": "imagenes/PersonajesTekken7/Zafina.png",
+    "Personality": "Zafina is very intelligent, as evidenced by her knowledge of Azazel. She is also a determined woman who strives for success in order to avoid chaos. Despite this, she is quite calm and focused, not letting her emotions get the best of her while on a mission.",
+    "Height": "uknown",
+    "Weight": "56  Kg",
+    "Likes": "Her tribe Raven,Wang Jinrei,Archers of Sirius",
+    "Dislikes": "Azazel,Evil beings",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "Astrologist and Imperial Tomb Defender",
+    "Combos": "https://www.youtube.com/watch?v=aB43J5d08C0",
+    "Combos2": "https://www.youtube.com/watch?v=mQsK3sEuck8",
+    "Ataques": [
+      {
+        "nombreAtaque": "Left Right Scarecrow to SCS",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Palm Strike to Head Jammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Ecdysis to TS",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Manticore",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Ettimu (2) to SCS",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jaguar Step to Sobat & Press",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2+3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Aqrabuamelu",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Poison Rosette",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Earwig Pincer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Dragunov",
+    "Descripcion": "Sergei Dragunov (Japanese: セルゲイ・ドラグノフ Serugei Doragunofu; Russian: Сергей Драгунов Sergey Dragunov) is a character in the Tekken series. He was first introduced in Tekken 5: Dark Resurrection as one of the two new characters, the other one being Lili, and has returned in every subsequent game.",
+    "Foto": "imagenes/TK7/Sergei_Dragunov.png",
+    "Foto2": "imagenes/PersonajesTekken7/Sergei_Dragunov.png",
+    "Personality": "Dragunov is cold, calculating, and totally impassive when fighting opponents. Aside from a few lines of dialogue, Dragunov is an elective mute, barely uttering a single word throughout the entire series.This tends to either annoy, confuse or unsettle other characters. ",
+    "Height": "uknown",
+    "Weight": "uknown",
+    "Likes": "Following orders,Trains",
+    "Dislikes": "Speaking,Interferences",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Spetsnaz",
+    "Combos": "https://www.youtube.com/watch?v=Ht4D-Vq_n-k",
+    "Combos2": "https://www.youtube.com/watch?v=OVvTm3r8Oa0",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Eye Gouge to Hilt",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hammer and Sickle",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Disconnector",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Stun Gun",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Step-in Bardiche",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Cougar Combination",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Scabbard",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Stiletto",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hwoarang",
+    "Descripcion": "Hwoarang (Hangul: 화랑; Hanja: 花郎 Hwarang; Japanese: ファラン Faran) is a character in the Tekken series who first appeared in Tekken 3 and has returned in all subsequent games. He is the Taekwondo student of Baek Doo San, and entered the third Tournament to get revenge on Ogre for killing his master. He has also become Jin Kazama's rival after the two fought to a draw in one of Hwoarang's street matches before the events of Tekken 3.",
+    "Foto": "imagenes/TK7/Hwoarang.png",
+    "Foto2": "imagenes/PersonajesTekken7/Hwoarang.png",
+    "Personality": "Hwoarang is a hot-headed, impulsive person who enjoys fighting. He is sometimes arrogant and brash as he likes to boast about his skills and strength. He still holds his focus on his opponents to not lose himself in his pride. He is very rebellious and does not like to obey orders, but this changes in regard to his master, Baek, whom he dearly respects",
+    "Height": "181 cm",
+    "Weight": "68 Kg",
+    "Likes": " Rock music,Street Fighting arguing",
+    "Dislikes": "Being told what to do,Boredom",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Leader of the Resistance ",
+    "Combos": "https://www.youtube.com/watch?v=khxrTCz_RZc",
+    "Combos2": "https://www.youtube.com/watch?v=w9ZkTNM8ZI8",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Rage Drive 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Home Surgery",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Rejector",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Stun Gun",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Kicks",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Right Kicks to Right Stance",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Right Kicks to Chainsaw Heel",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Right Kick Combo to Chainsaw Heel",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lee",
+    "Descripcion": "Lee Chaolan (Chinese: 李超狼 Lǐ Chāoláng; Japanese: リー・チャオラン Rī Chaoran; It may be written with given name first as Chaolan Lee) is a character in the Tekken series. He was introduced in the original Tekken and returned for every subsequent game, except for Tekken 3. He has also at times appeared under his alter-ego dubbed Violet, of whom appeared playable in Tekken 4 and Tekken Tag Tournament 2. Lee is one of the most popular characters in the series for his manipulative style of play, smug personality and his trademark thumbs up and catchphrase excellent.",
+    "Foto": "imagenes/TK7/Lee.png",
+    "Foto2": "imagenes/PersonajesTekken7/Lee.png",
+    "Personality": "Lee is an incredibly smug and conceited ladies man with an immense sense of class, unafraid to flaunt his wealth. Though eccentric to the point of femininity and just as scheming as his adoptive father, Lee is ultimately good-natured and holds a great contempt towards Kazuya and Heihachi.",
+    "Height": "178  cm",
+    "Weight": "65 Kg",
+    "Likes": " Partying and relaxing in the Bahamas,Playing golf,Tobacco (especially mentholated),Attractive women",
+    "Dislikes": "His adoptive father,His adoptive older brother,His adoptive nephew",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Kazuya's Secretary (TK2),CEO of Violet Systems (TK4-onwards),Teacher in Kyoto International School (Tekken: Blood Vengeance) (non-canon)",
+    "Combos": "https://www.youtube.com/watch?v=dCE4VdfQAQo",
+    "Combos2": "https://www.youtube.com/watch?v=QUVvasAGDjE",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Combo to Revolution Zwei",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Mid Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Combination Vier",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Stun Gun",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Spinning Hammer Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lee Somersault",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/up.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Freaker Jab Rush",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Double Signal",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Claudio",
+    "Descripcion": "Claudio Serafino (クラウディオ・セラフィーノ Kuraudio Serafīno?) is a character in the Tekken series who was introduced in Tekken 7 as one of the new characters. Claudio originates from Italy and is said to be the world's strongest exorcist.",
+    "Foto": "imagenes/TK7/claudio.png",
+    "Foto2": "imagenes/PersonajesTekken7/claudio.png",
+    "Personality": "Claudio is somewhat sarcastic and cocky, suggested by his intro quotes that see him calling his opponents either amateurs or an easy win, all while flicking his hair. One of his victory poses may suggest that he is friendly as he lends a hand to his opponent (after they lose against him) in a manner similar to Alisa.",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Likes": " The Archers of Sirius",
+    "Dislikes": "The Mishima Zaibatsu,Demons",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Leader of the Archers of Sirius",
+    "Combos": "https://www.youtube.com/watch?v=jdMWqR4njN8",
+    "Combos2": "https://www.youtube.com/watch?v=E_yPByc4AVQ",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Circle of Judgment to Starburst",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Battle Scars",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Trinity of Pai",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Superbia",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Shining Ray to Starburst",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Eternal Moon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Ira to Starburst",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Cross Arm Impact",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Alisa",
+    "Descripcion": "Alisa Bosconovitch (アリサ・ボスコノビッチ Arisa Bosukonobicchi?, in Japanese and Алиса Босконович in Russian) is a character in the Tekken series who was introduced in​ Tekken 6: Bloodline Rebellion. She is an android created by Doctor Bosconovitch, designed to look like his deceased daughter.",
+    "Foto": "imagenes/TK7/Alisa_Bosconovitch.png",
+    "Foto2": "imagenes/PersonajesTekken7/Alisa_Bosconovitch.png",
+    "Personality": "Unlike most robots, Alisa possesses emotions and acts more like a human than a robot. She is a very kind-hearted individual who speaks in a polite manner and is sensitive to others' feelings. Alisa can also appear rather childish, resembling Ling Xiaoyu characteristically. In Tekken: Blood Vengeance, it is shown that she is also very capable of deception, as well as being quick to make friends with anyone, even Panda",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Likes": "Ling Xiaoyu,Lars Alexandersson,Her master",
+    "Dislikes": "Mishima Zaibatsu,G Corporation",
+    "Species": "Android",
+    "Gender": "Female",
+    "Occupation": "Protector of Jin Kazama",
+    "Combos": "https://www.youtube.com/watch?v=7eoTvPxhKd0",
+    "Combos2": "https://www.youtube.com/watch?v=9_kgp9vG0EA",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Stop Bit to Destructive Form",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Accelerator Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Right Jab to Accelerator",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dual Session",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lost Access",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Overflow to Boot",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Deadlock to Destructive Form",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Optimizer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/upleft.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Julia",
+    "Descripcion": "Julia Chang (ジュリア・チャン Juria Chan?) is a video game character in the Tekken series. She is the adopted daughter of Michelle Chang, who taught her how to fight, which is why they share the same fighting style.",
+    "Foto": "imagenes/TK7/Julia.png",
+    "Foto2": "imagenes/PersonajesTekken7/Julia.png",
+    "Personality": "Julia is a very kind woman with a strong love for her adoptive mother Michelle, as well as her tribe and homeland. In turn, Julia is very brave in the face of danger, and will stand her ground and fight for the side of good in order to protect the people and things she cares about. Julia is also intelligent, as her passion for her homeland led her to study archaeology, and her time spent researching forest rejuvenation taught her a great deal about natural sciences and information technology",
+    "Height": "165 cm",
+    "Weight": "54 Kg",
+    "Likes": "Nature,Buffalos,Her adoptive mother,Lee Chaolan",
+    "Dislikes": "Heihachi Mishima and the Mishima Zaibatsu",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "Live streamer ",
+    "Combos": "https://www.youtube.com/watch?v=jyQhogd2unU",
+    "Combos2": "https://www.youtube.com/watch?v=R2DRWnvD62U",
+    "Ataques": [
+      {
+        "nombreAtaque": "G-Clef Cannon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Combo to WR",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Baiyuan Sanshou",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Spin Behind",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/left.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Fist",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Triple Spinning Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dashing Steed (1)",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dashing Steed",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Bucking Steed",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Fahkumram",
+    "Descripcion": "Fahkumram (Thai: ฟ้าคำราม; Japanese: ファーカムラム Fākamuramu) is a new character in the Tekken series. He was announced at the Tekken World Tour 2019 as the fifth DLC of Season Pass 3",
+    "Foto": "imagenes/TK7/Fahkumram.png",
+    "Foto2": "imagenes/PersonajesTekken7/Fahkumram.png",
+    "Personality": "He's a tall yet scarred muscular man with bands wrapped over his arms and shins, a lot of tattoos, along with shorts similar to those of Muay Thai practitioners.",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Likes": "His family,Freedom",
+    "Dislikes": "His captors",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Unknown",
+    "Combos": "https://www.youtube.com/watch?v=qvmN8bslrAg",
+    "Combos2": "https://www.youtube.com/watch?v=pyTVayXwB_k",
+    "Ataques": [
+      {
+        "nombreAtaque": "Left Right Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Ban Chiang Combination",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab High Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Straight Punch to Thunderstorm (2)",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Teep",
+        "Animacion": ["imagenes/ImagenesataquesTekken/4.svg"]
+      },
+      {
+        "nombreAtaque": "Teep to Straight Knee",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Berserker Combination (1)",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Berserker Combination: Knee",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Horizon Dash",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Master Raven",
+    "Descripcion": "Master Raven (マスターレイヴン Masutā Reivun?) is a character in the Tekken fighting game series. Master Raven was introduced in Tekken 7: Fated Retribution.",
+    "Foto": "imagenes/TK7/Master_Raven.png",
+    "Foto2": "imagenes/PersonajesTekken7/Master_Raven.png",
+    "Personality": "He's a tall yet scarred muscular man with bands wrapped over his arms and shins, a lot of tattoos, along with shorts similar to those of Muay Thai practitioners.",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Likes": "Unknown",
+    "Dislikes": "Unknown",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "UN Intelligence Agent (Master Rank)",
+    "Combos": "https://www.youtube.com/watch?v=dOk0kJNt648",
+    "Combos2": "https://www.youtube.com/watch?v=qFcMITvGb4o",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Combo to Haze",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Valkyrie Lance Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Haze",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Tartaros",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Alondite",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Basilisk Fang",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Unicorn's Tail",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Illusion Sweep",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/upleft.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Marduk",
+    "Descripcion": "Craig Marduk (ク レ イ グ ・ マ ー ド ッ ク Kureigu Mādokku?) Is a character from the Tekken saga and has returned for all subsequent installments, although both he and Armor King II are mentioned in the Character Episode for King II .",
+    "Foto": "imagenes/TK7/Marduk.png",
+    "Foto2": "imagenes/PersonajesTekken7/Marduk.png",
+    "Personality": "Marduk is an extremely violent and short-tempered individual. He is very brash and tends to be very cruel to those around him. He is also incredibly cocky and has a big ego. His manners are highly questionable and generally border on mental instability, as he is usually seen before or after a fight screaming and acting like a vicious wild animal and breathing hard and violently.",
+    "Height": "214 cm",
+    "Weight": "170 kg",
+    "Likes": "Her parents, hurting people, fighting, taking pictures, attractive women",
+    "Dislikes": "Annoying people",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Professional wrestling fighter",
+    "Combos": "https://www.youtube.com/watch?v=Nx0mqiuIz-E",
+    "Combos2": "https://www.youtube.com/watch?v=qQbo1vQQJ1E",
+    "Ataques": [
+      {
+        "nombreAtaque": "Left Right Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right To Gut Check(3)",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right to Power Elbow Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Right Jab",
+        "Animacion": ["imagenes/ImagenesataquesTekken/2.svg"]
+      },
+      {
+        "nombreAtaque": "Catapult Tackle Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Hook Combo (1)",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Hook Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Mammoth Charge",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Shoulder Bash",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jack-7",
+    "Descripcion": "Jack (ジャック Jakku?, Russian: Джек), sometimes capitalized as JACK, is the name of a series of robots that are upgraded in each main installment in the Tekken series of fighting games. There has been a playable Jack model in every main Tekken game, except for Tekken 4. Prototype Jack is seen as separate to the main line.",
+    "Foto": "imagenes/TK7/Jack-7.png",
+    "Foto2": "imagenes/PersonajesTekken7/Jack-7.png",
+    "Personality": "Having been built as a destructive killing machine, Jack robots are very aggressive, and do not hesitate in destroying all in sight. However, Jack robots are also able to show empathy and compassion, as demonstrated by Jack-2's reaction to finding Jane, and seem to be very protective of those with whom they share a close bond, even going so far as to sacrifice themselves, as demonstrated by Gun Jack in his Tekken 3 storyline",
+    "Height": "235 cm",
+    "Weight": "168 kg",
+    "Likes": "Jane (Jack-2 onwards),Dr. Bosconovitch,Akihabara Parts Center,G Corporation (Jack-4 onwards)",
+    "Dislikes": "Scrap-metal factories",
+    "Species": "Android",
+    "Gender": "Male",
+    "Occupation": "Weapon of Destruction",
+    "Combos": "https://www.youtube.com/watch?v=jcayCzH076c",
+    "Combos2": "https://www.youtube.com/watch?v=02UaatR1Ess",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab to Jackhammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab Elbow Smash",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Pivot Gun",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Tyulpan Blast",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Axe",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Basilisk Fang",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sit Punches 2",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Sherman Stomp",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Xiaoyu",
+    "Descripcion": "Ling Xiaoyu (Chinese: 凌曉雨 Líng Xiǎoyǔ; Japanese: リン・シャオユウ Rin Shaoyū; It may be written with given name first as Xiaoyu Ling) is a fictional character who was introduced to the Tekken franchise in Tekken 3 as a 16-year-old girl and has returned in every subsequent release.",
+    "Foto": "imagenes/TK7/Ling_Xiaoyu.png",
+    "Foto2": "imagenes/PersonajesTekken7/Ling_Xiaoyu.png",
+    "Personality": "Xiaoyu is an innocent and cheerful girl whose story is linked to Jin Kazama, her friend who has fallen into evil. Her most notable personality traits are naivety and determination. As she enters her first tournament for the sole purpose to build her own amusement park becoming a recurring theme in Xiaoyu and especially in her endings.",
+    "Height": "157 cm",
+    "Weight": "42 kg",
+    "Likes": "Jin Kazama,Heihachi Mishima,Alisa Bosconovitch (non-canon),Miharu Hirano",
+    "Dislikes": "Her math teacher",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "Student",
+    "Combos": "https://www.youtube.com/watch?v=HD3qlrTL_Vk",
+    "Combos2": "https://www.youtube.com/watch?v=BWK7klMA0X4",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Rage Drive",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Bayonet Thruster",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "April Showers",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Bai Yang Zhuan Wu",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Swivel Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Somersault to Phoenix Talon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sunset Fan",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Seven Star Fist",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/up.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Bryan",
+    "Descripcion": "Bryan Fury (ブライアン・フューリー Buraian Fyūrī?) is a character in the Tekken fighting game series. Bryan first appeared in Tekken 3, and he has returned to all the other Tekken games after the third one. Bryan is popular among fans for his ruthless personality, hard-hitting fighting style and trademark evil laugh.",
+    "Foto": "imagenes/TK7/Bryan_fury.png",
+    "Foto2": "imagenes/PersonajesTekken7/Bryan_fury.png",
+    "Personality": "Bryan is brutish, unfeeling, and overall psychotic. Throughout the entire Tekken series, it is clear that Bryan's motivation is nothing more than to create havoc and misery wherever he goes. His selfishness has been shown multiple times, like when he betrayed Doctor Bosconovitch and Yoshimitsu very shortly after Yoshimitsu saved him from death.",
+    "Height": "186 cm",
+    "Weight": "80  kg",
+    "Likes": "Bright sunlight,Yoshimitsu,Lei Wulong",
+    "Dislikes": "Bright sunlight",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Brain data collector",
+    "Combos": "https://www.youtube.com/watch?v=yenqc74HUMc",
+    "Combos2": "https://www.youtube.com/watch?v=ScuZ3Iln6mM",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Rage Drive",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "One Two Low Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lair's Dance",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Right Left to Spin Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Boa Crusher",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Quick Low Screw Punch",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Low Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Seven Star Fist",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Bob",
+    "Descripcion": "Robert Bob Richards (ボブ Bobu?) is a character in the Tekken series who was introduced in Tekken 6 and returned for Tekken 6: Bloodline Rebellion and Tekken 7: Fated Retribution. Bob is a renowned martial arts prodigy from the USA.",
+    "Foto": "imagenes/TK7/BOB.png",
+    "Foto2": "imagenes/PersonajesTekken7/Bob.png",
+    "Personality": "Bob is portrayed as likeable and charismatic with a strong sense of justice, usually using his fighting skills to help those in need. He is also quite cocky, appearing as a smooth talker and a bit of a ladies man. As Bob is fully confident in his abilities with his current figure, he is ironically far more insecure about losing weight than gaining it and his demeanor becomes far less enthusiastic when subject to weight loss.",
+    "Height": "Unkown ",
+    "Weight": "Unkown",
+    "Likes": "Fighting,Food,Popularity,Crime Fighting",
+    "Dislikes": "Weight loss",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Martial Arts prodigy",
+    "Combos": "https://www.youtube.com/watch?v=wLlTsgy5M8U",
+    "Combos2": "https://www.youtube.com/watch?v=iYXXT_NAcjc",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Straight Rondel",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Course Achuto",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sparkling Hop",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Merguez Kick Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Combination Mince",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Tornado Mixer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Duck Flip",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ravenous",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/upright.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Negan",
+    "Descripcion": "Negan (ニーガン Nīgan?) is the leader of a survivor group known as The Saviors in Image Comics' The Walking Dead comic book series and in AMC's TV series of the same name. Charismatic and power hungry, Negan forced his iron-fist rule to whatever group of survivors he encountered and never hesitated to kill others if it meant intimidating people into submission.",
+    "Foto": "imagenes/TK7/Negan.png",
+    "Foto2": "imagenes/PersonajesTekken7/Negan.png",
+    "Personality": "The Walking Dead’s Negan, the charismatic leader of the Saviors, brought other communities together under his thumb with the motto “people are a resource.” One day, Negan received reports that an unknown group had taken out several of his men.",
+    "Height": "Unkown ",
+    "Weight": "Unkown",
+    "Likes": "Unknown",
+    "Dislikes": "Unknown",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Leader of the Saviors",
+    "Combos": "https://www.youtube.com/watch?v=N1T9A8pNgPs",
+    "Combos2": "https://www.youtube.com/watch?v=mWH8zZ1tO8k",
+    "Ataques": [
+      {
+        "nombreAtaque": "Sadistic Combination (2)",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sadistic Combination",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Night Combination",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Shin Smasher",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Face Grinder",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Walker Maker",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Crouch Chin Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Molotov Cocktail",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Back Swing Funeral",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shaheen",
+    "Descripcion": "Shaheen (Arabic: شاهين Shahin, Japanese: シャヒーン Shahīn) is a character in the Tekken series who was introduced in Tekken 7 as one of the new playable characters.",
+    "Foto": "imagenes/TK7/Shaheen.png",
+    "Foto2": "imagenes/PersonajesTekken7/Shaheen.png",
+    "Personality": "Shaheen appears to be a calm and collected individual with a strong sense of justice. However, he is also humble and forgiving, believing that revenge is not the answer and that even people as diabolical as Kazuya deserve a second chance.",
+    "Height": "Unkown ",
+    "Weight": "Unkown",
+    "Likes": "His friends,His company",
+    "Dislikes": "Kazuya Mishima,G Corporation",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Military Bodyguard",
+    "Combos": "https://www.youtube.com/watch?v=GwMYW-_3T50",
+    "Combos2": "https://www.youtube.com/watch?v=zFLsoELLprw",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Spica Gut Punch",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Spica Blinding Sands",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hallux Kick to High Slashing Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Silent Sting",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Silent Flow",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Piercing Talon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Silent Rigel",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Vicious Stomp",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Anna",
+    "Descripcion": "Anna Williams (アンナ・ウィリアムズ An'na Wiriamuzu?) is a character in the Tekken series. She was introduced in the first Tekken game as the younger sister of Nina Williams, and has returned in almost every subsequent game (with the exception of Tekken 4). She is an assassin trained in various martial arts, and always appears in her trademark red silk dress and/or a blue version of it.",
+    "Foto": "imagenes/TK7/anna_williams.png",
+    "Foto2": "imagenes/PersonajesTekken7/anna_williams.png",
+    "Personality": "Although just as skilled and deadly as Nina, she has a personality that greatly contrasts her sister's; Anna holds a less serious personality, appearing markedly more playful, flirtatious and more sociable than Nina who, in turn, is reclusive, brooding and cold-blooded. Anna has a vindictive sibling rivalry with her older sister, that goes back many years. This rivalry seems to have stemmed from the death of their father, Richard Williams, as each sister holds the other responsible.",
+    "Height": "163 cm ",
+    "Weight": "49 kg",
+    "Likes": "Espresso coffee,Traveling,Red wine",
+    "Dislikes": "Her older sister",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "Assassin",
+    "Combos": "https://www.youtube.com/watch?v=ZU5Eg9Xae24",
+    "Combos2": "https://www.youtube.com/watch?v=nGowLSRX1ic",
+    "Ataques": [
+      {
+        "nombreAtaque": "Left Right Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Left",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right to Left Low Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Right Left to Frost Needle",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Spike Combo to B Slap",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Blonde Bomb",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Aphrodite's Scorn",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2+3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Low Jab Rising Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dloody Scissors",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lucky Chloe",
+    "Descripcion": "Lucky Chloe (ラッキークロエ Rakkī Kuroe?) is a character in the Tekken series who was introduced in Tekken 7 as one of the new playable characters.",
+    "Foto": "imagenes/TK7/Lucky_Chloe.png",
+    "Foto2": "imagenes/PersonajesTekken7/Lucky_Chloe.png",
+    "Personality": "Lucky Chloe is revealed to be mischievous and childish, as seen in Eddy's ending where she outsmarts Eddy by giving him a childish drawing after leading him to believe it was a note revealing Kazuya's whereabouts. ",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Likes": "Japanese Culture,Cats,Dancing",
+    "Dislikes": "Mistakes",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "Cosplay Idol",
+    "Combos": "https://www.youtube.com/watch?v=XVb6iv2T-Lo",
+    "Combos2": "https://www.youtube.com/watch?v=5uffz5qFHUs",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Left Point to C Uprock Hit",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Right Point to High Five",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "C Uprock Hit",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Axe Aerial",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Touchdown Raiz",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Touchdown Raiz to Buffalo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "C Windmill",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Double C Windmill",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Heihachi",
+    "Descripcion": "Heihachi Mishima (三島 平八 Mishima Heihachi?) is one of the main characters in the Tekken series and he debuted in the first game in the series and has returned for all subsequent titles.",
+    "Foto": "imagenes/TK7/Heihachi_Mishima.png",
+    "Foto2": "imagenes/PersonajesTekken7/Heihachi_Mishima.png",
+    "Personality": "Heihachi is considered by most fans (like Kazuya) to be an anti-hero; Not as bad as Kazuya, but it still has a dark side. Sometimes his actions are cold-hearted and sometimes inspirational (having survived all attempts to end his life thus far at the point of sheer will). In general, Heihachi is not above tradition, deception, or committing small crimes in pursuit of what he perceives as a greater good. His family does not mean anything to him.",
+    "Height": "180 cm",
+    "Weight": "82 Kg",
+    "Likes": "His deceased wife,Kuma I & II,Ling Xiaoyu,Panda",
+    "Dislikes": "Weak people,People who interfere with his plans,Explosion",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Pursuit of knowledge ",
+    "Combos": "https://www.youtube.com/watch?v=8gnZU-0WYKM",
+    "Combos2": "https://www.youtube.com/watch?v=ugkdKtxW03E",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Flash Punch Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Demon Lair",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Pressure Point",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Raijin Stance",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Chrome Dome",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hammer Beating",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lightning Hammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Funkei Uraken",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Josie",
+    "Descripcion": "Josie Rizal (ジョシー・リザール Joshī Rizāru?) is a character in the Tekken series who is introduced in Tekken 7 as one of the new playable characters. She was first seen as one of the four fighters (the other three being Jin Kazama, Devil Jin and the large red behemoth fighter named Gigas) whose in-game character models were leaked online in March 2015.",
+    "Foto": "imagenes/TK7/Josie.png",
+    "Foto2": "imagenes/PersonajesTekken7/Josie.png",
+
+    "Personality": "Josie has been described to be bright, cheerful and quite energetic, but she has become more prone to crying because of something that happened in the past.[2] It later reveals in her backstory that she was a big crybaby at the young age and is unable to ease it. During her training course and confrontation against Kuma, ",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Likes": "Her family,Her home country",
+    "Dislikes": "Large Typhoons",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "Kickboxer",
+    "Combos": "https://www.youtube.com/watch?v=ybh08IyO5Nk",
+    "Combos2": "https://www.youtube.com/watch?v=ChrnM08Eb5Y",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Papilio Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "One Two High Kick to Switch Stance",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sunrise Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Right Straight to Low High Spin Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Intercept Cannon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Subic Ring",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Heavy Knee",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Left Low Kick & High Kick to Switch Stance",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Nina",
+    "Descripcion": "Nina Williams (ニーナ・ウィリアムズ Nīna Wiriamuzu?) is an Irish, cold-blooded assassin that made her first appearance in the original Tekken game and has appeared in every Tekken game ever since. Nina has a lethal fighting style, consisting of throws, grapples, and holds. She has a rivalry with her younger sister, Anna Williams.   ",
+    "Foto": "imagenes/TK7/Nina_Williams.png",
+    "Foto2": "imagenes/PersonajesTekken7/Nina_Williams.png",
+
+    "Personality": "Nina's persona seems to be cold and indifferent. In fact, she had been drugged by an underground force when she was young in order to create the perfect assassin, regarding the chronology of Death by Degrees. Her bitterness and hatred towards men could be a result of her defilation after Tekken 2.",
+    "Height": "161 cm ",
+    "Weight": "49 Kg",
+    "Likes": "Doing her job,Jin Kazama",
+    "Dislikes": "Her younger sister,Her son, whom she considers an annoyance",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "Assassin",
+    "Combos": "https://www.youtube.com/watch?v=ZOrxwNFVh6s",
+    "Combos2": "https://www.youtube.com/watch?v=oOfWlfvCamM",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Biting Snake",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Explosion 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "PK Combo to Assassin's Blade",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Spike Combo to Right Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left High Kick to Spiral Explosion",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Whip",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dead Drop",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Left Spin Low Kick to Right Upper",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Katarina",
+    "Descripcion": "Katarina Alves (カタリーナ・アウヴェス Katarīna Auvesu?) is a character in the Tekken series introduced in Tekken 7 as one of the five initial newcomers to the series.",
+    "Foto": "imagenes/TK7/Katarina.png",
+    "Foto2": "imagenes/PersonajesTekken7/Katarina.png",
+    "Personality": "Katarina is an aggressive and sassy-mouthed talker with a cocky and slightly flirtatious personality. She did however greatly respect her adoptive father, who recently disappeared and was transformed into G Corporation's brainwashed, mutated human, Gigas.",
+    "Height": "161 cm ",
+    "Weight": "49 Kg",
+    "Likes": "Her adoptive father",
+    "Dislikes": "Unknown",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "Unknown",
+    "Combos": "https://www.youtube.com/watch?v=fu_OTlzl0gE",
+    "Combos2": "https://www.youtube.com/watch?v=Fir7zxj-jwM",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Wing Punch Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Goose Punch Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Nimble Cutter",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Heel Hook",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Tarsus Neck Blow",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Peck Upper",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Woodpecker",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Fractured Flock",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kuma",
+    "Descripcion": "Kuma (クマ? ; literally meaning Bear) is the name of two characters within the Tekken series, both of which were bears and bodyguards to Heihachi Mishima. Kuma II is the son of the original Kuma, who died of old age sometime after the second King of Iron Fist Tournament.",
+    "Foto": "imagenes/TK7/Kuma.png",
+    "Foto2": "imagenes/PersonajesTekken7/Kuma.png",
+    "Personality": "Kuma II is the more energetic, upbeat, easygoing, and he is not as rude or aggresive as his father, him and Panda (in a weird way) are kind, authentic, good-hearted, and demonstrative individuals. Kuma II does not want to pick fights towards children or Panda. He is also more neat and not lazy as his father is.",
+    "Height": "280 cm ",
+    "Weight": "210  Kg",
+    "Likes": "Salmon ,Various TV shows (mainly cartoons and mostly multi colored)",
+    "Dislikes": "Black and white/Noir colored TVs (difficult to see) , Bear related foods",
+    "Species": "Bear",
+    "Gender": "Male",
+    "Occupation": "Bodyguard",
+    "Combos": "https://www.youtube.com/watch?v=ExpO67uU-qo",
+    "Combos2": "https://www.youtube.com/watch?v=hBqx9xCeCwY",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab Elbow Smash",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Triple Hammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Bear Toss",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hunting",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Frolicking Bear",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Break'n",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "G-Clef Cannon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Wild Lumberjack",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lili",
+    "Descripcion": "Emilie Lili De Rochefort (エミリ・ド・ロシュフォール Emiri do Roshufōru?), commonly known as Lili (リリ Riri?) for short, is a character in the Tekken series. Along with Sergei Dragunov, Lili was one of the two new characters introduced in Tekken 5: Dark Resurrection.",
+    "Foto": "imagenes/TK7/Emilie_De_Rochefort.png",
+    "Foto2": "imagenes/PersonajesTekken7/Emilie_De_Rochefort.png",
+    "Personality": "Even though Lili appears selfish and stuck-up, she is actually a very gentle, intelligent, mature, optimistic, and sweet young lady. However, like her rival Asuka Kazama, she revels in fighting despite being beautiful. This is proven throughout Scenario Campaign if the player chooses her. In almost every stage, it is shown that she sees most of the fighters as toys to play with and also in her stage if the player plays as anyone except Lili, Asuka, Jin or Lars. In fact, if they play as Nina and enter Lili's stage, she describes Lili as having a screw loose and a brat who should be in bed by now",
+    "Height": "161 cm ",
+    "Weight": "49 Kg",
+    "Likes": "Fashion,Winning,Seeing her father pleased,Sweets",
+    "Dislikes": "Losing,Seeing her father upset,Spicy food,Sweat",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "High School Student",
+    "Combos": "https://www.youtube.com/watch?v=SUrXdXZCAqA",
+    "Combos2": "https://www.youtube.com/watch?v=cPBE_FhAhmc",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Left Right Back Strike",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Piercing Thorn",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Mars Sword",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Kitty Claws",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Delayed Sundial",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Break'n",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Backflip Spinning Edge",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Bloody Masquerade Lance",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Panda",
+    "Descripcion": "Panda (パンダ?) is a character in the Tekken fighting game series. She is, as her name implies, a giant Panda and the loyal pet, best friend, and bodyguard of Ling Xiaoyu.",
+    "Foto": "imagenes/TK7/panda.png",
+    "Foto2": "imagenes/PersonajesTekken7/panda.png",
+    "Personality": "Very intelligent, Panda seems to have an almost human-like empathy and thought process. She is shown to be very considerate to Xiaoyu when she is upset, as well as suppotive towards her decisions. She sometimes shows a playful side, similar to Xiaoyu.",
+    "Height": "277 cm ",
+    "Weight": "700  Kg",
+    "Likes": "Ling Xiaoyu,Jin Kazama",
+    "Dislikes": "Kuma",
+    "Species": "Panda",
+    "Gender": "Female",
+    "Occupation": "Garden maintenance and protect Xiaoyu",
+    "Combos": "https://www.youtube.com/watch?v=hBqx9xCeCwY",
+    "Combos2": "https://www.youtube.com/watch?v=tYdsbtXVlNM",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab Elbow Smash",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Triple Hammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Bear Toss",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hunting",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Frolicking Bear",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Break'n",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "G-Clef Cannon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Wild Lumberjack",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Feng",
+    "Descripcion": "Feng Wei (Chinese: 馮威 Féng Wēi; Japanese: フェン・ウェイ Fen Wei; It may be written with given name first as Wei Feng) is a fictional Chinese character from the Tekken franchise of fighting games. He was introduced in Tekken 5 as one of the three new characters (the other two being Asuka Kazama and Raven) and has returned for all subsequent games.",
+    "Foto": "imagenes/TK7/Fen_Wei.png",
+    "Foto2": "imagenes/PersonajesTekken7/Fen_Wei.png",
+    "Personality": "A ruthless and merciless martial artist. Feng has a lust for power and fighting, which can be seen as both a strength and weakness, as while he was skilled enough to be the best in his class, his greatest flaw is that his addiction and impulsive urge to start fighting eventually got the better of him, causing him to murder his master after he scolded him for fighting outside the dojo.",
+    "Height": "Unkown ",
+    "Weight": "Unkown",
+    "Likes": "Strong opponents,Ultimate strength",
+    "Dislikes": "Weak people,Lei Wulong",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Chinese Martial Arts Master",
+    "Combos": "https://www.youtube.com/watch?v=XmR8ALMcMH0",
+    "Combos2": "https://www.youtube.com/watch?v=k_tYCQSiEG0",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Firestorm",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Peacock Sweep",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Boar's Tusk",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Climbing Dragon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Frolicking Bear",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Tornado Sweep",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hungry Tiger",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Leaping Lion",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Noctis",
+    "Descripcion": "Noctis Lucis Caelum (ノクティス・ルシス・チェラム Nokutisu Rushisu Cheramu?) is the main character of Final Fantasy XV and serves as the representative of the Final Fantasy series as the third DLC character in Tekken 7 and was first revealed during the 2017 Tekken World Tour finals.",
+    "Foto": "imagenes/TK7/Noctis.png",
+    "Foto2": "imagenes/PersonajesTekken7/Noctis.png",
+    "Personality": "Noctis wears a black jacket with skull-motif buttons and sequenced details on the pockets. He keeps it unzipped, and the tag on the zipper also has a small skull. Underneath, he wears a steel gray shirt with skull prints. Noctis wears black cropped trousers and black buckled boots with red soles. He also wears a black motorcycle glovelet on his left hand.",
+    "Height": "176 cm ",
+    "Weight": "Unkown",
+    "Likes": "His father,Lunafreya Nox Fleuret",
+    "Dislikes": "Vegetables,Bugs",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "King",
+    "Combos": "https://www.youtube.com/watch?v=MWqYW6IUrMg",
+    "Combos2": "https://www.youtube.com/watch?v=Oj2d24LNOW4",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Left Right Slice",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Heavy Slash",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Blitz Rush (3)",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Assault to Warp-Strike",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Stinger Knee",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Stinger Knee to Warp-Strike",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Piercing Spear",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hydra Slice",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Maelstrom",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Eliza",
+    "Descripcion": "Eliza (エリザ Eriza?) is an exclusive playable character for Tekken Revolution and a DLC character in Tekken 7. She was chosen by fans at San Diego Comic Con after being in the top 3 of the Tekken Revolution Character Poll on the official Tekken Facebook page. ",
+    "Foto": "imagenes/TK7/Eliza_Render.png",
+    "Foto2": "imagenes/PersonajesTekken7/Eliza_Render.png",
+    "Personality": "Unknown",
+    "Height": "176 cm ",
+    "Weight": "49 kg",
+    "Likes": "Blood,Sleep",
+    "Dislikes": "Archers of Sirius",
+    "Species": "Vampire",
+    "Gender": "Male",
+    "Occupation": "TBA",
+    "Combos": "https://www.youtube.com/watch?v=swjZcmLEMbA",
+    "Combos2": "https://www.youtube.com/watch?v=slVKy4MzRtI",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Wave",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Blade",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Cannon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Wave Chaos",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Tempest Chaos",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Needle",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Moonrise",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Left Right Arc Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Miguel",
+    "Descripcion": "Miguel Caballero Rojo (ミゲル・カバジェロ・ロホ Migeru Kabajero Roho?) is a character in the Tekken series first introduced in Tekken 6. He is a short-tempered and violent Spaniard who vowed revenge against Jin Kazama for indirectly murdering his sister, and has proven to be one of the more popular newcomers to the Tekken series.",
+    "Foto": "imagenes/TK7/Miguel_Caballero.png",
+    "Foto2": "imagenes/PersonajesTekken7/Miguel_Caballero.png",
+    "Personality": "Miguel is a rather blood-thirsty and rebellious character, whose reckless nature can be seen as both his weakness and his strength.",
+    "Height": "203 cm ",
+    "Weight": "113 kg",
+    "Likes": "His sister,Fighting,Animals",
+    "Dislikes": "Jin Kazama,Mishima Zaibatsu",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Waiter and Street Fighter",
+    "Combos": "https://www.youtube.com/watch?v=29fp_cJYyFQ",
+    "Combos2": "https://www.youtube.com/watch?v=HhxL6tsNSDI",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Up-stroke",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Martillo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Martillo doble",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Wave Chaos",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Emblema",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Ciclón",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Rude Charge",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2+3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Bajeza con cabeza",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Armor King",
+    "Descripcion": "King (キング Kingu?) is a title that two characters have taken in the Tekken series. Even though there have been two characters who have taken the name, each is simply called King in their respective games, though a numerical value is sometimes given to them to separate them as different characters.",
+    "Foto": "imagenes/TK7/armor_king.png",
+    "Foto2": "imagenes/PersonajesTekken7/armor_king.png",
+    "Personality": "Until the age of 24, this person worked hard with King until, one day, news broke of the first King's death at the hands of Ogre. Seeing that the orphanage would crumble into ruin (the money gained from King's wrestling matches was the only funding received), this man donned the mask of King and imitated his style. Unfortunately, he had only seen King's wrestling moves as a child, and he lost every competition he entered. One day, however, another man with a mask visited the new King, introducing himself as an old friend.",
+    "Height": "200 cm",
+    "Weight": "90 Kg",
+    "Likes": "His predecessor and former caretaker King I,Having victory beers with Armor King I (TK3)",
+    "Dislikes": "Tears of Children",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Waiter and Street Fighter",
+    "Combos": "https://www.youtube.com/watch?v=rxSo1dN70S0",
+    "Combos2": "https://www.youtube.com/watch?v=8uT0hPMWe7U",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Palm Strike to Head Jammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Palm Upper to Suplex",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Spinner",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Reverse Jaguar Step",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Elbow Impact",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Stagger Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Stagger Kicks",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lei",
+    "Descripcion": " Lei is a skilled police officer from Hong Kong, known for his lighthearted personality and laid back attitude. While being one of the more comical characters in the series, he is also known for his extraordinary skill as a martial artist and for his dedication to his job and whatever operations are at hand.",
+    "Foto": "imagenes/TK7/Lei_Wulong.png",
+    "Foto2": "imagenes/PersonajesTekken7/Lei_Wulong.png",
+    "Personality": "A man who lives for his job. Dedicated to the point of obsession, Lei is a law-abiding and gifted cop. He is fair-minded and affable to those around him (unless they break the law). In his Tekken 5 interludes, he is shown treating his friends (such as Wang Jinrei and Steve Fox) with compassion and respect",
+    "Height": "175 cm",
+    "Weight": "65 Kg",
+    "Likes": "Electronics and Sony products,Noodles",
+    "Dislikes": "Crimes,Law breakers",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Police Detective",
+    "Combos": "https://www.youtube.com/watch?v=oEOwn6MT0zA",
+    "Combos2": "https://www.youtube.com/watch?v=2tca3aUGsfs",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Serpent Strike",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Serpent Strike to Snake",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/right.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Left Right Punch",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Two One Combo to DMW",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/right.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Yue Ya Lian Tui",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Beating Kick Mid Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Snake Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lian Huan Tie Suo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Deceiving Swallow",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Leo",
+    "Descripcion": "Leo Kliesen (レオ・クリーゼン Reo Kurīzen?) commonly known as Leo (レオ Reo?) is a character from the Tekken fighting game series by Namco. Leo was one of several newcomers first introduced in Tekken 6. Leo is from Germany and uses the fighting style of Baji Quan.",
+    "Foto": "imagenes/TK7/Leo_Kliesen.png",
+    "Foto2": "imagenes/PersonajesTekken7/Leo_Kliesen.png",
+
+    "Personality": "Bajiquan is a Chinese martial art, focused on the power and effectiveness of its short-range attacks. Famous for its strong elbow strikes that in most cases, does not allow your opponent to continue.",
+    "Height": "175 cm",
+    "Weight": "65 Kg",
+    "Likes": "Leo's Father,Leo's Mother",
+    "Dislikes": "Kazuya Mishima,G Corporations",
+    "Species": "Human",
+    "Gender": "Ambiguous",
+    "Occupation": "Speleologist",
+    "Combos": "https://www.youtube.com/watch?v=cXok7WbTyCA",
+    "Combos2": "https://www.youtube.com/watch?v=Xj89MJnpKME",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Elkeid",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Sorai Zanba",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Flash Punch Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Twin Fang Double Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Agony Spear",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Oni Front Kickt",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Nejiri Uraken",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Rampaging Demon",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Eddy",
+    "Descripcion": "Eddy Gordo (エディ・ゴルド Edi Gorudo?) is a playable capoeira fighter within the Tekken series of fighting games. He made his debut in Tekken 3 and returned for all subsequent installments. He learned Capoeira from his master.",
+    "Foto": "imagenes/TK7/eddy_Gordo.png",
+    "Foto2": "imagenes/PersonajesTekken7/eddy_Gordo.png",
+    "Personality": "Eddy seems to be very loyal, going out of his way to repay the kindness offered to him by the capoeria master.",
+    "Height": "188 cm",
+    "Weight": "75 Kg",
+    "Likes": "Power,Christie Monteiro",
+    "Dislikes": "Weakness",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Heir/owner of a multi-million dollar corporation",
+    "Combos": "https://www.youtube.com/watch?v=j-RErXEcu3Q",
+    "Combos2": "https://www.youtube.com/watch?v=VZWSG2tJpGc",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo Jilar",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Gancho Chibata",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Handslaps",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Handstand Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Au de Sol",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Samba Slippery Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Au de Bico",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Godeme to Calcanheira",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Asuka",
+    "Descripcion": "Asuka Kazama (風間 飛鳥 Kazama Asuka?) is a character in the Tekken series who was first introduced in Tekken 5 and has returned for every subsequent game in the series. While she was originally purported to be the cousin of Jin Kazama and the niece of Jun Kazama.",
+    "Foto": "imagenes/TK7/Asuma_Kazama.png",
+    "Foto2": "imagenes/PersonajesTekken7/Asuma_Kazama.png",
+
+    "Personality": "Asuka is surprisingly brash and arrogant. Although her profile states that she breaks up fights regularly, she seems to have no qualms about fighting and seemingly revels in it despite being beautiful. In her story mode, after defeating her target, Feng Wei, she decides to remain in the tournament in order to have fun.",
+    "Height": "160  cm",
+    "Weight": "75 Kg",
+    "Likes": "Confrontation,Her father",
+    "Dislikes": "Cocky people,Losing",
+    "Species": "Human",
+    "Gender": "Female",
+    "Occupation": "Student",
+    "Combos": "https://www.youtube.com/watch?v=RLKydDRSytY",
+    "Combos2": "https://www.youtube.com/watch?v=S-7nqvqpxVs",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab Uppercut to Front Kick",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab Leg Cutter",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Basho's Dance",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Hyakujitsuko",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Exorcisor",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Heaven's Hammer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Double Lift Kicks",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lars",
+    "Descripcion": "Lars Alexandersson (ラース・アレクサンダーソン Rāsu Arekusandāson?) is one of the main characters of the Tekken series since his first introduction in Tekken 6: Bloodline Rebellion and is the main protagonist of that game and later one of the main protagonists in Tekken 7.",
+    "Foto": "imagenes/TK7/Lars.png",
+    "Foto2": "imagenes/PersonajesTekken7/Lars.png",
+
+    "Personality": "Lars has a heroic personality, as he led the coup d'etat against the Mishima Zaibatsu. He also has the fighting spirit and determination of his half-nephew, Jin Kazama, and the charisma of his adopted brother Lee Chaolan, but is the complete opposite to Heihachi and Kazuya, being much like Jun Kazama in terms of personality. He strongly resembles Jin Kazama at times",
+    "Height": "181  cm",
+    "Weight": "75 Kg",
+    "Likes": "Alisa Bosconovitch,Tougou",
+    "Dislikes": "Nabemono,Mishima Zaibatsu",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Former Tekken Force Officer",
+    "Combos": "https://www.youtube.com/watch?v=j480fk3PjR8",
+    "Combos2": "https://www.youtube.com/watch?v=qSRBkTx2xCE",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Delta Slicer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lightning Assault High",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Spinning Cutter",
+        "Animacion": ["imagenes/ImagenesataquesTekken/4.svg"]
+      },
+      {
+        "nombreAtaque": "Flash Bang to Dynamic Entry",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Charge Factor to Silent Entry",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Mask",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Tesla Gravity",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Earth Battery",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/upright.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gigas",
+    "Descripcion": "Gigas (ギガース Gigāsu?) is a character in the Tekken series who is introduced in Tekken 7 as one of the new playable characters.He was first seen as one of the four fighters (the other three being Jin Kazama, Devil Jin and Josie Rizal) whose in-game character models were leaked online in March 2015.",
+    "Foto": "imagenes/TK7/gigas.png",
+    "Foto2": "imagenes/PersonajesTekken7/gigas.png",
+    "Personality": "Gigas' personality lingers more to an animalistic side than human, being only able to make sub-human grunts, shouts and gurgles. However, in both his and Katarina's endings, Gigas finally shows a little of his humanity left in him whenever he sees Katarina's presence.",
+    "Height": "Unkown",
+    "Weight": "Unkown",
+    "Likes": "His adoptive daughter",
+    "Dislikes": "Heihachi Mishima",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Bioweapon",
+    "Combos": "https://www.youtube.com/watch?v=5ByhgasuZnU",
+    "Combos2": "https://www.youtube.com/watch?v=ChWqNLE65EI",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Double Gimlet",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Right Wrench Kick",
+        "Animacion": ["imagenes/ImagenesataquesTekken/4.svg"]
+      },
+      {
+        "nombreAtaque": "Left Wrench Kick",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3.svg"]
+      },
+      {
+        "nombreAtaque": "Mad Rampage",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Burring Reamer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Quick Head-Butt",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Goliath",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Repelling Blast",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yoshimitsu",
+    "Descripcion": "Yoshimitsu (吉光?) is a fictional character who was first introduced in the original Tekken game and has returned for all subsequent sequels in the Tekken series (primarily in main series installments due to his absence in some spin-off installments, Tekken Revolution).",
+    "Foto": "imagenes/TK7/Yoshimitsu.png",
+    "Foto2": "imagenes/PersonajesTekken7/Yoshimitsu.png",
+
+    "Personality": "Yoshimitsu's benevolence hasn't changed since the first Tekken Tournament. He enjoys helping people who are in need, as seen with Law and his family (Yoshimitsu's ending) in Tekken. He is also became the helper of Dr. Bosconovitch prior to Bryan's betrayal towards the Manji clan in Tekken ",
+    "Height": "178 cm",
+    "Weight": "63 Kg",
+    "Likes": "Video Game ,Arcades (Especially those in Shinjuku, Japan",
+    "Dislikes": "Villains,Poor Losers (Videogames)",
+    "Species": "Human",
+    "Gender": "Cybernetic ",
+    "Occupation": "Leader of the Manji Clan",
+    "Combos": "https://www.youtube.com/watch?v=iIPI3hQEAm0",
+    "Combos2": "https://www.youtube.com/watch?v=WCy3z6w2EPw",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Art",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Flash Punch",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Flash Attack",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Triple Roundhouse Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Kincho",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Soul Stealer",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+4.svg"]
+      },
+      {
+        "nombreAtaque": "Quick Head-Butt",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Tsuka Splitter",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Quick Slash",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  }
+]

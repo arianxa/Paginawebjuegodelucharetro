@@ -1,0 +1,2876 @@
+[
+  {
+    "Nombre": "Ivy",
+    "Descripcion": "Isabella Ivy Valentine (Japanese: イザベラ・バレンタイン - アイヴィー, Izabera Barentain - Aivī) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/ivy.png",
+    "FotoTier":"imagenes/SoulTier/ivy.png",
+
+    "RealName": "Isabella Valentine",
+    "Gender": "Female",
+    "Height": "179 cm",
+    "Weight": "58 Kg",
+    "Weaponname": "Ivy Blade",
+    "Personality": "After losing her adopted father to his obsession, Ivy swore to destroy Soul Edge and avenge her father. When she became a member of Schwarzstrom, she was the only member of the group that disliked taking lives to aid Nightmare in his goal of resurrecting his father.",
+    "Combos": "https://www.youtube.com/watch?v=RF_DoIKAuQw",
+    "Combos2": "https://www.youtube.com/watch?v=WCXw7cyWaig",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/X.png",
+
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 (HOLD)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 (HOLD)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/X.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Charge Moves 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Devastation Beam",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Nightmare",
+    "Descripcion": "Nightmare (ナイトメア, Naitomea) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Nightmare.png",
+    "FotoTier":"imagenes/SoulTier/nightmare.png",
+
+    "RealName": "Azure Nightmare",
+    "Gender": "Male",
+    "Height": "172 cm",
+    "Weight": "157 Kg",
+    "Weaponname": "Soul Edge (Male)",
+    "Personality": "Little is presently known about Nightmare's personality beyond his insatiable bloodlust and devotion to Soul Edge, to the extent that he is an enigma even to his own minions. It is clear, however, that Siegfried - the host - retains a certain level of awareness, given his response to Sophitia wanting to save [him]",
+    "Combos": "https://www.youtube.com/watch?v=lCgZ7KyTExg",
+    "Combos2": "https://www.youtube.com/watch?v=IkHvLFHOigc",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Geralt",
+    "Descripcion": "Geralt of Rivia (リヴィアのゲラルト Rivia no Geraruto?) is the primary protagonist of The Witcher series of novels and video games. He appeared in Soulcalibur VI as a guest character.",
+    "Foto": "imagenes/SOULTODO/Geralt.png",
+    "FotoTier":"imagenes/SoulTier/geralt.png",
+
+    "RealName": "Geralt of Rivia",
+    "Gender": "Male",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Weaponname": "Steel sword & silver sword",
+    "Personality": "Geralt is a calm and serious yet dutiful swordsman who also happens to be a womanizer.",
+    "Combos": "https://www.youtube.com/watch?v=dZ-jFa3u5bU",
+    "Combos2": "https://www.youtube.com/watch?v=NqTcB84xVC8",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "2B",
+    "Descripcion": "YoRHa No. 2 Type B (ヨルハ二号B型, YoRuHa Nigō B-gata) or 2B is the main protagonist of the 2017 video game Nier: Automata. She appeared in Soulcalibur VI as a guest via DLC, released on December 18, 2018.",
+    "Foto": "imagenes/SOULTODO/2B.png",
+    "FotoTier":"imagenes/SoulTier/2b.png",
+
+    "RealName": "YoRHa No.2 Type B",
+    "Gender": "Female Model",
+    "Height": "168 cm",
+    "Weight": "48.8 Kg",
+    "Weaponname": "Virtuous Treaty and Virtuous Contract",
+    "Personality": "2B is a blade of quiet determination. As a combat android, she does not encourage idle chatter on frivolous subjects and is generally reticent towards others. She also has high respect for the chain of command and rarely questions her orders, unlike her partner.",
+    "Combos": "https://www.youtube.com/watch?v=8NB0drCWwHg",
+    "Combos2": "https://www.youtube.com/watch?v=sTFtnLK8Df4",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Groh",
+    "Descripcion": "Grøh (グロー, Gurō) is a brand new character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new Soul series as a whole. He is the first Nordic character depicted by the series.",
+    "Foto": "imagenes/SOULTODO/groh.png",
+    "FotoTier":"imagenes/SoulTier/groh.png",
+
+    "RealName": "Kingdom of Denmark–Norway",
+    "Gender": "Male",
+    "Height": "181 cm",
+    "Weight": "82 Kg",
+    "Weaponname": "Aerondight Replica",
+    "Personality": "Grøh is usually a taciturn young man who is all about business, carrying out orders and missions with unwavering conviction. Despite his standoff-ish nature, he is not without emotion or compassion for others, particularly his allies Natalie and Dion and later the protagonist of Libra of Soul and served as a hero and inspiration to Aval as a whole.",
+    "Combos": "https://www.youtube.com/watch?v=Sp6CDDpO76I",
+    "Combos2": "https://www.youtube.com/watch?v=oUP_LVWVHoU",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Seong Mi-na",
+    "Descripcion": "Seong Mi-na (ソン・ミナ, Son Mina, Hanja: 成美那, Hangul: 성미나) is a character in the Soul series of fighting games. She appeared in the Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Seong_Mi-na.png",
+    "FotoTier":"imagenes/SoulTier/seong-mina.png",
+
+
+    "RealName": "Seong Mi-na",
+    "Gender": "Female",
+    "Height": "162 cm",
+    "Weight": "48 Kg",
+    "Weaponname": "Scarlet Thunder",
+    "Personality": "Like her first and second appearances, Seong Mi-na is sassy, free-spirited, and has a bit of childish personality. She is a character who proves herself that she can be like Hwang who can protect her homeland despite the gender discrimination.",
+    "Combos": "https://www.youtube.com/watch?v=NhLgnKu2qN4",
+    "Combos2": "https://www.youtube.com/watch?v=h5XlZtUj1aE",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Azwel",
+    "Descripcion": "Azwel (アズウェル, Azuweru) is a brand new character in the Soul series of fighting games. He first appeared in Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Azwel.png",
+    "FotoTier":"imagenes/SoulTier/azwel.png",
+
+    "RealName": "Azwel",
+    "Gender": "Male",
+    "Height": "185 cm",
+    "Weight": "65 Kg",
+    "Weaponname": "Palindrome",
+    "Personality": "Azwel is a cunning and charismatic genius who possesses mannerisms of a playwright with a messiah complex who advocates his love for humanity. Underneath it all, however, Azwel comes off as irredeemably cruel, self-aggrandizing, spiteful, and sociopathic sadist.",
+    "Combos": "https://www.youtube.com/watch?v=yaXsEw_0uaw",
+    "Combos2": "https://www.youtube.com/watch?v=dYhyWH6z-No",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cassandra Alexandra",
+    "Descripcion": "Cassandra Alexandra (カサンドラ・アレクサンドル, Kasandora Arekusandoru) is a character in the Soul series of fighting games. She is the final downloadable character of the first season pass in Soulcalibur VI and was made available on August 5th, 2019",
+    "Foto": "imagenes/SOULTODO/C_Alexandra.png",
+    "FotoTier":"imagenes/SoulTier/cassandra.png",
+
+    "RealName": "Cassandra Alexandra",
+    "Gender": "Female",
+    "Height": "165  cm",
+    "Weight": "Claims to have lost weight recently",
+    "Weaponname": "Owl shield and Omega Sword (Original)",
+    "Personality": "In contrast to her sister Sophitia, who is kind and humble, Cassandra is feisty, hot-blooded and boisterous. When it comes to helping others correcting their mistakes, she often bangs them in the head to get her point across. ",
+    "Combos": "https://www.youtube.com/watch?v=QQa2OrY_hiw",
+    "Combos2": "https://www.youtube.com/watch?v=6dY9NThJ0VE",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sophitia Alexandra",
+    "Descripcion": "Sophitia Alexandra (ソフィーティア・アレクサンドル, Sofītia Arekusandoru; Greek: Σοφιτία Αλεξάνδρα) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/S_Alexandra.png",
+    "FotoTier":"imagenes/SoulTier/sophitia.png",
+
+    "RealName": "Sophitia Alexandra",
+    "Gender": "Female",
+    "Height": "168   cm",
+    "Weight": "Will not reveal",
+    "Weaponname": " Sword & Elk Shield",
+    "Personality": "As in the original timeline, Sophitia is a kind, altruistic, and steadfast young woman with strong faith to the gods. She does not hesitate or argue about being given another task by Hephaestus. She is also shown to be wise and observant to the plights of others, such as Kilik, Yoshimitsu and Siegfried and offers them words of guidance.",
+    "Combos": "https://www.youtube.com/watch?v=W8xwC36Zss0",
+    "Combos2": "https://www.youtube.com/watch?v=wXNNXRNK0RA",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yoshimitsu",
+    "Descripcion": "Yoshimitsu (吉光) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Yoshimitsu.png",
+    "FotoTier":"imagenes/SoulTier/yoshimitsu.png",
+
+    "RealName": "Yoshimitsu",
+    "Gender": "Male",
+    "Height": "170 cm",
+    "Weight": "57 Kg",
+    "Weaponname": "Manji Sword & Fu-Ma Blade",
+    "Personality": "Yoshimitsu originally starts out as a vengeful warrior who was single-minded in his pursuit of vengeance and to seek out Soul Edge to enact retribution, often describing himself as a demon from hell. In spite of his proclamations, he is compelled to do good and cannot stand to let injustice fester.",
+    "Combos": "https://www.youtube.com/watch?v=3hxch00b1MA",
+    "Combos2": "https://www.youtube.com/watch?v=yGJclz_enYQ",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Siegfried Schtauffen",
+    "Descripcion": "Siegfried Schtauffen (ジークフリート・シュタウフェン, Jīkufurīto Shutaufen)  is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/S_Schtauffen.png",
+    "FotoTier":"imagenes/SoulTier/siegfried.png",
+
+
+    "RealName": "Siegfried Schtauffen",
+    "Gender": "Male",
+    "Height": "172 cm",
+    "Weight": "70 Kg",
+    "Weaponname": "Requiem",
+    "Personality": "After murdering his father by accident, Siegfried lost his sanity - convincing himself that someone else had done it - and became obsessed with revenge, seeking out Soul Edge for the power it would give him. Inferno took advantage of this, impersonating his father's ghost to manipulate him into becoming the malfested warrior Nightmare.",
+    "Combos": "https://www.youtube.com/watch?v=5WIGS2ZHoCA",
+    "Combos2": "https://www.youtube.com/watch?v=neA9evmmWuA",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Haohmaru",
+    "Descripcion": "Haohmaru (覇王丸, Haōmaru; also can be written as Haoumaru) is the titular protagonist of SNK's Samurai Shodown series and one of the series's most known characters, the other being Nakoruru.",
+    "Foto": "imagenes/SOULTODO/Haohmaru.png",
+    "FotoTier":"imagenes/SoulTier/haohmaru.png",
+
+    "RealName": "Siegfried Schtauffen",
+    "Gender": "Male",
+    "Height": "173  cm",
+    "Weight": "69 Kg",
+    "Weaponname": "Katana",
+    "Personality": "Confident in his abilities, Haohmaru enjoys the thrill of fighting against strong opponents. Seeking enlightenment with each encounter, he constantly journeys in order to improve himself. As he gets older, he feels less inclined to fight and will try to avoid it if possible.",
+    "Combos": "https://www.youtube.com/watch?v=bMpmAgd6vns",
+    "Combos2": "https://www.youtube.com/watch?v=mmAQokhyCUc",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hildegard von Krone",
+    "Descripcion": "Hildegard von Krone (ヒルデガルド・フォン・クローネ Hirudegarudo fon Kurōne), or Hilde (ヒルダ Hiruda) for short, is a character who appears in Soulcalibur VI on November 26th 2019, as DLC character 7 in Season 2.",
+    "Foto": "imagenes/SOULTODO/H_von_krone.png",
+    "FotoTier":"imagenes/SoulTier/hilde.png",
+
+    "RealName": "Hildegard von Krone",
+    "Gender": "Female",
+    "Height": "158 cm",
+    "Weight": "50 Kg",
+    "Weaponname": "Glänzende Nova & Frischer Himmel",
+    "Personality": "Like in her previous installments, Crown Princess-Regent Hilde is a brave and emotionally strong princess. She is also quite honorable as can be seen in her quotes as well as expressing her willingness and passion to help the citizens of Wolfkrone against threats, like the malfested.",
+    "Combos": "https://www.youtube.com/watch?v=2iY8_TiJLVg",
+    "Combos2": "https://www.youtube.com/watch?v=kTs6_VIAZk0",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Amy",
+    "Descripcion": "Amy Sorel (エイミ・ソレル, Eimi Soreru) is a character in the Soul series of fighting games. She appears in the game Soulcalibur VI as the third downloadable character of the Season 1 Pass, and was released on March 26th, 2019",
+    "Foto": "imagenes/SOULTODO/Amy.png",
+    "FotoTier":"imagenes/SoulTier/amy.png",
+
+    "RealName": "Amy Sorel",
+    "Gender": "Female",
+    "Height": "140 cm",
+    "Weight": "36 Kg",
+    "Weaponname": "Albion",
+    "Personality": "Amy retains her cold demeanor from the original timeline, caring only for Raphael. Her voice indicates that she rarely shows emotions when not near Raphael.",
+    "Combos": "https://www.youtube.com/watch?v=A71-SUJmhLM",
+    "Combos2": "https://www.youtube.com/watch?v=1191xBhY9WE",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Voldo",
+    "Descripcion": "Voldo (ヴォルド, Vorudo), is a character in the Soul series. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Voldo.png",
+    "FotoTier":"imagenes/SoulTier/voldo.png",
+
+    "RealName": "Voldo",
+    "Gender": "Male",
+    "Height": "183cm",
+    "Weight": "79 Kg",
+    "Weaponname": "Manas & Ayus",
+    "Personality": "Voldo can be described as an obedient loyalist to his master Vercci.",
+    "Combos": "https://www.youtube.com/watch?v=_6QcV4ksOGs",
+    "Combos2": "https://www.youtube.com/watch?v=t_6H8vclQpE",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kilik",
+    "Descripcion": "Kilik (キリク, Kiriku) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Kilik.png",
+    "FotoTier":"imagenes/SoulTier/kilik.png",
+
+    "RealName": "Kilik",
+    "Gender": "Male",
+    "Height": "169 cm",
+    "Weight": "63 Kg",
+    "Weaponname": "Kali-Yuga",
+    "Personality": "Kilik is a simple-minded man, mostly focused on his training and sometimes oblivious whenever his companions are talking to him. But he is constantly haunted by the memories of the Ling-Sheng-Su massacre, which included Xianglian's death at his own hands.",
+    "Combos": "https://www.youtube.com/watch?v=v7Hqt24YYO0",
+    "Combos2": "https://www.youtube.com/watch?v=cvCpiq3Tm5U",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zasalamel",
+    "Descripcion": "Zasalamel (ザサラメール, Zasaramēru) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Zasalamel.png",
+    "FotoTier":"imagenes/SoulTier/zasalamel.png",
+
+    "RealName": "Zasalamel",
+    "Gender": "Male",
+    "Height": "183 cm",
+    "Weight": "81 Kg",
+    "Weaponname": "Kafziel",
+    "Personality": "To everyone he meets, Zasalamel displays an aloof yet cunning personality, mainly showing that he is neutral in the conflict and gives information only to those he considers worthy. But in reality, he has an ambition to be a leader for mankind, thanks to the visions he received from his original future self",
+    "Combos": "https://www.youtube.com/watch?v=tP6adteyaxU",
+    "Combos2": "https://www.youtube.com/watch?v=YyTjCT4W1OQ",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Raphael",
+    "Descripcion": "Raphael Sorel (ラファエル・ソレル, Rafaeru Soreru) is a character in the Soul series. He appears in the game Soulcalibur VI, which marked his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Raphael.png",
+    "FotoTier":"imagenes/SoulTier/raphael.png",
+
+    "RealName": "Raphael Sorel ",
+    "Gender": "Male",
+    "Height": "178 cm",
+    "Weight": "72 Kg",
+    "Weaponname": "Flambert",
+    "Personality": "Having been raised in the upper classes of French nobility, Raphael is aware of the deadly game needed to survive. Cunning, intelligent, and ruthless, Raphael looks down upon most others as beneath him, simply pawns for him to use and then discard in order to further his goals.",
+    "Combos": "https://www.youtube.com/watch?v=2f-8jQrmBWE",
+    "Combos2": "https://www.youtube.com/watch?v=_l-OIDuorQk",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cervantes",
+    "Descripcion": "Cervantes de León (セルバンテス・デ・レオン, Serubantesu de Reon) is a character in the Soul series. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Cervantes.png",
+    "FotoTier":"imagenes/SoulTier/cervantes.png",
+
+    "RealName": "Cervantes de León",
+    "Gender": "Male",
+    "Height": "182 cm",
+    "Weight": "89 Kg",
+    "Weaponname": "Acheron & Nirvana",
+    "Personality": "After his resurrection, Cervantes lacked any memories of his past - though he started regaining them at the same time when he begin attacking his own former crew member, which awakened his sadistic bloodlust and revenge.",
+    "Combos": "https://www.youtube.com/watch?v=0E8t055-e7Q",
+    "Combos2": "https://www.youtube.com/watch?v=ORvIhMUUScw",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tira",
+    "Descripcion": "Tira (ティラ, Tira) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI as the first downloadable character of the Season 1 Pass. This marks her debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Tira.png",
+    "FotoTier":"imagenes/SoulTier/tira.png",
+
+    "RealName": "Tira",
+    "Gender": "Female",
+    "Height": "159 cm",
+    "Weight": "48 Kg",
+    "Weaponname": "Eiserne Drossel",
+    "Personality": "Like in the original timeline, Tira uniquely suffers from disassociative identity disorder (multiple personalities) which manifests in the forms of Jolly, seemingly her original persona, and Gloomy, a persona that emerged when she killed her foster parents.",
+    "Combos": "https://www.youtube.com/watch?v=j7eR45K9SjM",
+    "Combos2": "https://www.youtube.com/watch?v=PSdpg-HHKmM",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Maxi",
+    "Descripcion": "Maxi (マキシ, also written as 真喜志), is a character in the Soul series. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Maxi.png",
+    "FotoTier":"imagenes/SoulTier/maxi.png",
+
+    "RealName": "Tira",
+    "Gender": "Female",
+    "Height": "174 cm",
+    "Weight": "76 Kg",
+    "Weaponname": "Fatibal",
+    "Personality": "Maxi can be described as being adventurous and eager for a fight. In his story mode, he is shown to be easily gullible to attractive women, but this turned out to be a farce as he was using Lyla's connections to have one of his crew mates to forge a nunchaku out of the best material. ",
+    "Combos": "https://www.youtube.com/watch?v=iI1LiZ-vG8k",
+    "Combos2": "https://www.youtube.com/watch?v=a6pEZEKug5c",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Chai Xianghua",
+    "Descripcion": "Chai Xianghua (チャイ・シャンファ, Chai Shanfa, Chinese: 柴香華, Pinyin: Chái Xiānghuà) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/C_Xianghua.png",
+    "FotoTier":"imagenes/SoulTier/xianghua.png",
+
+    "RealName": "Chai Xianghua",
+    "Gender": "Female",
+    "Height": "152 cm",
+    "Weight": "42 Kg",
+    "Weaponname": "Krita-Yuga",
+    "Personality": "Xianghua is very much feminine, cute and sounds a bit childish, however she never gives up on her friends, and does not give up on her promise to her mother to cut her own path using the Krita-Yuga. ",
+    "Combos": "https://www.youtube.com/watch?v=vPd9V1CXZKk",
+    "Combos2": "https://www.youtube.com/watch?v=uKeyy6S2b2o",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Heishiro Mitsurugi",
+    "Descripcion": "Heishiro Mitsurugi (御剣 平四郎, Mitsurugi Heishirō) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/h_mitsurugi.png",
+    "FotoTier":"imagenes/SoulTier/mitsurugi.png",
+
+    "RealName": "Heishiro Mitsurugi",
+    "Gender": "Male",
+    "Height": "173 cm",
+    "Weight": "71 Kg",
+    "Weaponname": "Shishi-Oh",
+    "Personality": "Mitsurugi enjoys fighting above all else, searching for worthy opponents far and wide to sharpen his skills. To the point he would go as far to search for the all-powerful weapon Soul Edge. Despite his impeccable skills with the sword, Mitsurugi's greatest weakness is not just his pride, but also his lack of common sense and knowledge",
+    "Combos": "https://www.youtube.com/watch?v=p2yeN8qycaw",
+    "Combos2": "https://www.youtube.com/watch?v=KohFSj0u3_k",
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Taki",
+    "Descripcion": "Taki (タキ, also written as 多喜) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Taki.png",
+    "FotoTier":"imagenes/SoulTier/taki.png",
+
+    "RealName": "Taki",
+    "Gender": "Female",
+    "Height": "170 cm",
+    "Weight": "53 Kg",
+    "Weaponname": "Rekki-Maru & Mekki-Maru",
+    "Personality": "Like her original counterpart, Taki seeks out to destroy Soul Edge, the very weapon whose shard is infused on one of her blades, Mekki-Maru, and by proxy that drove her master Toki to madness. She will also stop at nothing in eliminating those who are connected to the cursed sword, good or evil otherwise.",
+    "Combos": "https://www.youtube.com/watch?v=rzwaVqaBMoA",
+    "Combos2": "https://www.youtube.com/watch?v=8N4aaEAGKmE",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/up.png",
+
+          "imagenes/ImagenesAtaqueUN/up.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Talim",
+    "Descripcion": "Talim (タリム, Tarimu) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Talim.png",
+    "FotoTier":"imagenes/SoulTier/talim.png",
+
+    "RealName": "Talim",
+    "Gender": "Female",
+    "Height": "144 cm",
+    "Weight": "39 Kg",
+    "Weaponname": "Syi Salika & Loka Luha",
+    "Personality": "As to the previous installments, Talim is strikingly meek, innocent, kind, moderate, and nice in contrast to the rest of the Soul Series cast, often attempting to dissuade opponents from fighting, and constantly showing mercy to her defeated enemies",
+    "Combos": "https://www.youtube.com/watch?v=e9HMItouSc0",
+    "Combos2": "https://www.youtube.com/watch?v=F7x2mQCDRdQ",
+
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Astaroth",
+    "Descripcion": "Astaroth (アスタロス, Asutarosu), also known as Azr Ss Trzaous is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
+    "Foto": "imagenes/SOULTODO/Astaroth.png",
+    "FotoTier":"imagenes/SoulTier/astaroth.png",
+
+    "RealName": "Astaroth",
+    "Gender": "Male",
+    "Height": "220 cm",
+    "Weight": "183 Kg",
+    "Weaponname": "Kulutues",
+    "Personality": "Like his original counterpart, Astaroth is a psychotic and bloodthirsty warrior who relishes at the sight and sound of death, using any excuse he can to maim anyone in his way who aggravates him, which is most often.",
+    "Combos": "https://www.youtube.com/watch?v=r8HTYPGBxck",
+    "Combos2": "https://www.youtube.com/watch?v=3ya9ZaakSRw",
+
+    "Ataques": [
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
+    ]
+  }
+]

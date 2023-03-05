@@ -1,0 +1,1609 @@
+[
+  {
+    "Nombre": "Eliza",
+    "Descripcion": " Eliza (En japonés: イライザ) es la diva de la celebridad del club premiere de New Meridian, Bastet’s Den. Ella es la jefa de Albus y Horace, y ha sido huésped del esquelético Parásito Sekhmet en incontables años.",
+    "Animename": "Crimson Scourge",
+    "Gender": "Female",
+    "Size": "1,80cm",
+    "Weight": "72Kg",
+    "Likes": " Beer, Kushari, Dolma, Old Fashioned, Board games (especially Senet), Bathing, Dressing, Cats, Sunny weather, Dancing, Singing, Being in the spotlight, Blood, Conquest, Samson.",
+    "NotLike": " Human Arrogance, Prejudice Against Parasites, Commoners, Missed Opportunities, Philanthropy, X-rays, Trinitarianism, Small Living, Historical Inaccuracies, Unhealthy Blood, Losing Your Nose, Samson.",
+    "History": "After a performance at the nightclub, Bastet’s Den, Eliza is summoned to meet Lorenzo and Vitale Medici. They threaten to expose their secret (steal their own charity blood donation campaign) if you don't turn over the Skull Heart to them. Cerebella, wanting to please Vitale, is sent alongside Eliza to watch her do her job, but is constantly at odds with her and her servants, Albus and Horace.",
+    "Foto": "imagenes/PersonajesSkullGirls/Eliza.png",
+    "FotoTier":"imagenes/skullTier/eliza.png",
+
+    "Combos": "https://www.youtube.com/watch?v=PRIq7CY4EQk",
+    "Combos2": "https://www.youtube.com/watch?v=74_ZqBBXi5A",
+    "Ataques": [
+      {
+        "nombreAtaque": "Upper Khat",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Osiris Spiral",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throne of Isis",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dive of Horus",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Scarlet Ladies",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/2.png",
+
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/MP.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Chauffeur Service",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Exile from Aaru",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Lady of Slaughter (Lv.1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Nekhbet Breaker (Lv.1) (In air)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Khepri Sun",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Peacock",
+    "Descripcion": "Peacock (Japanese: ピ ー コ ッ ク) was originally a human girl by the name of Patricia Watson, who was turned into a weapon against the Skullgirl by Dr. Avian. His arsenal consists of his gang that includes the Avery Unit, Andy Anvil, Tommy Ten-Tons, George Bomb, and Lonesome Lenny.",
+    "Animename": "Murder-Go-Round",
+    "Gender": "Female",
+    "Size": "1,37cm",
+    "Weight": "42Kg",
+    "Likes": "Cartoons, The Glorious Annie: Star Symphony TV Show, Movies, Violence, Junk Food, Fast Cars, Explosives, Cigars.",
+    "NotLike": "   Weak, Bureaucracy, Authoritarian Figures, People, The Skull Heart, Nerds, Salad, Chopsticks.",
+    "History": "Once a war orphan slave named Patricia Watson, Peacock's body was horribly maimed by the slave traders who captured her. She was rescued by Dr. Avian's Anti-Skullgirls Laboratory, and rebuilt with an arsenal that actually defies biomechanical weaponry: the Argus System fixed her body, and Avery gave her access to unprecedented weaponry.Unfortunately, there was nothing they could do to fix her mind: Peacock's damaged psyche and enduring cartoon love in the form of her new toys in a terrifying gang of buddies, she said paint the city red ... bloody. As terrifying as she is, she may be the Kingdom's best bet against the Skullgirl.",
+    "Foto": "imagenes/PersonajesSkullGirls/Peacock.png",
+    "FotoTier":"imagenes/skullTier/peacock.png",
+
+    "Combos": "https://www.youtube.com/watch?v=CSg28oJ8cdc",
+    "Combos2": "https://www.youtube.com/watch?v=qBuyUcNSfok",
+    "Ataques": [
+      {
+        "nombreAtaque": "George's Day Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Boxcar George",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "George at the Air Show",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "The Hole Idea",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hi Hi Birdie",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/HK.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+
+          "imagenes/ataquesSkullgitls/8.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BANG!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shadow of Impending Doom",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Pop Goes the Weasel",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Who's On Next?",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Argus Agony",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lonesome Lenny",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Goodfellas",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPLK.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Fukua",
+    "Descripcion": "Fukua (Japanese: フ ク ア) is a physical clone of Filia (with her Shamone Parasite which is also a Samson clone) containing two souls: one, who was the strongest in close combat, and the other who was the strongest in ranged attacks. She was created by Brain Drain. However, she is a joke character and her existence is not canonical.",
+    "Animename": "Heartseeker",
+    "Gender": "Female",
+    "Size": "1,63cm",
+    "Weight": "64,4Kg",
+    "Likes": "Unknown.",
+    "NotLike": "Unknown.",
+    "History": "After a scene that shows Filia asleep (in the same line of the Fukua trailer) the scene transcends the content of her nightmare. Starring Fukua, she battles every playable character (regardless of whether the consumer has purchased the DLC) on the game's roster, excluding herself, in the reverse order of when they were implemented in the game; beginning his quest against Robo-Fortune until he achieves his goal of overcoming Filia, the final boss.",
+    "Foto": "imagenes/PersonajesSkullGirls/Fukua.png",
+    "FotoTier":"imagenes/skullTier/fukua.png",
+
+    "Combos": "https://www.youtube.com/watch?v=a8qy86whVNA",
+    "Combos2": "https://www.youtube.com/watch?v=PFunScMnkyw",
+    "Ataques": [
+      {
+        "nombreAtaque": "Love Dart (Air OK)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Platonic Drillationship",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Forever A Clone",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tender Embrace ",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Inevitable Snuggle",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Breakdown",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+
+          "imagenes/ataquesSkullgitls/MP.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume2",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out2",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Blown Kiss (Lv. 1) (Air OK)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "The Drill Of My Dreams (Lv. 1)  (Air OK)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Over Heels (Lv. 5)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/360.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cerebella",
+    "Descripcion": "Cerebella (In Japanese: セ レ ベ ラ) is a member of Cirque des Cartes and teacher and bearer of the Living Weapon, Vice Versa.",
+    "Animename": "Diamond in the rought",
+    "Gender": "Female",
+    "Size": "1,68cm",
+    "Weight": "58,9Kg",
+    "Likes": "Competing, Boasting, Cats, Pro Wrestling, Sudoku, Flirting, Completing Vitale, Teasing your roommate Feng.",
+    "NotLike": "Let them speak ill of the circus, Let them speak ill of Vitale, Angry people, Cockroaches.",
+    "History": "It is the greatest sensation at Cirque des Cartes and is admired by the entire Canopia Kingdom for its enormous strength and seductive curves. Unfortunately, this acrobatic orphan only wants the attention of one man, the gangster Vitale Medici, who took her in and became the closest thing to a father to her.Cerebella serves the mob as a legbreaker when she is not performing an act in the circus. She is the only person capable of controlling her powerful hat, the living weapon, Vice Versa, so Vitale is stingy with his affections to keep her on his side in the fight.",
+    "Foto": "imagenes/PersonajesSkullGirls/Cerebella.png",
+    "FotoTier":"imagenes/skullTier/cerebella.png",
+
+    "Combos": "https://www.youtube.com/watch?v=0nGdl5x7DsY",
+    "Combos2": "https://www.youtube.com/watch?v=qQkMsn7qQH8",
+    "Ataques": [
+      {
+        "nombreAtaque": "Diamond Drop",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Merry Go-Rilla",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Excellebella",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grab Bag (In air)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lock n’ Load",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tumbling Run",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Run Stop",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/Xx.png",
+          "imagenes/ataquesSkullgitls/LK.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Devil Horns",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cere-Copter",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Medici Muscle",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Go get 'em!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hammer Toss",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Diamond Dynamo [Level 1]",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate Showstopper [Level 1]",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/360.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Diamonds are Forever [Level 3]",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ms. Fortune",
+    "Descripcion": "Ms. Fortune (Japanese: ミ ス ・ フ ォ ー チ ュ ン), also mentioned by her full name, Nadia Fortune, is a wild cat, the undead are controlled by the Life Gem she swallowed, even though she is still capable of feel pain.",
+    "Animename": "Purrfect Treasure",
+    "Gender": "Female",
+    "Size": "1,73cm",
+    "Weight": "57,6Kg",
+    "Likes": "Make friends, Sunlit naps, Volleyball, Bowling, Golf, Parkour, Subjecting others to terrible puns, Yu-Wan's restaurant, Dim Sum, The Fishbone Band, Stealing from the rich, Giving to the poor, Chips.",
+    "NotLike": "The Medici Mafia, Black Dahlia, Sushi, Police, Bullies, Marsupials, Loud Noises, Lemonade.",
+    "History": "A fierce feline, Nadia Fortune is the last surviving member of the Fishbone Gang, a gang of thieves otherwise notorious for the Dagonians. His last mission ended in tragedy: a failed attempt to steal Lorenzo Medici's mysterious Life Stone resulted in a horrifying death. Before meeting her own destiny, Ms. Fortune swallowed the Gem of Life and managed to digest it. The power of the gem permeated his entire body, making him truly immortal ... even after being cut into several pieces.",
+    "Foto": "imagenes/PersonajesSkullGirls/Ms._Fortune.png",
+    "FotoTier":"imagenes/skullTier/ms_fortune.png",
+
+    "Combos": "https://www.youtube.com/watch?v=QLB_039OCw8",
+    "Combos2": "https://www.youtube.com/watch?v=PKtw7V4lbxM",
+    "Ataques": [
+      {
+        "nombreAtaque": "Cat Strike/Cat Spike (Air OK) ",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cat Call",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/MP.png"
+        ]
+      },
+      {
+        "id": 56,
+        "nombreAtaque": "Zoom!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/HP.png",
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "OMNOMNOM",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Feline Allergies!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Nyaaawn",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/HP.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+
+          "imagenes/ataquesSkullgitls/LP.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Name Unknown 2",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Name Unknown 3",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Cat Scratch Fever (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Feral Edge (Lv. 1) in Air",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fifth of Dismember (Lv. 3) (Air OK)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+
+    "Nombre": "Beowulf",
+    "Descripcion": "Beowulf (Japanese: ベ オ ウ ル フ) is a wrestler who retired at the height of his professional wrestling career, defeating the seemingly unstoppable Grendel as well as his frantic mother Gigan when she almost eats the audience after the defeat of her son . Years later, Beowulf had become uneasy, wondering if that was his limit. He announced his plans to fight once more. What he did not mention was that he was not going to be in the ring, as it is not known where his greatest opponent showed up.",
+    "Animename": "Unknown.",
+    "Gender": "Male",
+    "Size": "2,01cm",
+    "Weight": "130,1Kg",
+    "Likes": "Hunting, Working comfortable, Sweaters, Tour buses, Boots, Stairs, Fluorescent tubes, Guaranteed monetary contracts, Beers, The sound of an excited crowd, Merchandise, Chamomile tea.",
+    "NotLike": "Professional writing staff, Refined sugar, Allen keys, Snakes, Disqualifications, Taking vacation time, Tan spray, Inner voices, Telling you what to do, Telling you what to wear, Potatoes.",
+    "History": "Having fallen into a life of excess, Beowulf yearns to reestablish his image as a hero in the village after his rampant career that had hit rock bottom after the end of the Great War. Once regarded as a legend among the Canopy Kingdom for having murdered two members of the Gigan race, he is feared at ringside during the turbulent Great War; the warrior Grendel and his mother, who had won the worship of the nation and countless fans as the man who had defeated the unstoppable. As the threat of war faded however, the patriotic spirit that led to Beowulf's popularity finally crashed; many considering their cameos in other televised media to end their careers on a low note.",
+    "Foto": "imagenes/PersonajesSkullGirls/Beowulf.png",
+    "FotoTier":"imagenes/skullTier/beowulf.png",
+
+    "Combos": "https://www.youtube.com/watch?v=P80XRLxzYsc",
+    "Combos2": "https://www.youtube.com/watch?v=iyTLWzzvwj4",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hurting Hurl",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wulf Blitzer",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wulf Shoot",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Diving Wulfdog",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Da Grendel Killa",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Aroo Ready?",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Hot Tag",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Striker Kick (With The Hurting)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Into the Trash (grappling)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gigantic Arm",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Airwulf",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Three Wulf Moonsault",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wulfamania",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/360.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+
+    "Nombre": "Filia",
+    "Descripcion": " Filia (フ ィ リ ア) is one of the playable characters in Skullgirls. She led a normal school life, until one night she was possessed by a Parasite named Samson and ended up with amnesia as a result.hough this was not mentioned in the game.",
+    "Animename": "Femme Fatale",
+    "Gender": "Female",
+    "Size": "1,63cm",
+    "Weight": "64,4101 Kg",
+    "Likes": "  Eating, Coffee, Smoothies, Reading and learning, The radio, Comics, Romance novels and Puppies.",
+    "NotLike": " The bluffs and addiction to Samson's game, To hurt innocent people, To get their hair tangled, To be lied to, The side effects of Samson's Parasitism .",
+    "History": "Filia was an average student, but one day she woke up without any memories and with a second mouth on top of her head. From that day on, he became the host of a Parasite named Samson, a rebellious demon hair with incredible power.",
+    "Foto": "imagenes/PersonajesSkullGirls/Filia.png",
+    "FotoTier":"imagenes/skullTier/filia.png",
+
+    "Combos": "https://www.youtube.com/watch?v=GHKN63VbwTE",
+    "Combos2": "https://www.youtube.com/watch?v=owjG_RHlX_Y",
+    "Ataques": [
+      {
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive2",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir DriveFenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+
+    "Nombre": "Valentine",
+    "Descripcion": "Valentine (Japanese: ヴ ァ レ ン タ イ ン) is the last survivor of The Last Hope and is now working with Double and Marie, the current Skullgirl. He was responsible for the transformation of Painwheel under the direction of Brain Drain.",
+    "Animename": "Bloody Romantic",
+    "Gender": "Female",
+    "Size": "1,83cm",
+    "Weight": "72,5Kg",
+    "Likes": "Alcohol, The scientific method, Studying things from afar, Snakes, Wolves, Classical music, Punctuality, Detailed planning, Disassembling things, News and non-fiction reading, Mind games, Chess, Acoustic guitar, Meat, Oriental culture , Dark chocolate.",
+    "NotLike": "Unnecessary Formalities, Sentimentality, Weak People, Cooking, Patient Treatment, Brain Drain, Back Pain, Sweets.",
+    "History": "Valentine is the sole survivor of The Last Hope, a group of special agents from Anti-Skullgirl Labs. Before meeting their end at the hands of the Skullgirl, The Last Hope worked for the mysterious Laboratory 0 and performed tasks ranging from reconnaissance and sabotage to advanced investigation. Valentine now dutifully serves the Skullgirl, carrying out her will from the shadows. She supports herself, so much of her true nature and personality are unknown.",
+    "Foto": "imagenes/PersonajesSkullGirls/Valentine.png",
+    "FotoTier":"imagenes/skullTier/valentine.png",
+
+    "Combos": "https://www.youtube.com/watch?v=kOeXnTK3tfY",
+    "Combos2": "https://www.youtube.com/watch?v=UQJx1G8d9Gg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Dead Cross(air OK)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vial Hazard",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Savage Bypass",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mortuary Drop",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chocoglycemia",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/Mp.png",
+          "imagenes/ataquesSkullgitls/hK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Cloak and Sever",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "AED Shockwave ",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Checkmate Incision (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "EKG Flatliner (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Acquisitive Prescription (Lv. 2)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/RDP.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dead on Arrival (Lv. 3)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Forbidden Procedure: Rebirth Ex Machina (Lv. 5)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/HPHK .png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+
+    "Nombre": "Double",
+    "Descripcion": "Double (Japanese: ダ ブ ル) is a monstrous creature that can transform at will and who works under The Trinity, He is responsible for ensuring that the Skull Heart falls into the right hands and manipulating events according to the will of the goddesses. Her current appearance is that of a nun, under the name of Sister Agatha.",
+    "Animename": "Toll and Trouble",
+    "Gender": "Female",
+    "Size": "Sundry.",
+    "Weight": "Sundry.",
+    "Likes": "Nothing.",
+    "NotLike": "Nothing.",
+    "History": "After capturing Filia and Cerebella, Double is sent to Laboratory 8 Anti-Skullgirl in order to destroy her investigations. Against Marie's wishes, she engages and defeats Peacock, claiming that Marie's old friend had become too great a threat to her goals. Without Marie's knowledge, Double captures Peacock, believing that she would be another potential candidate. ",
+    "Foto": "imagenes/PersonajesSkullGirls/Double.png",
+    "FotoTier":"imagenes/skullTier/double.png",
+
+    "Combos": "https://www.youtube.com/watch?v=DRzKz0R7n2U",
+    "Combos2": "https://www.youtube.com/watch?v=fZiOaS4vso0",
+    "Ataques": [
+      {
+        "nombreAtaque": "Luger Replica",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hornet Bomber",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flesh Step ",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Item Crash(In air) ",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cilia Slide",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/LKHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "False Intentions",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/HK.png",
+          "imagenes/ataquesSkullgitls/HP.png",
+          "imagenes/ataquesSkullgitls/MP.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Second Impact",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chimeram",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Bandwagon Rushdown (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Beast of Gehenna (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/kk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Catellite Lives (Lv. 2)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Nightmare Legion (Lv. 3)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Megalith Array (Lv. 5) (Air OK)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/2.png",
+          "imagenes/ataquesSkullgitls/2.png",
+
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+
+    "Nombre": "Robo-Fortune",
+    "Descripcion": "Robo-Fortune (Japanese: ロ ボ ・ フ ォ ー チ ュ ン), stylized as R. Fortune in the game, is a robot created by Brain Drain in the likeness of Nadia Fortune.",
+    "Animename": "Unknown",
+    "Gender": "None(female programming)",
+    "Size": "1,68cm",
+    "Weight": "199,5kg",
+    "Likes": "Honey Pots, Whole Numbers less than or equal to 1, Books on Dragons, NAND Gates, 0x5f3759df, Unwound Rope Loops, Mice, Rebeccapurple, IEEE (except after C!), Setplay.",
+    "NotLike": "Disorder, Incompatible file formats, DES, Passwords without salt (better salty taste!), Bleeding hearts, Weakly typed languages, vi, Typefaces that make O and 0 look too similar, Register without comments, Patterns Moiré.",
+    "History": "Brain Drain was reading Valentine's data while questioning his loyalty when he heard the attack with Valentine and the Skullgirl. However, when he read his notes on Nadia Fortune, he decided to make his own version of Nadia in robot form to demonstrate that she could do better than that stupid cat in those dumb drawings. ",
+    "Foto": "imagenes/PersonajesSkullGirls/Robo-Fortune.png",
+    "FotoTier":"imagenes/skullTier/robo-fortune.png",
+
+    "Combos": "https://www.youtube.com/watch?v=hHJ2kcr_rw0",
+    "Combos2": "https://www.youtube.com/watch?v=QLB_039OCw8",
+    "Ataques": [
+      {
+        "nombreAtaque": "Theonite Beam (Air OK)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Control Headrone",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Headrone RAM",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Headrone Impact",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Danger! Head Swap Action!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Danger! Flailing Arm Hazard!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Danger! Rotating Component Hazard!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Really Talks!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/HP.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/LP.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "No tiene",
+        "Animacion": []
+      },
+      {
+        "nombreAtaque": "No tienex2",
+        "Animacion": []
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Catastrophe Cannon",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Magnet Trap",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Systemic Circuit Breaker",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+
+    "Nombre": "Big Band",
+    "Descripcion": "Big Band (Japanese: ビ ッ グ バ ン ド), also known as Ben Birdland, was once a police officer in New Meridian, before being turned into a cyber weapon by Dr. Avian of Lab 8.",
+    "Animename": "One Man Band",
+    "Gender": "Male",
+    "Size": "2,31cm",
+    "Weight": "2267,962kg ",
+    "Likes": "A good beat, Bitumen, Brass enamel, 4-part harmony, Autumn leaves, The fifth floor, The spirit of the law, Gin, Clean up..",
+    "NotLike": "Punks, Corruption, Unresolved Dissonance, Carelessness, Electric Shavers, Smoothies, Narrow Spaces.",
+    "History": "Then remembering his past as a cop before receiving his current status in an iron lung; Pondering how the inconceivable New Meridian police force went to take a blow from the Medici Mafia and was left for dead, he chooses to end the current Skullgirl by destroying the source of his power, the Skull Heart, as part of her new career at Anti-Skullgirl Labs. Knowing the current Skullgirl's intent for the death of the entire Medici family, he begins his goal of tracking her down by investigating at the River King Casino, a hangout known to the Medici Mafia. There he is received by Cerebella, mistakenly believing that his intention was to cause harm to the Medici. Despite Big Band's attempt to politely leave her after noting that there was no evidence of the Skullgirl, he is forced to fight Cerebella. After winning, he comments on how he no longer wishes to lose as he also did with the Medici.",
+    "Foto": "imagenes/PersonajesSkullGirls/Big_Band.png",
+    "FotoTier":"imagenes/skullTier/bigband.png",
+
+    "Combos": "https://www.youtube.com/watch?v=ZpgBE8XVm7I",
+    "Combos2": "https://www.youtube.com/watch?v=85bVRzAowhY",
+    "Ataques": [
+      {
+        "nombreAtaque": "Beat Extend",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Brass Knuckles",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/6.png",
+
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Take the 'A' Train",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/6.png",
+
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Giant Step",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cymbal Clash (In air)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bagpipe Blues",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/HP.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/6.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "'A' Train Express",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Take Five",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Super-Sonic Jazz",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tympany Drive (In air) ",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Strike Up the Band",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Satchmo Solo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/2.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/2.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/LPMP.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+
+    "Nombre": "Parasoul",
+    "Descripcion": "Parasoul (Japanese: パ ラ ソ ー ル) is the princess of the Renoir family, of the rulers of the Canopy Kingdom, and Umbrella's older sister. She is the daughter of King Franz and Queen Nancy, the former Skullgirl, and wields the Living Weapon, Krieg, in battle. It is under the command of its elite military force, Garzas Negras.",
+    "Animename": "One Man Band",
+    "Gender": "Female",
+    "Size": "1,78cm",
+    "Weight": "70,7kg ",
+    "Likes": " Logic, Wine, Chess, Fencing, Training, Tennis, Diplomacy, Philosophy, Black Heron Troops, Secretly See The Glorious Annie: Star Symphony, Her sister Umbrella.",
+    "NotLike": "Too emotional people, Trusting others, Those who speak ill of their family, The injustice, The Medici Mafia, The Skullgirl, The pranks of Umbrella.",
+    "History": "Few know the terrors of the Skullgirl as intimately as Parasoul. Seven years ago her mother became the Skullgirl who almost destroyed the world. This tragic past has made Parasoul fiercely protective of his country and family, and these two priorities often conflict. Parasoul is now the Crown Princess of the Canopy Kingdom and the leader of her elite military squad, Black Herons. Wielding the Living Weapon, Krieg, she fights with grace, balance, and cunning to defend her family and destroy the Skull Heart so that no one can repeat her mother's terrible mistake.",
+    "Foto": "imagenes/PersonajesSkullGirls/Parasoul.png",
+    "FotoTier":"imagenes/skullTier/parasoul.png",
+
+    "Combos": "https://www.youtube.com/watch?v=4TaUr7reUT4",
+    "Combos2": "https://www.youtube.com/watch?v=RggB4wYnQ1w",
+    "Ataques": [
+      {
+        "nombreAtaque": "Napalm Toss (Air OK)  (up to 3 times for ground version)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Napalm Shot (HOLD)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Napalm Trigger/Quake/Pillar (HOLD)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/2.png",
+          "imagenes/ataquesSkullgitls/8.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Egret Call/Dive/Charge (HOLD)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bâillement",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/HP.png",
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/HK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Motorpool",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Banishment",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Silent Scope (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Motor Brigade (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Inferno Brigade (Lv. 3)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+
+    "Nombre": "Squigly",
+    "Descripcion": "Sienna Contiello, more commonly known as Squigly (Japanese: ス ク ィ グ リ ー), is a girl from the undead, she kept her family's sentimental thanks for her Parasite, Leviathan. Her parents were Roberto and Selene, the last one was a previous Skullgirl.",
+    "Animename": "Mezzo Soprano",
+    "Gender": "Female",
+    "Size": "1,60cm",
+    "Weight": "53,5kg ",
+    "Likes": "Leviathan, His family, Traditions, Read about current affairs, Animals (especially birds and snakes), Music, Sing, Noodles, Cream soda, Cakes, Burgers, The house, The smell of incense, Foam baths, Not to have died.",
+    "NotLike": "The Medici, Black Dahlia, Double, The Skull Heart, Rude People, Uncivilized Behavior, Dishonesty, Not Taking Karaoke Seriously, Storms, Being Dead.",
+    "History": "After waking up in New Meridian, Squigly sees Marie attack an airship containing Lorenzo Medici's escape with part of a building. Her reflections on Marie's apparent desire to protect innocent bystanders while focusing her fury on the Medici Mafia were interrupted by the arrival of Parasoul and the Black Herons, who (somewhat correctly) identified her as one of the Skullgirl's minions. . After fighting Parasoul, Squigly flees the scene, but not before using a copy of herself that appears to suggest that the Princess of the Canopy Kingdom focus her attention on Marie and her active minions.",
+    "Foto": "imagenes/PersonajesSkullGirls/Squigly.png",
+    "FotoTier":"imagenes/skullTier/squigly.png",
+
+    "Combos": "https://www.youtube.com/watch?v=pihM7biNdTk",
+    "Combos2": "https://www.youtube.com/watch?v=_HczwOtP4Fk",
+    "Ataques": [
+      {
+        "nombreAtaque": "Dragon’s Breath  (hold)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Draugen Punch",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tremolo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fallen Woman (In air)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Snake Charmer",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Rise From Your Grave",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Basso Buffo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Squigly Battle Opera",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Daisy Pusher",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/lplk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Inferno of Leviathan",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shun Goku Saltsu",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+
+          "imagenes/ataquesSkullgitls/HK.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+
+    "Nombre": "Painwheel",
+    "Descripcion": "Painwheel (Japanese: ペ イ ン ホ イ ー ル) was once a sweet, loving school girl named Carol (Japanese: キ ャ ロ ル) before her kidnapping and transformed into the monster she is today by Valentine and Brain Drain.",
+    "Animename": "Not Quite Condemned",
+    "Gender": "Female",
+    "Size": "1,55cm",
+    "Weight": "170kg ",
+    "Likes": "Flowers, Gardening, Walking on the beach at sunset, His family, The sound of wind chimes, Dogs, Nostalgic memories, His friends, The magenta color, The good protocol.",
+    "NotLike": "ASG Labs, Valentine, Brain Drain, The Skullgirl, The Skull Heart, People, Your Body, Mind Control, Torture, Pain, Frustration, Gossip, The sounds of Styrofoam, Loud noises, The bad word games.",
+    "History": "Once a normal schoolgirl named Carol, Painwheel was kidnapped by Valentine and surrenders to Secret Lab 0 and Anti-Skullgirls Labs. There, she implanted synthetic parasites with Buer Drive and Gae Bolga and infuses herself with the experimental blood of a Skullgirl, transforming her into the monster she is today. Violent and unstable as a result of these experiments, she is mentally controlled as a precautionary measure by Laboratory 0's powerful psychic director, Brain Drain.",
+    "Foto": "imagenes/PersonajesSkullGirls/Painwheel.png",
+    "FotoTier":"imagenes/skullTier/painwheel.png",
+
+    "Combos": "https://www.youtube.com/watch?v=_MQVb1AS1_A",
+    "Combos2": "https://www.youtube.com/watch?v=d5znoYSbL18",
+    "Ataques": [
+      {
+        "nombreAtaque": "Flight",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gae Bolga Stinger",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bluer Reaper (Air OK)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pinion Dash (Custom Action Only)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/2.png",
+
+          "imagenes/ataquesSkullgitls/2.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SMILE",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/HK.png",
+          "imagenes/ataquesSkullgitls/2.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Rail Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hatred Piston (During Hatred Install)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Snapdragon",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Buer Thresher (In air)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Crawl",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hatred Install",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Buer Overdrive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,725 @@
+.BotonSkull {
+  background-color: rgba(25, 65, 66, 0.63);
+  border: 4px white solid;
+  padding: 0.5vw;
+  box-shadow: inset 0 0 0 2px black;
+
+  width: 18vw;
+  padding-left: 2vw;
+  margin-right: -20%;
+  padding-right: 2vw;
+  color: white;
+  font-family: 'Lora', serif;
+
+}
+
+.BotonSkull2:hover {
+
+  background-color: rgba(72, 177, 179, 0.63);
+  font-weight: bold;
+
+}
+
+.BotonSkull2 {
+  background-color: rgba(25, 65, 66, 0.63);
+  border: 4px white solid;
+  padding: 0.5vw;
+  box-shadow: inset 0 0 0 2px black;
+
+  width: 75%;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  color: white;
+  font-family: 'Lora', serif;
+
+}
+
+
+@media screen and (min-device-width: 1024px) and (max-device-height: 579px) {
+  .BotonSkull {
+
+    width: auto;
+
+    margin-right: -110% !important;
+
+  }
+
+}
+
+.BotonSkull:hover {
+
+  background-color: rgba(72, 177, 179, 0.63);
+  font-weight: bold;
+
+}
+
+.DivBotonSkull2 {
+
+  margin-top: 3vw !important;
+
+}
+
+
+
+.imgAtaque {
+  height: 1.6vw !important;
+
+}
+
+.witdhgeneralSK {
+  width: 100%;
+}
+
+.DivGeneral {
+  color: black;
+  text-align: center;
+  position: relative;
+  background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/background.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+
+
+
+}
+
+/**/
+.pro {
+  background-color: rgba(72, 191, 196, 0.247);
+  color: white !important;
+
+  cursor: pointer;
+  -webkit-box-shadow: inset 0 0 0 2px black;
+  -moz-box-shadow: inset 0 0 0 2px black;
+  box-shadow: inset 0 0 0 2px black;
+
+
+}
+
+/*    outline: 2px white solid!important;
+background-color: rgba(128, 128, 128, 0.438);
+
+*/
+
+.bodySKULL {
+  border-bottom: 6px white solid !important;
+
+}
+
+th {
+  border: 6px solid rgb(255, 255, 255);
+  margin-bottom: 40px !important;
+
+}
+
+.TablaGeneral {
+  background-color: rgba(0, 0, 0, 0.692) !important;
+}
+
+.nombreAtaques {
+
+
+
+  -webkit-box-shadow: inset 0 0 0 3px cadetblue;
+  -moz-box-shadow: inset 0 0 0 3px cadetblue;
+  box-shadow: inset 0 0 0 3px cadetblue;
+
+
+}
+
+.TextoTitulo {
+  text-align: left !important;
+  min-width: 100% !important;
+  font-family: "myFont";
+  font-size: 6vw;
+  margin-left: 6vw;
+  margin-top: 1.5vw;
+  color: white;
+}
+
+
+
+.txtDescripcion {
+  color: rgb(255, 255, 255);
+  font-family: "myFont";
+  font-size: 2vw;
+  position: absolute;
+  top: 32%;
+  left: 89.4%;
+  transform: translate(-50%, -50%);
+
+}
+
+.NombreDesc {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+  font-weight: lighter;
+
+}
+
+
+.imgDescripcion {
+  margin-bottom: -10px;
+
+
+}
+
+.Descripcion {
+
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  text-align: center;
+
+  background-color: rgba(255, 255, 255, 0.466);
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+}
+
+.contenedor {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.fotoNombre {
+
+  margin-top: -50px;
+  margin-bottom: -10px;
+}
+
+.fotoNombrePers {
+
+  margin-top: -50px;
+  margin-bottom: -10px;
+  height: 13vw;
+
+}
+
+.CentradoTituloAtaque {
+  color: #f5e56f;
+  font-size: 30px;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+  font-family: 'PT Serif', serif;
+  font-family: "myFont";
+  text-shadow: 1px 1px 2px #ae3707, 0 0 1em #ae3707, 0 0 0.4em #ae3707;
+}
+
+.centrado {
+
+  font-family: 'PT Serif', serif;
+  font-size: 5vh;
+  font-weight: bold;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  bottom: -4vh;
+  font-size: 3.5vh;
+  box-sizing: border-box;
+  width: 250%;
+  margin-bottom: 3vh;
+  border-bottom: 3px solid black;
+
+  position: relative;
+  font-weight: bold;
+  /**/
+}
+
+@media screen and (max-device-width: 1027px) {
+  .centrado {
+    bottom: 5vh;
+
+  }
+
+  .BotonSkull {
+
+    width: auto;
+
+
+  }
+
+  .contenedor {
+    margin-top: 10%;
+  }
+
+
+}
+
+@font-face {
+  font-family: "myFont";
+  src: url("SelznickRemixNF.otf");
+}
+
+.ContainerSeparacion {
+
+  text-align: center;
+
+  background-color: rgba(255, 255, 255, 0.466);
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+
+
+}
+
+.pruebaskull {
+  width: 80%;
+  height: 80%;
+  text-align: center;
+  position: relative;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+
+.fotoSkulls {
+  margin-left: -5vw;
+
+  margin-top: 1.5vw;
+}
+
+.fondo2 {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+}
+
+.fondo1 {
+
+  background-color: rgba(0, 0, 0, 0);
+  height: 10vw;
+  text-align: center;
+
+
+}
+
+
+.imagenTitulo {
+  height: 10vw;
+  background-position: right right;
+  background-size: 100% 200% !important;
+  display: block;
+  background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)), url(https://steamcdn-a.akamaihd.net/steam/apps/574980/extras/steam_header.png?t=1589582752);
+  background-repeat: no-repeat;
+
+
+}
+
+@media screen and (max-device-width: 750px) {
+  .NavbarSkull {
+
+    display: none !important;
+  }
+
+
+}
+
+.imagenpaddin {
+  padding-top: 11vw;
+  width: 58vw;
+
+}
+
+
+
+
+@media screen and (max-device-width: 768px) and (min-device-height: 1024px) {
+
+  .imagenpaddin {
+
+
+    width: 38vw !important;
+  }
+
+  .centrado {
+    bottom: 3.5vh;
+    font-size: 2.5vh;
+  }
+
+  .NombreDesc {
+    font-size: 2vw !important;
+  }
+
+  .BotonSkull {
+    margin-right: -30%;
+
+  }
+}
+
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
+  .NavbarSkull {
+
+    display: none !important;
+  }
+
+  .NombreDesc {
+    font-size: 5vw !important;
+  }
+
+  /*iphone5*/
+  .centrado {
+    bottom: 0.5vh;
+    font-size: 3.5vh;
+  }
+
+  .ContainerSeparacion {
+
+    margin-left: 3vw !important;
+    min-width: 90% !important;
+  }
+
+  .AnchoSG {
+
+    margin-left: -15vw !important;
+    width: 150% !important;
+    overflow-x: auto;
+  }
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+  .NavbarSkull {
+
+    display: none !important;
+  }
+
+  /*iphone6/7/8*/
+  .centrado {
+    bottom: 2.5vh;
+    font-size: 2.5vh;
+  }
+
+  .ContainerSeparacion {
+    margin-right: 10px !important;
+    margin-left: 30px !important;
+
+  }
+
+  .witdhgeneralSK {
+    width: 90% !important;
+  }
+
+  .tablapruebraquetalmeva {
+
+    margin-left: -15vw !important;
+    width: 150% !important;
+    overflow-x: auto;
+
+  }
+}
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+  .NombreDesc {
+    font-size: 5vw !important;
+  }
+
+  .NavbarSkull {
+
+    display: none !important;
+  }
+
+  /*iphone6/7/8*/
+  .centrado {
+    bottom: 0.5vh;
+    font-size: 3.5vh;
+  }
+
+  .ContainerSeparacion {
+
+    margin-left: 6vw !important;
+    width: 90% !important;
+  }
+
+  .AnchoSG {
+
+    margin-left: -15vw !important;
+    width: 150% !important;
+    overflow-x: auto;
+  }
+
+}
+
+
+@media screen and (max-device-height: 823px) and (max-device-width: 411px) {
+  .witdhgeneralSK {
+    width: 84% !important;
+  }
+
+
+  .centrado {
+    bottom: 0.5vh;
+    font-size: 2.5vh;
+  }
+
+  .NavbarSkull {
+
+    display: none !important;
+  }
+
+  .ContainerSeparacion {
+
+    margin-left: 10vw !important;
+  }
+
+  .AnchoSG {
+
+    margin-left: -15vw !important;
+    width: 150% !important;
+    overflow-x: auto;
+  }
+
+  .NombreDesc {
+    font-size: 5vw !important;
+  }
+
+
+}
+
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
+
+  .NombreDesc {
+    font-size: 5vw !important;
+  }
+
+  .NavbarSkull {
+
+    display: none !important;
+  }
+
+  .witdhgeneralSK {
+    width: 84% !important;
+  }
+
+  .ContainerSeparacion {
+
+    margin-left: 10vw !important;
+  }
+
+  .AnchoSG {
+
+    margin-left: -15vw !important;
+    width: 150% !important;
+    overflow-x: auto;
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
+  .centrado {
+    bottom: 0.5vh;
+    font-size: 2.5vh;
+  }
+}
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+  .NombreDesc {
+    font-size: 5vw !important;
+  }
+
+  .NavbarSkull {
+
+    display: none !important;
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
+  /*MotoG4 GalazyG5*/
+  .centrado {
+    bottom: 0.5vh;
+    font-size: 2.5vh;
+  }
+
+  .witdhgeneralSK {
+    width: 91% !important;
+  }
+
+  .ContainerSeparacion {
+
+    margin-left: 7vw !important;
+  }
+
+  .AnchoSG {
+
+    margin-left: -15vw !important;
+    width: 150% !important;
+    overflow-x: auto;
+  }
+
+
+  .imagenpaddin {
+    margin-right: 2vw;
+  }
+
+
+
+
+
+}
+
+/*  .MuiTableContainer-root {
+    margin-left: -15vw!important;
+    width: 150%!important;
+    overflow-x: auto;
+}*/
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+
+  /*iphone X*/
+  .NavbarSkull {
+
+    display: none !important;
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
+  .centrado {
+    bottom: 0.5vh;
+    font-size: 2.5vh;
+  }
+
+}
+
+
+
+
+@media screen and (max-device-height: 1366px) and (min-device-width: 1024px) {
+  .centrado {
+    bottom: 3vh;
+    font-size: 3.5vh;
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
+  .imagenpaddin {
+    padding-top: 11vw;
+    width: 37vw;
+  }
+
+}
+
+@media screen and (min-device-width: 1025px) and (max-device-height: 579px) {
+  .centrado {
+    bottom: 9vh;
+    font-size: 3.5vh;
+
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
+  .imagenpaddin {
+    padding-top: 11vw;
+    width: 20vw;
+  }
+
+
+
+
+
+}
+
+@media screen and (max-device-height: 579px) and (min-device-width: 1240px) {
+  .centrado {
+    bottom: 15vh;
+    font-size: 3.5vh;
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
+  .imagenpaddin {
+    padding-top: 11vw;
+    width: 20vw;
+    margin-left: 160px;
+
+  }
+
+  .ContainerSeparacion {
+
+    margin-left: 7vw !important;
+    width: 90% !important;
+  }
+
+  .AnchoSG {
+
+    margin-left: -15vw !important;
+    width: 150% !important;
+    overflow-x: auto;
+  }
+
+  .padddingdetablasprueba {
+    margin-left: -92px !important;
+  }
+
+  .witdhgeneralSK {
+    width: 89% !important;
+  }
+}
+
+@media screen and (min-device-width: 1025px) {
+  .centrado {
+    bottom: -4vh;
+    font-size: 5vh;
+    box-sizing: border-box;
+    width: 250%;
+    margin-bottom: 3vh;
+    margin-top: 3vh;
+
+    border-bottom: 3px solid black;
+
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
+  .imagenpaddin {
+    padding-top: 11vw;
+    width: 20vw;
+  }
+
+  .NombreDesc {
+    font-size: 2vw !important;
+  }
+
+
+}

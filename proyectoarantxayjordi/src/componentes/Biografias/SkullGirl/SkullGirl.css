@@ -1,0 +1,553 @@
+.iconoSkull {
+    color: white;
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top: -0.5vw;
+    padding-top: -1vw;
+    cursor: pointer;
+}
+
+.DivIconSkull {
+
+    height: 4vw;
+    padding-top: 1vw;
+    padding-right: 1vw;
+}
+
+.BioDivTotalSG {
+
+
+    color: black;
+    text-align: center;
+    position: relative;
+    background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+
+
+.BioNombreSG {
+    color: white;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: "LetraSkullBio";
+    font-size: 5vw;
+}
+
+.BioImgyBioSG {
+
+    background-color: rgba(216, 203, 203, 0.589);
+    border: 4px white solid;
+    border-radius: 30px;
+    width: 80%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+}
+
+.BioImgSG {
+    height: 35vw;
+    padding-top: 1vw !important;
+    padding-bottom: 1vw !important;
+
+}
+
+.BIOCentrarColDivSG {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1vw;
+
+}
+
+.BiotituloSG {
+    font-family: "LetraSkullBio";
+    margin-left: auto;
+    margin-right: auto;
+
+    color: black;
+    font-size: 3vw;
+    border-bottom: 2px black solid;
+    width: 70%;
+
+}
+
+.BiotituloSG2 {
+    font-family: "LetraSkullBio";
+    margin-left: auto;
+    margin-right: auto;
+
+    color: black;
+    font-size: 3vw;
+    border-bottom: 2px black solid;
+    width: 20%;
+
+}
+
+.BioDescSG {
+
+    color: black;
+    font-size: 0.95vw;
+
+}
+
+.BIOtitulocombosSG {
+    border-bottom: 2px white solid;
+    width: 20%;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-family: "LetraSkullBio";
+    font-size: 3vw;
+}
+
+
+.derechaSG {
+    width: 50vw;
+    float: right;
+
+    margin-right: 9vw;
+}
+
+.izqSG {
+    width: 50vw;
+    margin-left: 4vw;
+
+
+}
+
+@font-face {
+    font-family: "LetraSkullBio";
+    src: url("SelznickRemixNF.otf");
+}
+
+
+
+
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+    .BioNombreSG {
+        font-size: 12vw;
+
+    }
+
+    .BioDescSG {
+        font-size: 4.5vw;
+
+    }
+
+    .BioImgSG {
+        height: 95vw;
+    }
+
+    .BiotituloSG {
+        font-size: 10vw;
+    }
+
+    .BiotituloSG {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BiotituloSG2 {
+        font-size: 9vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+        color: white;
+        border-bottom: 1px white solid;
+
+    }
+
+    .iconoSkull {
+        margin-top: 2vw;
+
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
+
+
+}
+
+
+
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
+
+    /*pixel*/
+    .BioNombreSG {
+        font-size: 12vw;
+
+    }
+
+    .BioDescSG {
+        font-size: 4.5vw;
+
+    }
+
+    .BioImgSG {
+        height: 95vw;
+    }
+
+    .BiotituloSG {
+        font-size: 10vw;
+    }
+
+    .BiotituloSG {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BiotituloSG2 {
+        font-size: 9vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+        color: white;
+        border-bottom: 1px white solid;
+
+    }
+
+    .iconoSkull {
+        margin-top: 2vw;
+
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
+
+
+}
+
+
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
+
+    /*iphone5*/
+    .BioNombreSG {
+        font-size: 12vw;
+
+    }
+
+    .BioDescSG {
+        font-size: 4.5vw;
+
+    }
+
+    .BioImgSG {
+        height: 95vw;
+    }
+
+    .BiotituloSG {
+        font-size: 10vw;
+    }
+
+    .BiotituloSG {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BiotituloSG2 {
+        font-size: 9vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+        color: white;
+        border-bottom: 1px white solid;
+
+    }
+
+    .iconoSkull {
+        margin-top: 2vw;
+
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
+
+
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+
+    /*iphone6/7/8*/
+    .BioNombreSG {
+        font-size: 12vw;
+
+    }
+
+    .BioDescSG {
+        font-size: 4.5vw;
+
+    }
+
+    .BioImgSG {
+        height: 95vw;
+    }
+
+    .BiotituloSG {
+        font-size: 10vw;
+    }
+
+    .BiotituloSG {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BiotituloSG2 {
+        font-size: 9vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+        color: white;
+        border-bottom: 1px white solid;
+
+    }
+
+    .iconoSkull {
+        margin-top: 2vw;
+
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
+
+
+}
+
+@media screen and (min-device-height: 1024px) and (max-device-width: 768px) {
+
+    .BioImgSG {
+        height: 55vw;
+        margin-top: 20vw;
+        margin-left: -3vw;
+
+    }
+
+    .iconoSkull {
+        font-size: 5vw !important;
+
+        margin-left: 1vw;
+        margin-top: 2vw;
+
+    }
+
+    .BioDescSG {
+        font-size: 2vw;
+
+    }
+
+    .BiotituloSG {
+        font-size: 5vw;
+    }
+
+    .BiotituloSG2 {
+        font-size: 5vw;
+        color: white;
+        border-bottom: 1px white solid;
+        padding-top: 1vw;
+    }
+}
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+
+    /*iphone6/7/8*/
+    .BioNombreSG {
+        font-size: 12vw;
+
+    }
+
+    .BioDescSG {
+        font-size: 4.5vw;
+
+    }
+
+    .BioImgSG {
+        height: 95vw;
+    }
+
+    .BiotituloSG {
+        font-size: 10vw;
+    }
+
+    .BiotituloSG {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BiotituloSG2 {
+        font-size: 9vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+        color: white;
+        border-bottom: 1px white solid;
+
+    }
+
+    .iconoSkull {
+        margin-top: 2vw;
+
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
+
+
+}
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+
+    /*iphone X*/
+    .BioNombreSG {
+        font-size: 12vw;
+
+    }
+
+    .BioDescSG {
+        font-size: 4.5vw;
+
+    }
+
+    .BioImgSG {
+        height: 95vw;
+    }
+
+    .BiotituloSG {
+        font-size: 10vw;
+    }
+
+    .BiotituloSG {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BiotituloSG2 {
+        font-size: 9vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+        color: white;
+        border-bottom: 1px white solid;
+
+    }
+
+    .iconoSkull {
+        margin-top: 2vw;
+
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
+
+
+
+}

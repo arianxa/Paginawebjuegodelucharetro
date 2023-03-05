@@ -1,0 +1,624 @@
+.imgAtaquekIL {
+  height: 1.6vw !important;
+}
+
+.centrarelemento {
+  justify-content: center !important;
+  width: 100%;
+}
+
+.DivKillintinct {
+  color: black;
+  text-align: center;
+  position: relative;
+  background: url("./descripcion-background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  width: 100% auto;
+}
+
+.bodyKI {
+  border-bottom: 6px white solid !important;
+  overflow: auto !important;
+}
+
+.rowGlobalKI {
+  margin: 0;
+}
+
+
+.botonSpan2{
+  width: 250%;
+  margin-right: 4vw;
+  margin-left: -4vw;
+}
+.botonTierKI{
+
+  padding-left: 31%!important;
+  padding-right: 31%!important;
+
+}
+/*
+.PersonajesKI {
+
+  background-image: url("./b-Aria.jpg") !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: black;
+  background-position: center center;
+
+  background-attachment: fixed;
+  height: 38.5vw;
+
+}
+*/
+.esconder {
+  display: block !important;
+  height: 42vw !important;
+}
+
+
+
+@media screen and (max-device-width: 1024px) and (min-device-height: 1366px) {
+
+
+  .AnchoKI {
+
+    width: 150% !important;
+    margin-left: -11vw !important;
+  }
+
+  .NombreKI {
+    margin-left: -11vw !important;
+
+  }
+
+  .botonSpan {
+    margin-right: -10vw !important;
+  }
+
+}
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+
+  /*MotoG4 GalazyG5*/
+  .AnchoKI {
+
+    margin-left: 2vw !important;
+  }
+
+  .NombreKI {
+    margin-left: 2vw !important;
+
+  }
+
+  .botonSpan {
+    margin-right: -1vw !important;
+  }
+
+  .TituloDescripcionKI {
+    margin-top: -2vw !important;
+
+
+  }
+
+  .Logo2KI {
+    display: none;
+  }
+
+  .TextoTitulokI {
+    margin-top: -5vw !important;
+  }
+
+
+}
+
+@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
+
+  /*pixel*/
+  .AnchoKI {
+
+    margin-left: 2vw !important;
+  }
+
+  .NombreKI {
+    margin-left: 2vw !important;
+
+  }
+
+  .botonSpan {
+    margin-right: -1vw !important;
+  }
+
+
+
+
+  .TituloDescripcionKI {
+    margin-top: -2vw !important;
+
+
+  }
+
+  .Logo2KI {
+    display: none;
+  }
+
+  .TextoTitulokI {
+    margin-top: -5vw !important;
+  }
+
+
+}
+
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
+
+  .AnchoKI {
+
+    margin-left: 2vw !important;
+  }
+
+  .NombreKI {
+    margin-left: 2vw !important;
+
+  }
+
+  .botonSpan {
+    margin-right: -1vw !important;
+  }
+
+  .TituloDescripcionKI {
+    margin-top: -2vw !important;
+
+
+  }
+
+  .Logo2KI {
+    display: none;
+  }
+
+  .TextoTitulokI {
+    margin-top: -5vw !important;
+  }
+
+
+}
+
+@media screen and (min-device-height: 823px) and (max-device-width: 411px) {
+  /*pixel xl*/
+
+  .AnchoKI {
+
+    margin-left: 2vw !important;
+  }
+
+  .NombreKI {
+    margin-left: 2vw !important;
+
+  }
+
+  .botonSpan {
+    margin-right: -1vw !important;
+  }
+
+  .TituloDescripcionKI {
+    margin-top: -2vw !important;
+
+
+  }
+
+  .Logo2KI {
+    display: none;
+  }
+
+  .TextoTitulokI {
+    margin-top: -5vw !important;
+  }
+
+
+}
+
+@media screen and (max-device-height: 568px) and (min-device-width: 320px) {
+  /*iphone5*/
+
+  /* .AnchoKI{
+
+    width: 110%!important;
+    margin-left: -2vw!important;
+  }
+  .NombreKI{
+    margin-left: -2vw!important;
+
+  }
+  .botonSpan{
+    margin-right: -5vw!important;
+  }*/
+
+
+}
+
+
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
+
+  /*iphone6/7/8*/
+  /*  .AnchoKI{
+
+    width: 120%!important;
+    margin-left: -2.5vw!important;
+  }
+  .NombreKI{
+    margin-left: -2.5vw!important;
+
+  }
+  .botonSpan{
+    margin-right: -12vw!important;
+  }*/
+
+}
+
+@media screen and (max-device-height: 812px) {}
+
+.NavbarKI {
+
+  margin-bottom: -2vw !important;
+}
+
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
+
+  .AnchoKI {
+
+    margin-left: 2vw !important;
+  }
+
+  .NombreKI {
+    margin-left: 2vw !important;
+
+  }
+
+  .botonSpan {
+    margin-right: 1 !important;
+  }
+
+
+  .TituloDescripcionKI {
+    margin-top: -2vw !important;
+
+
+  }
+
+  .Logo2KI {
+    display: none;
+  }
+
+  .TextoTitulokI {
+    margin-top: -5vw !important;
+  }
+
+
+}
+
+@media screen and (max-device-width: 768px) and (min-device-height: 1024px) {
+
+  .AnchoKI {
+
+    width: 150% !important;
+    margin-left: -11vw !important;
+  }
+
+  .NombreKI {
+    margin-left: -11vw !important;
+
+  }
+
+  .botonSpan {
+    margin-right: -10vw !important;
+  }
+
+  .LogoKiNav {
+    margin-left: 2vw !important;
+  }
+
+  .TextoTitulokI {
+
+    display: none !important;
+  }
+
+  .Logo2KI {
+    height: 10vw !important;
+  }
+
+  .degraKI {
+
+    margin-left: -2vw !important;
+  }
+
+
+}
+
+/*.NavbarKI{
+margin-top: 1vw!important;
+margin-bottom: -6vw!important;
+
+
+}
+
+.LogoKiNav{
+  display: none;
+}*/
+
+@media screen and (max-device-width: 1024px) {
+  .esconder {
+    display: none !important;
+    justify-content: center !important;
+    height: auto !important;
+  }
+
+  .imgAtaquekIL {
+    height: 3.6vw !important;
+
+  }
+
+  .tamañodelaiamgen {
+    height: auto !important;
+  }
+
+  .NombreKI {
+    font-size: 8vw !important;
+    margin-top: 2vw !important;
+    margin-bottom: 2vw !important;
+    margin-left: 2vw;
+
+  }
+
+  .pra2 {
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 5% !important;
+    display: inline-block !important;
+    text-align: center !important;
+
+  }
+
+  .NavbarKI {
+    margin-top: 1vw !important;
+    margin-bottom: -3vw !important;
+
+
+  }
+
+
+  .centrarelemento {
+    justify-content: center !important;
+  }
+
+  .fotoLogoKI {
+    margin-top: -0.5vw !important;
+  }
+
+  .ContainerKI {
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+
+
+  }
+
+  .btn-ki {
+    margin-bottom: 2vw !important;
+  }
+
+  .colorFondoAtaquesKI {
+    font-size: 3vw !important;
+
+  }
+
+
+  .btn-ki.large>span {
+    font-family: "FontT";
+    text-align: center;
+    padding: 2vw 0.2vw !important;
+    display: inline-block;
+    border: 2px solid #fff;
+    font-size: 2.5vw !important;
+
+  }
+
+}
+
+.responsiveTable td.pivoted {
+  padding-left: 3vh !important;
+}
+
+.nombreAtaquesKI {
+  -webkit-box-shadow: inset 0 0 0 3px cadetblue;
+  -moz-box-shadow: inset 0 0 0 3px cadetblue;
+  box-shadow: inset 0 0 0 3px cadetblue;
+  width: auto;
+}
+
+.fotoLogoKI {
+  margin-left: -3vw;
+
+  margin-top: 1vw;
+}
+
+.TextoTitulokI {
+  text-align: left !important;
+  min-width: 89% !important;
+  font-family: "FontT";
+  margin-left: 3vw;
+  margin-top: 1.7vw;
+  font-size: 1vw;
+  color: white;
+}
+
+.TituloDescripcionKI {
+  text-align: center;
+  font-family: "FontT";
+}
+
+.FondoDescripcionKI {
+  background-image: url("./descripcion-background.jpg") !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  background-position: center center;
+
+  background-attachment: fixed;
+  height: 8.5vw;
+}
+
+.pruebacontainer {
+  overflow-x: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.tamañodelaiamgen {
+  height: 42vw !important;
+}
+
+.borderprueba {
+  border: 6px white solid !important;
+}
+
+/*
+@media screen and (max-device-width: 1027px) {
+  .tamañodelaiamgen {
+    height: 50vh !important;
+  }
+}
+*/
+
+.btn-ki.large>span>span {
+  min-width: 32.59452vw;
+  margin: 1px 3px !important;
+  margin-top: 0 !important;
+  background-image: url(./bkg-btn-ki-large.png);
+  line-height: 2vw;
+  padding: 5px;
+  background-repeat: repeat;
+  border: 1px solid #44d4d9;
+}
+
+.pra1 {
+  margin-left: -20vw !important;
+}
+
+.pra2 {
+  margin-left: 5vw !important
+}
+
+.ContainerKI {
+  padding-right: 0 !important;
+  margin-right: 0 !important;
+}
+
+.btn-ki.large>span {
+  font-family: "FontT";
+  text-align: center;
+  padding: 0.2vw 0.2vw;
+  display: inline-block;
+  border: 2px solid #fff;
+}
+
+.btn-ki.large {
+
+  padding: 0;
+  border: none;
+  color: #fff;
+  display: block;
+}
+
+.pra {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.colorFondoAtaquesKI {
+  background-color: rgba(72, 191, 196, 0.247);
+  color: white !important;
+
+  -webkit-box-shadow: inset 0 0 0 2px black;
+  -moz-box-shadow: inset 0 0 0 2px black;
+  box-shadow: inset 0 0 0 2px black;
+  cursor: pointer;
+}
+
+.T {
+  background-color: rgba(0, 0, 0, 0.137) !important;
+}
+
+.rune {
+  position: relative;
+  height: 25.7vw;
+  width: auto;
+
+  left: -12vw !important;
+}
+
+/*  height:79.5vh;*/
+.character {
+  position: relative;
+  bottom: 24vw;
+  right: 12vw !important;
+  height: 40.2vw;
+  width: auto;
+  z-index: 2;
+}
+
+.character:hover,
+.rune {
+  transform: translate(-30px, 0px);
+  -ms-transform: translate(-30px, 0px);
+  -moz-transform: translate(-30px, 0px);
+  -webkit-transform: translate(-30px, 0px);
+  -o-transform: translate(-30px, 0px);
+}
+
+@font-face {
+  font-family: "FontT";
+  src: url("American\ Captain.otf");
+}
+
+.NombreKI {
+  font-family: "FontT";
+  color: white;
+  font-size: 4vw;
+  text-align: left;
+}
+
+.rowKill {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px !important;
+  margin-right: 0px !important;
+}
+
+@media screen and (max-height: 579px) and (min-width: 1240px) {
+  .character {
+    right: 1vw !important;
+  }
+
+  .rune {
+
+    left: 2vw !important;
+  }
+}
+
+
+
+
+.botonmargenes {
+  margin-left: auto;
+  margin-right: auto;
+}
